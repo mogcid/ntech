@@ -25,6 +25,9 @@
   .pack .meta { color: var(--muted); font-size: 13px; }
   .pack p { margin: 10px 0 0; font-size: 14px; }
   .count { color: var(--accent); font-weight: 600; font-size: 13px; margin-top: 10px; }
+  details.more { margin-top: 8px; font-size: 14px; }
+  details.more summary { color: var(--accent); cursor: pointer; font-size: 13px; }
+  details.more div { white-space: pre-line; margin-top: 8px; color: var(--fg); }
   #launcher-count { color: var(--muted); font-size: 13px; margin-top: 6px; min-height: 1em; }
   ol { color: var(--muted); }
   ol b { color: var(--fg); }
@@ -79,7 +82,16 @@
       const m = document.createElement("div"); m.className = "meta"; m.textContent = `Minecraft ${p.mc} · version ${p.version}`;
       const s = document.createElement("p"); s.textContent = p.summary || "";
       const n = document.createElement("div"); n.className = "count";
-      el.append(h, m, s, n);
+      el.append(h, m, s);
+      if (p.about && p.about.trim() !== (p.summary || "").trim()) {  // description complète, repliée
+        const more = document.createElement("details"); more.className = "more";
+        const label = document.createElement("summary"); label.textContent = "Lire la suite";
+        const full = document.createElement("div"); full.textContent = p.about;
+        more.addEventListener("toggle", () => { label.textContent = more.open ? "Réduire" : "Lire la suite"; });
+        more.append(label, full);
+        el.append(more);
+      }
+      el.append(n);
       box.append(el);
       counts.then(c => { const v = c && c.packs[p.slug]; if (v) n.textContent = `⬇ ${fmt(v)} installations`; });
     }
