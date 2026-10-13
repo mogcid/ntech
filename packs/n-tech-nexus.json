@@ -1543,10 +1543,10 @@
  ],
  "own": [
   {
-   "file": "packforge-0.25.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/packforge-0.25.0.jar",
-   "sha1": "b28c5feef413ffbd0038f8cec6093a0d5a2800f5",
-   "size": 455962
+   "file": "packforge-0.25.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/packforge-0.25.1.jar",
+   "sha1": "7d326611a09e950cee80f73e203352326a9be982",
+   "size": 456910
   },
   {
    "file": "pfmachines-0.20.0.jar",
@@ -1555,16 +1555,16 @@
    "size": 523398
   },
   {
-   "file": "pftools-0.9.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/pftools-0.9.0.jar",
-   "sha1": "6004262118b041f04c6fcb23b43ca26f5abe771a",
-   "size": 264803
+   "file": "pftools-0.9.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/pftools-0.9.1.jar",
+   "sha1": "213614b697cb14aa59fc447195da863cdb5ee95c",
+   "size": 265007
   }
  ],
  "overrides": {
   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/n-tech-nexus-1.0.0-overrides.zip",
-  "sha1": "22d9ffe6f96ac50ed8c8247daf3dee959b4143b8",
-  "size": 6087489
+  "sha1": "93b52e408787e35a6ce17b879101d9b4140db2a3",
+  "size": 6800950
  },
  "license": {
   "pack": "n-tech-nexus",
