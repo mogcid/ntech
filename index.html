@@ -15,6 +15,7 @@
   .dl { display: inline-block; margin-top: 24px; background: var(--accent); color: #fff; text-decoration: none;
         padding: 14px 28px; border-radius: 10px; font-weight: 600; font-size: 18px; }
   .dl:hover { filter: brightness(1.1); }
+  .discord { background: #5865f2; margin-left: 8px; }
   .small { color: var(--muted); font-size: 13px; margin-top: 8px; }
   main { max-width: 960px; margin: 0 auto; padding: 0 16px 64px; }
   h2 { font-size: 22px; margin: 32px 0 12px; }
@@ -23,6 +24,8 @@
   .pack h3 { margin: 0 0 4px; }
   .pack .meta { color: var(--muted); font-size: 13px; }
   .pack p { margin: 10px 0 0; font-size: 14px; }
+  .count { color: var(--accent); font-weight: 600; font-size: 13px; margin-top: 10px; }
+  #launcher-count { color: var(--muted); font-size: 13px; margin-top: 6px; min-height: 1em; }
   ol { color: var(--muted); }
   ol b { color: var(--fg); }
 </style>
@@ -32,7 +35,10 @@
   <h1><span>N-TECH</span> MODPACKS</h1>
   <div class="tag">Des modpacks techniques, avec nos propres machines, outils et quêtes.</div>
   <a class="dl" href="https://github.com/mogcid/ntech/releases/download/launcher/NTechLauncher.exe">⬇ Télécharger le N-Tech Launcher</a>
+  <a class="dl discord" href="https://discord.gg/6bSGk2SyXJ">💬 Rejoindre le Discord</a>
+  <div id="launcher-count"></div>
   <div class="small">Windows · gratuit · Java installé automatiquement</div>
+  <div class="small">Windows peut afficher « éditeur inconnu » : clique sur <b>Informations complémentaires</b> puis <b>Exécuter quand même</b>.</div>
 </header>
 <main>
   <h2>Les modpacks</h2>
@@ -45,6 +51,24 @@
   </ol>
 </main>
 <script>
+  // Compteurs : GitHub compte les téléchargements de chaque fichier publié (releases du dépôt)
+  const fmt = (n) => n.toLocaleString("fr-FR");
+  const counts = fetch("https://api.github.com/repos/mogcid/ntech/releases?per_page=100")
+    .then(r => r.ok ? r.json() : [])
+    .then(releases => {
+      const out = { launcher: 0, packs: {} };
+      for (const rel of releases) {
+        for (const a of rel.assets || []) {
+          if (a.name === "NTechLauncher.exe") out.launcher += a.download_count;
+          const m = a.name.match(/^(.*)-[^-]+-overrides\.zip$/);  // un fichier du pack = une installation ou mise à jour
+          if (m) out.packs[m[1]] = (out.packs[m[1]] || 0) + a.download_count;
+        }
+      }
+      return out;
+    }).catch(() => null);
+  counts.then(c => {
+    if (c && c.launcher) document.getElementById("launcher-count").textContent = `${fmt(c.launcher)} téléchargements du lanceur`;
+  });
   fetch("packs.json", { cache: "no-store" }).then(r => r.json()).then(d => {
     const box = document.getElementById("packs");
     box.innerHTML = "";
@@ -54,8 +78,10 @@
       const h = document.createElement("h3"); h.textContent = p.name;
       const m = document.createElement("div"); m.className = "meta"; m.textContent = `Minecraft ${p.mc} · version ${p.version}`;
       const s = document.createElement("p"); s.textContent = p.summary || "";
-      el.append(h, m, s);
+      const n = document.createElement("div"); n.className = "count";
+      el.append(h, m, s, n);
       box.append(el);
+      counts.then(c => { const v = c && c.packs[p.slug]; if (v) n.textContent = `⬇ ${fmt(v)} installations`; });
     }
     if (!box.children.length) box.innerHTML = '<div class="pack">Bientôt !</div>';
   }).catch(() => { document.getElementById("packs").innerHTML = '<div class="pack">Liste indisponible.</div>'; });
