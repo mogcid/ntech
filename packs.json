@@ -1,0 +1,12 @@
+{
+ "packs": [
+  {
+   "slug": "n-tech-industrie",
+   "name": "N-Tech GT",
+   "version": "1.0.0",
+   "mc": "1.21.1",
+   "summary": "Progression longue par paliers (style GregTech, plus accessible) : Modern Industrialization, multiblocs PackForge, filons, mana et cristaux.",
+   "manifest": "packs/n-tech-industrie.json"
+  }
+ ]
+}
