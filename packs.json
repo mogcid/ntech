@@ -8,5 +8,9 @@
    "summary": "Progression longue par paliers (style GregTech, plus accessible) : Modern Industrialization, multiblocs PackForge, filons, mana et cristaux.",
    "manifest": "packs/n-tech-industrie.json"
   }
- ]
+ ],
+ "launcher": {
+  "version": "1.0.1",
+  "url": "https://github.com/mogcid/ntech/releases/download/launcher/NTechLauncher.exe"
+ }
 }
