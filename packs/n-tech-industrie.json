@@ -4,7 +4,8 @@
  "version": "1.0.0",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.259",
- "summary": "Progression longue par paliers (style GregTech, plus accessible) : Modern Industrialization, multiblocs PackForge, filons, mana et cristaux.",
+ "summary": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.",
+ "about": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.\nDéveloppez votre industrie avec Modern Industrialization et les multiblocs personnalisés de PackForge. Exploitez les filons de minerais, maîtrisez le mana et utilisez les cristaux pour franchir chaque étape.\nAutomatisez vos chaînes de production, centralisez vos ressources avec Applied Energistics 2 et augmentez vos capacités énergétiques pour relever les défis du pack.\nDu premier filon aux grands complexes industriels, chaque palier ouvre de nouvelles possibilités !",
  "ramGB": 8,
  "mods": [
   {
@@ -292,8 +293,8 @@
  ],
  "overrides": {
   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.0/n-tech-industrie-1.0.0-overrides.zip",
-  "sha1": "85b5ae34e783ddcfe5108566bcedba868f9975ed",
-  "size": 1146779
+  "sha1": "99b8c5a258688c1d21befbb6eade6ad2c35ae22a",
+  "size": 1162445
  },
  "license": {
   "pack": "n-tech-industrie",
