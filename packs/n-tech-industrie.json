@@ -1,0 +1,346 @@
+{
+ "slug": "n-tech-industrie",
+ "name": "N-Tech GT",
+ "version": "1.0.0",
+ "mc": "1.21.1",
+ "loader": "neoforge-21.1.259",
+ "summary": "Progression longue par paliers (style GregTech, plus accessible) : Modern Industrialization, multiblocs PackForge, filons, mana et cristaux.",
+ "ramGB": 8,
+ "mods": [
+  {
+   "name": "Almost Unified",
+   "file": "almostunified-neoforge-1.21.1-1.4.2.jar",
+   "side": "both",
+   "sha1": "f9a58fa95780f4b045d30559c1fdaedaa7f0fba3",
+   "size": 295093,
+   "url": "https://edge.forgecdn.net/files/8127/603/almostunified-neoforge-1.21.1-1.4.2.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/almostunified/files/8127603"
+  },
+  {
+   "name": "AppleSkin",
+   "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
+   "side": "both",
+   "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+   "size": 75804,
+   "url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/appleskin/files/7854442"
+  },
+  {
+   "name": "Applied Energistics 2",
+   "file": "appliedenergistics2-19.2.18.jar",
+   "side": "both",
+   "sha1": "bcd04bc7f181b2ffa314625f284c8eca6fee7fe4",
+   "size": 8236552,
+   "url": "https://edge.forgecdn.net/files/8992/605/appliedenergistics2-19.2.18.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/8992605"
+  },
+  {
+   "name": "Applied Energistics 2 Wireless Terminals",
+   "file": "ae2wtlib-19.5.1.jar",
+   "side": "both",
+   "sha1": "b1bee01393b15f1eb0f46d58862ef99234e1d337",
+   "size": 252091,
+   "url": "https://edge.forgecdn.net/files/8450/398/ae2wtlib-19.5.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals/files/8450398"
+  },
+  {
+   "name": "Architectury API",
+   "file": "architectury-13.0.11-neoforge.jar",
+   "side": "both",
+   "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+   "size": 584734,
+   "url": "https://edge.forgecdn.net/files/8492/726/architectury-13.0.11-neoforge.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/8492726"
+  },
+  {
+   "name": "Better Advanced Tooltips",
+   "file": "better-advanced-tooltips-2101.1.0-build.5.jar",
+   "side": "both",
+   "sha1": "5b73537b908764f2d3fd593a0f56a8b1b034bc50",
+   "size": 37653,
+   "url": "https://edge.forgecdn.net/files/8576/77/better-advanced-tooltips-2101.1.0-build.5.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/better-advanced-tooltips/files/8576077"
+  },
+  {
+   "name": "Configuration",
+   "file": "configuration-neoforge-1.21.1-3.1.1.jar",
+   "side": "both",
+   "sha1": "2c968fd3add0f699f3493c073c22bfd31dbd606e",
+   "size": 423189,
+   "url": "https://edge.forgecdn.net/files/6779/573/configuration-neoforge-1.21.1-3.1.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/configuration/files/6779573"
+  },
+  {
+   "name": "FTB Chunks (NeoForge)",
+   "file": "ftb-chunks-neoforge-2101.1.22.jar",
+   "side": "both",
+   "sha1": "a53f1bb7965c6954a348d4f321f03d3971ad503f",
+   "size": 655807,
+   "url": "https://edge.forgecdn.net/files/8791/113/ftb-chunks-neoforge-2101.1.22.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge/files/8791113"
+  },
+  {
+   "name": "FTB Library (NeoForge)",
+   "file": "ftb-library-neoforge-2101.1.37.jar",
+   "side": "both",
+   "sha1": "b6e503587afcd678ec257e4abdc6362ff18c2fef",
+   "size": 1439881,
+   "url": "https://edge.forgecdn.net/files/9008/89/ftb-library-neoforge-2101.1.37.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/9008089"
+  },
+  {
+   "name": "FTB Quests (NeoForge)",
+   "file": "ftb-quests-neoforge-2101.1.36.jar",
+   "side": "both",
+   "sha1": "b2ede29b98a3022c22065fbe9b1761e385a28683",
+   "size": 1609984,
+   "url": "https://edge.forgecdn.net/files/8885/17/ftb-quests-neoforge-2101.1.36.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files/8885017"
+  },
+  {
+   "name": "FTB Teams (NeoForge)",
+   "file": "ftb-teams-neoforge-2101.1.11.jar",
+   "side": "both",
+   "sha1": "62b65f752d0326edd13244e58d5f2aec035da4e9",
+   "size": 308236,
+   "url": "https://edge.forgecdn.net/files/8724/782/ftb-teams-neoforge-2101.1.11.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files/8724782"
+  },
+  {
+   "name": "FTB Ultimine (NeoForge)",
+   "file": "ftb-ultimine-neoforge-2101.1.15.jar",
+   "side": "both",
+   "sha1": "c96a7cc0b52bf919660ea61c1536cebd9d5773b3",
+   "size": 177109,
+   "url": "https://edge.forgecdn.net/files/8231/400/ftb-ultimine-neoforge-2101.1.15.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge/files/8231400"
+  },
+  {
+   "name": "FTB XMod Compat",
+   "file": "ftb-xmod-compat-neoforge-21.1.12.jar",
+   "side": "both",
+   "sha1": "1f68bf714cf7ea3e07b23c6b8c1ebe516b325047",
+   "size": 148575,
+   "url": "https://edge.forgecdn.net/files/8909/889/ftb-xmod-compat-neoforge-21.1.12.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat/files/8909889"
+  },
+  {
+   "name": "Functional Storage",
+   "file": "functionalstorage-1.21.1-1.5.8.jar",
+   "side": "both",
+   "sha1": "f5978bb49b71e94d7063502c0fad0202ebbefbcc",
+   "size": 810628,
+   "url": "https://edge.forgecdn.net/files/8459/97/functionalstorage-1.21.1-1.5.8.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/functional-storage/files/8459097"
+  },
+  {
+   "name": "GregTech Modern Reborn",
+   "file": "gtceu-1.21.1-8.1.0.jar",
+   "side": "both",
+   "sha1": "2bea26bf65ed6948f7d265750a46da7cd7682676",
+   "size": 17240228,
+   "url": "https://edge.forgecdn.net/files/7627/991/gtceu-1.21.1-8.1.0.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/gregtech-modern-reborn/files/7627991"
+  },
+  {
+   "name": "GuideME",
+   "file": "guideme-21.1.19.jar",
+   "side": "both",
+   "sha1": "e85cd4c266f974dd360c46e8dad7ecf4c7ee96c6",
+   "size": 9311992,
+   "url": "https://edge.forgecdn.net/files/8897/145/guideme-21.1.19.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/guideme/files/8897145"
+  },
+  {
+   "name": "Jade 🔍",
+   "file": "Jade-1.21.1-NeoForge-15.10.6.jar",
+   "side": "both",
+   "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+   "size": 726853,
+   "url": "https://edge.forgecdn.net/files/8591/319/Jade-1.21.1-NeoForge-15.10.6.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/jade/files/8591319"
+  },
+  {
+   "name": "Just Enough Items (JEI)",
+   "file": "jei-1.21.1-neoforge-19.57.0.451.jar",
+   "side": "both",
+   "sha1": "d639d83bf108b258e722a53f40a41a69e83f8ca6",
+   "size": 2253017,
+   "url": "https://edge.forgecdn.net/files/9068/136/jei-1.21.1-neoforge-19.57.0.451.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/jei/files/9068136"
+  },
+  {
+   "name": "KubeJS",
+   "file": "kubejs-neoforge-2101.7.2-build.377.jar",
+   "side": "both",
+   "sha1": "150c5d6efc09b969ac350ea205128dff832e0850",
+   "size": 2294111,
+   "url": "https://edge.forgecdn.net/files/8843/626/kubejs-neoforge-2101.7.2-build.377.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/kubejs/files/8843626"
+  },
+  {
+   "name": "LDLib",
+   "file": "ldlib-neoforge-1.21.1-1.0.35.a.jar",
+   "side": "both",
+   "sha1": "f7a7fd8f90d922b611ee8a2e211c92d5ae1d8fb5",
+   "size": 2668485,
+   "url": "https://edge.forgecdn.net/files/6260/254/ldlib-neoforge-1.21.1-1.0.35.a.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ldlib/files/6260254"
+  },
+  {
+   "name": "Modern Industrialization",
+   "file": "Modern-Industrialization-2.5.10.jar",
+   "side": "both",
+   "sha1": "7f62032ad45a996cd4964a03c5359a5f86a55a54",
+   "size": 7292458,
+   "url": "https://edge.forgecdn.net/files/9091/242/Modern-Industrialization-2.5.10.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/modern-industrialization/files/9091242"
+  },
+  {
+   "name": "Mouse Tweaks",
+   "file": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+   "side": "client",
+   "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+   "size": 73938,
+   "url": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/5637846"
+  },
+  {
+   "name": "Rhino",
+   "file": "rhino-2101.2.7-build.85.jar",
+   "side": "both",
+   "sha1": "370598a1d2321c8a705ce539eb970375f20150c3",
+   "size": 882075,
+   "url": "https://edge.forgecdn.net/files/8218/748/rhino-2101.2.7-build.85.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/rhino/files/8218748"
+  },
+  {
+   "name": "Sophisticated Backpacks",
+   "file": "sophisticatedbackpacks-1.21.1-3.26.12.2208.jar",
+   "side": "both",
+   "sha1": "ef59863d328e4e949bdaf75f65412d1048b3f9e1",
+   "size": 1247031,
+   "url": "https://edge.forgecdn.net/files/9154/769/sophisticatedbackpacks-1.21.1-3.26.12.2208.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/9154769"
+  },
+  {
+   "name": "Sophisticated Core",
+   "file": "sophisticatedcore-1.21.1-1.5.11.2394.jar",
+   "side": "both",
+   "sha1": "32e00ec70a779277fe2e2e36734c9e08040a2422",
+   "size": 1818063,
+   "url": "https://edge.forgecdn.net/files/9151/337/sophisticatedcore-1.21.1-1.5.11.2394.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/9151337"
+  },
+  {
+   "name": "Sophisticated Storage",
+   "file": "sophisticatedstorage-1.21.1-1.6.5.2176.jar",
+   "side": "both",
+   "sha1": "6c7b56e22803e06dddb572c64444e5baea664b4f",
+   "size": 1929974,
+   "url": "https://edge.forgecdn.net/files/9154/831/sophisticatedstorage-1.21.1-1.6.5.2176.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/9154831"
+  },
+  {
+   "name": "Titanium",
+   "file": "titanium-1.21-4.0.43.jar",
+   "side": "both",
+   "sha1": "e2f62d1bcdd38dd91679a2114e9946d9415746ee",
+   "size": 605765,
+   "url": "https://edge.forgecdn.net/files/7951/516/titanium-1.21-4.0.43.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/titanium/files/7951516"
+  },
+  {
+   "name": "Xaero's Minimap",
+   "file": "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+   "side": "both",
+   "sha1": "551e8e2aa3498b506cc949a74606cdc0380e5e00",
+   "size": 2186351,
+   "url": "https://edge.forgecdn.net/files/9067/173/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/9067173"
+  },
+  {
+   "name": "Xaero's World Map",
+   "file": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+   "side": "both",
+   "sha1": "2936c9cb9dfbdab145fe6f1e8ae2c68915246a5f",
+   "size": 1427078,
+   "url": "https://edge.forgecdn.net/files/9067/277/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/9067277"
+  }
+ ],
+ "manualMods": [],
+ "own": [
+  {
+   "file": "packforge-0.25.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.0/packforge-0.25.0.jar",
+   "sha1": "b28c5feef413ffbd0038f8cec6093a0d5a2800f5",
+   "size": 455962
+  },
+  {
+   "file": "pfmachines-0.20.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.0/pfmachines-0.20.0.jar",
+   "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
+   "size": 523398
+  },
+  {
+   "file": "pftools-0.9.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.0/pftools-0.9.0.jar",
+   "sha1": "6004262118b041f04c6fcb23b43ca26f5abe771a",
+   "size": 264803
+  }
+ ],
+ "overrides": {
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.0/n-tech-industrie-1.0.0-overrides.zip",
+  "sha1": "85b5ae34e783ddcfe5108566bcedba868f9975ed",
+  "size": 1146779
+ },
+ "license": {
+  "pack": "n-tech-industrie",
+  "mods": [
+   "ae2",
+   "ae2wtlib",
+   "almostunified",
+   "appleskin",
+   "architectury",
+   "betteradvancedtooltips",
+   "configuration",
+   "ftbchunks",
+   "ftblibrary",
+   "ftbquests",
+   "ftbteams",
+   "ftbultimine",
+   "ftbxmodcompat",
+   "functionalstorage",
+   "gtceu",
+   "guideme",
+   "jade",
+   "jei",
+   "kubejs",
+   "ldlib",
+   "modern_industrialization",
+   "packforge",
+   "pfmachines",
+   "pftools",
+   "rhino",
+   "sophisticatedbackpacks",
+   "sophisticatedcore",
+   "sophisticatedstorage",
+   "titanium",
+   "xaerominimap",
+   "xaeroworldmap"
+  ],
+  "sig": "MXFyHSPgDSf32iApxoznBlrVxCFKylxY8dWYj/d/5ewjSwrx4MwtvTgCRdVQ/awJHXwUnmkaouvmWkoRn+ZDBQ=="
+ },
+ "managedDirs": [
+  "packforge/datapack",
+  "packforge/resourcepack",
+  "packforge/unify",
+  "packforge/branding",
+  "packforge/statues",
+  "packforge/crystals",
+  "packforge/crops",
+  "config/ftbquests/quests",
+  "config/mysticalcustomization/crops"
+ ]
+}
