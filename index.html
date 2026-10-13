@@ -56,10 +56,13 @@
 <script>
   // Compteurs : GitHub compte les téléchargements de chaque fichier publié (releases du dépôt)
   const fmt = (n) => n.toLocaleString("fr-FR");
-  const counts = fetch("https://api.github.com/repos/mogcid/ntech/releases?per_page=100")
-    .then(r => r.ok ? r.json() : [])
-    .then(releases => {
-      const out = { launcher: 0, packs: {} };
+  // packs.json garde les téléchargements des fichiers remplacés (GitHub remet à zéro un fichier republié)
+  const index = fetch("packs.json", { cache: "no-store" }).then(r => r.json());
+  const counts = Promise.all([fetch("https://api.github.com/repos/mogcid/ntech/releases?per_page=100")
+    .then(r => r.ok ? r.json() : []).catch(() => []), index.catch(() => ({}))])
+    .then(([releases, idx]) => {
+      const kept = idx.downloads || {};
+      const out = { launcher: kept.launcher || 0, packs: Object.assign({}, kept.packs || {}) };
       for (const rel of releases) {
         for (const a of rel.assets || []) {
           if (a.name === "NTechLauncher.exe") out.launcher += a.download_count;
@@ -70,9 +73,9 @@
       return out;
     }).catch(() => null);
   counts.then(c => {
-    if (c && c.launcher) document.getElementById("launcher-count").textContent = `${fmt(c.launcher)} téléchargements du lanceur`;
+    if (c) document.getElementById("launcher-count").textContent = `${fmt(c.launcher)} téléchargement${c.launcher > 1 ? "s" : ""} du lanceur`;
   });
-  fetch("packs.json", { cache: "no-store" }).then(r => r.json()).then(d => {
+  index.then(d => {
     const box = document.getElementById("packs");
     box.innerHTML = "";
     for (const p of d.packs || []) {
@@ -93,7 +96,7 @@
       }
       el.append(n);
       box.append(el);
-      counts.then(c => { const v = c && c.packs[p.slug]; if (v) n.textContent = `⬇ ${fmt(v)} installations`; });
+      counts.then(c => { if (!c) return; const v = c.packs[p.slug] || 0; n.textContent = `⬇ ${fmt(v)} installation${v > 1 ? "s" : ""}`; });
     }
     if (!box.children.length) box.innerHTML = '<div class="pack">Bientôt !</div>';
   }).catch(() => { document.getElementById("packs").innerHTML = '<div class="pack">Liste indisponible.</div>'; });
