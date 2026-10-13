@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>N-Tech Modpacks</title>
+<style>
+  :root { --bg: #14161c; --panel: #1d2029; --fg: #e8e8ee; --muted: #8b90a0; --accent: #7a5cff; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.5 "Segoe UI", system-ui, sans-serif; }
+  header { padding: 56px 16px 32px; text-align: center; }
+  h1 { margin: 0; font-size: clamp(32px, 7vw, 56px); letter-spacing: 2px; }
+  h1 span { color: var(--accent); }
+  .tag { color: var(--muted); margin-top: 8px; }
+  .dl { display: inline-block; margin-top: 24px; background: var(--accent); color: #fff; text-decoration: none;
+        padding: 14px 28px; border-radius: 10px; font-weight: 600; font-size: 18px; }
+  .dl:hover { filter: brightness(1.1); }
+  .small { color: var(--muted); font-size: 13px; margin-top: 8px; }
+  main { max-width: 960px; margin: 0 auto; padding: 0 16px 64px; }
+  h2 { font-size: 22px; margin: 32px 0 12px; }
+  .packs { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+  .pack { background: var(--panel); border-radius: 12px; padding: 18px; }
+  .pack h3 { margin: 0 0 4px; }
+  .pack .meta { color: var(--muted); font-size: 13px; }
+  .pack p { margin: 10px 0 0; font-size: 14px; }
+  ol { color: var(--muted); }
+  ol b { color: var(--fg); }
+</style>
+</head>
+<body>
+<header>
+  <h1><span>N-TECH</span> MODPACKS</h1>
+  <div class="tag">Des modpacks techniques, avec nos propres machines, outils et quêtes.</div>
+  <a class="dl" href="https://github.com/mogcid/ntech/releases/download/launcher/NTechLauncher.exe">⬇ Télécharger le N-Tech Launcher</a>
+  <div class="small">Windows · gratuit · Java installé automatiquement</div>
+</header>
+<main>
+  <h2>Les modpacks</h2>
+  <div class="packs" id="packs"><div class="pack">Chargement…</div></div>
+  <h2>Comment jouer</h2>
+  <ol>
+    <li><b>Télécharge</b> le N-Tech Launcher et ouvre-le.</li>
+    <li><b>Connecte-toi</b> avec ton compte Microsoft (Minecraft Java).</li>
+    <li><b>Choisis</b> un modpack, clique sur Installer, puis sur Jouer.</li>
+  </ol>
+</main>
+<script>
+  fetch("packs.json", { cache: "no-store" }).then(r => r.json()).then(d => {
+    const box = document.getElementById("packs");
+    box.innerHTML = "";
+    for (const p of d.packs || []) {
+      const el = document.createElement("div");
+      el.className = "pack";
+      const h = document.createElement("h3"); h.textContent = p.name;
+      const m = document.createElement("div"); m.className = "meta"; m.textContent = `Minecraft ${p.mc} · version ${p.version}`;
+      const s = document.createElement("p"); s.textContent = p.summary || "";
+      el.append(h, m, s);
+      box.append(el);
+    }
+    if (!box.children.length) box.innerHTML = '<div class="pack">Bientôt !</div>';
+  }).catch(() => { document.getElementById("packs").innerHTML = '<div class="pack">Liste indisponible.</div>'; });
+</script>
+</body>
+</html>
