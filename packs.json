@@ -7,6 +7,14 @@
    "mc": "1.21.1",
    "summary": "Progression longue par paliers (style GregTech, plus accessible) : Modern Industrialization, multiblocs PackForge, filons, mana et cristaux.",
    "manifest": "packs/n-tech-industrie.json"
+  },
+  {
+   "slug": "n-tech-rockblock-3",
+   "name": "N-Tech RockBlock 4",
+   "version": "1.0.0",
+   "mc": "1.21.1",
+   "summary": "",
+   "manifest": "packs/n-tech-rockblock-3.json"
   }
  ],
  "launcher": {
