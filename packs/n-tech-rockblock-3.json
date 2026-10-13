@@ -2038,10 +2038,10 @@
  ],
  "own": [
   {
-   "file": "packforge-0.25.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.0/packforge-0.25.0.jar",
-   "sha1": "b28c5feef413ffbd0038f8cec6093a0d5a2800f5",
-   "size": 455962
+   "file": "packforge-0.25.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.0/packforge-0.25.2.jar",
+   "sha1": "150f75fbbb30d585ac2d290952fdc20c1c2c4159",
+   "size": 457051
   },
   {
    "file": "pfmachines-0.20.0.jar",
@@ -2052,8 +2052,8 @@
  ],
  "overrides": {
   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.0/n-tech-rockblock-3-1.0.0-overrides.zip",
-  "sha1": "0875aee10765d251220de2e3b47189f437838479",
-  "size": 6836439
+  "sha1": "5c7da512d22ae9b8d84bb0d57a08128e263b2bb8",
+  "size": 10623715
  },
  "license": {
   "pack": "n-tech-rockblock-3",
