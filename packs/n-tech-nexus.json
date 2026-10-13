@@ -1543,10 +1543,10 @@
  ],
  "own": [
   {
-   "file": "packforge-0.25.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/packforge-0.25.1.jar",
-   "sha1": "7d326611a09e950cee80f73e203352326a9be982",
-   "size": 456910
+   "file": "packforge-0.25.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/packforge-0.25.2.jar",
+   "sha1": "150f75fbbb30d585ac2d290952fdc20c1c2c4159",
+   "size": 457051
   },
   {
    "file": "pfmachines-0.20.0.jar",
