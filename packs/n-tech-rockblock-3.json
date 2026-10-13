@@ -2238,7 +2238,6 @@
    "rftoolsbuilder",
    "rftoolscontrol",
    "rftoolsstorage",
-   "rsgauges",
    "runelic",
    "searchables",
    "simplemagnets",
@@ -2259,7 +2258,6 @@
    "tiabcurio",
    "titanium",
    "toastcontrol",
-   "tombstone",
    "torchmaster",
    "trashcans",
    "trashslot",
@@ -2275,7 +2273,7 @@
    "xycraft_world",
    "zerocore"
   ],
-  "sig": "Kz9qtP8mIUgh2ut9+TlzzEr7hm31hsPQb2MEMefu6U7yiKugBofyuIoNQU2kkWOvLcBoX2ouNXSJjRO1pcfwBg=="
+  "sig": "wUrdO7/KZ2hy8tkvpJDgbOx6YcGbJkY3wpwcx3ZCjAPGK32edOPjgfr/ROCLiLSQ+eTPJpCC4geDRUW9awh2Cw=="
  },
  "managedDirs": [
   "packforge/datapack",
