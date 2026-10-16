@@ -58,18 +58,21 @@
   const fmt = (n) => n.toLocaleString("fr-FR");
   // packs.json garde les téléchargements des fichiers remplacés (GitHub remet à zéro un fichier republié)
   const index = fetch("packs.json", { cache: "no-store" }).then(r => r.json());
+  // installations : notre compteur (le lanceur ajoute 1 à chaque installation ou mise à jour réussie) ;
+  // téléchargements du lanceur : GitHub (ceux-là sont bien comptés)
+  const COUNTER = "https://abacus.jasoncameron.dev/get/ntech-mc/";
   const counts = Promise.all([fetch("https://api.github.com/repos/mogcid/ntech/releases?per_page=100")
     .then(r => r.ok ? r.json() : []).catch(() => []), index.catch(() => ({}))])
-    .then(([releases, idx]) => {
+    .then(async ([releases, idx]) => {
       const kept = idx.downloads || {};
       const out = { launcher: kept.launcher || 0, packs: Object.assign({}, kept.packs || {}) };
       for (const rel of releases) {
         for (const a of rel.assets || []) {
           if (a.name === "NTechLauncher.exe") out.launcher += a.download_count;
-          const m = a.name.match(/^(.*)-[^-]+-overrides\.zip$/);  // un fichier du pack = une installation ou mise à jour
-          if (m) out.packs[m[1]] = (out.packs[m[1]] || 0) + a.download_count;
         }
       }
+      await Promise.all((idx.packs || []).map(p => fetch(COUNTER + p.slug).then(r => r.ok ? r.json() : { value: 0 })
+        .then(j => { out.packs[p.slug] = (out.packs[p.slug] || 0) + (j.value || 0); }).catch(() => {})));
       return out;
     }).catch(() => null);
   counts.then(c => {
