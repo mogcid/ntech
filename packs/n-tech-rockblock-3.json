@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-rockblock-3",
  "name": "N-Tech RockBlock 4",
- "version": "1.0.0",
+ "version": "1.0.1",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.246",
  "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
@@ -520,6 +520,15 @@
    "size": 65716,
    "url": "https://edge.forgecdn.net/files/7796/187/coroutil-neoforge-1.21.0-1.3.9.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/coroutil/files/7796187"
+  },
+  {
+   "name": "Corpse",
+   "file": "corpse-neoforge-1.21.1-1.1.21.jar",
+   "side": "both",
+   "sha1": "124791f94c501c2c12a132f4cc69a3a738498b9d",
+   "size": 256713,
+   "url": "https://edge.forgecdn.net/files/9188/333/corpse-neoforge-1.21.1-1.1.21.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/corpse/files/9188333"
   },
   {
    "name": "Cosmetic Armor Reworked",
@@ -2016,42 +2025,23 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/zerocore/files/7344742"
   }
  ],
- "manualMods": [
-  {
-   "name": "Corail Tombstone",
-   "file": "tombstone-neoforge-1.21.1-9.5.6.jar",
-   "side": "both",
-   "sha1": "d830d16caa20b0d23a44ed6b1d339bc22afc2460",
-   "size": 2520705,
-   "url": "",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/files/8842741"
-  },
-  {
-   "name": "Gauges, Switches & Modules",
-   "file": "[1.21-1.21.1] rsgauges ported v1.2.3.jar",
-   "side": "both",
-   "sha1": "aa22becd738cdb3b40711837a5cec8ceecc5ac40",
-   "size": 6892475,
-   "url": "",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/rsgauges/files/8779073"
-  }
- ],
+ "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.25.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.0/packforge-0.25.2.jar",
-   "sha1": "150f75fbbb30d585ac2d290952fdc20c1c2c4159",
-   "size": 457051
+   "file": "packforge-0.27.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.1/packforge-0.27.0.jar",
+   "sha1": "bcaa4b4a26bdd2ab73f3dd0d8a948d9ffbdcd0a8",
+   "size": 458855
   },
   {
    "file": "pfmachines-0.20.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.0/pfmachines-0.20.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.1/pfmachines-0.20.0.jar",
    "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
    "size": 523398
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.0/n-tech-rockblock-3-1.0.0-overrides.zip",
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.1/n-tech-rockblock-3-1.0.1-overrides.zip",
   "sha1": "5c7da512d22ae9b8d84bb0d57a08128e263b2bb8",
   "size": 10623715
  },
@@ -2117,6 +2107,7 @@
    "controlling",
    "cookingforblockheads",
    "coroutil",
+   "corpse",
    "cosmeticarmorreworked",
    "create",
    "createaddition",
@@ -2273,7 +2264,7 @@
    "xycraft_world",
    "zerocore"
   ],
-  "sig": "wUrdO7/KZ2hy8tkvpJDgbOx6YcGbJkY3wpwcx3ZCjAPGK32edOPjgfr/ROCLiLSQ+eTPJpCC4geDRUW9awh2Cw=="
+  "sig": "xGmt7ZJLQ+g/CvpLl2u8+wOmF2fc2a1nbUPtVjX6SItwRyTUdsdDlB5MTeDtRTYKL1qw99M9SE9iLbT4UuSvAQ=="
  },
  "managedDirs": [
   "packforge/datapack",
