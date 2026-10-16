@@ -1,16 +1,6 @@
 {
  "packs": [
   {
-   "slug": "n-tech-industrie",
-   "name": "N-Tech GT",
-   "version": "1.0.0",
-   "mc": "1.21.1",
-   "summary": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.",
-   "about": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.\nDéveloppez votre industrie avec Modern Industrialization et les multiblocs personnalisés de PackForge. Exploitez les filons de minerais, maîtrisez le mana et utilisez les cristaux pour franchir chaque étape.\nAutomatisez vos chaînes de production, centralisez vos ressources avec Applied Energistics 2 et augmentez vos capacités énergétiques pour relever les défis du pack.\nDu premier filon aux grands complexes industriels, chaque palier ouvre de nouvelles possibilités !",
-   "manifest": "packs/n-tech-industrie.json",
-   "server": "135.125.189.10"
-  },
-  {
    "slug": "n-tech-microverse",
    "name": "N-Tech Microverse",
    "version": "1.0.1",
@@ -39,6 +29,16 @@
    "about": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre. Depuis votre salle de départ souterraine, creusez votre espace, obtenez vos premières ressources et transformez votre refuge en un vaste complexe automatisé.\nAvec 2 025 quêtes réparties dans 57 chapitres, l’aventure vous accompagne des premiers outils aux technologies les plus avancées. Le livre de quêtes est disponible en français et en anglais : un bouton intégré permet de passer du français à l’anglais et inversement, à tout moment.\nDéveloppez votre production grâce à plusieurs systèmes personnalisés complémentaires :\n• 153 types de graines pour cultiver une grande variété de ressources.\n• 189 types de cristaux pour exploiter la croissance cristalline.\n• 97 abeilles personnalisées, en complément de celles des mods, pour développer votre production apicole.\n• 129 statues productives à l’effigie de créatures et de boss, qui décorent votre base tout en générant régulièrement les ressources et objets qui leur sont associés.\nL’automatisation est au cœur de votre progression. Construisez des mécanismes avec Create, développez vos chaînes industrielles avec Mekanism, Immersive Engineering, Modern Industrialization et Industrial Foregoing, puis centralisez votre stockage et vos fabrications avec Applied Energistics 2. Produisez votre énergie, reliez vos machines et optimisez chaque étape de votre usine.\nLa magie enrichit également l’aventure avec Ars Nouveau, EvilCraft et Forbidden Arcanus. Combinez sortilèges et technologies, améliorez votre équipement et poursuivez votre progression vers les installations avancées de Draconic Evolution et les fabrications d’Extended Crafting.\nDe nombreux outils de construction, sacs à dos et systèmes de transport vous permettent d’aménager votre base selon vos envies. Du petit atelier aux immenses salles industrielles, chaque bloc creusé ouvre la voie à de nouveaux projets.\nPoursuivez l’aventure d’Azuria RockBlock 3 : creusez, cultivez, collectionnez et automatisez pour bâtir votre empire au cœur de la pierre !",
    "manifest": "packs/n-tech-rockblock-3.json",
    "server": "135.125.189.10:25567"
+  },
+  {
+   "slug": "n-tech-industrie",
+   "name": "N-Tech GT",
+   "version": "1.0.1",
+   "mc": "1.21.1",
+   "summary": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.",
+   "about": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.\nDéveloppez votre industrie avec Modern Industrialization et les multiblocs personnalisés de PackForge. Exploitez les filons de minerais, maîtrisez le mana et utilisez les cristaux pour franchir chaque étape.\nAutomatisez vos chaînes de production, centralisez vos ressources avec Applied Energistics 2 et augmentez vos capacités énergétiques pour relever les défis du pack.\nDu premier filon aux grands complexes industriels, chaque palier ouvre de nouvelles possibilités !",
+   "manifest": "packs/n-tech-industrie.json",
+   "server": "135.125.189.10"
   }
  ],
  "launcher": {
