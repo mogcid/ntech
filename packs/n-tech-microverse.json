@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-microverse",
  "name": "N-Tech Microverse",
- "version": "1.0.1",
+ "version": "1.0.2",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.259",
  "summary": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie.",
@@ -963,6 +963,15 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/9046753"
   },
   {
+   "name": "Inventory Sorter",
+   "file": "inventorysorter-1.21.1-24.0.24.jar",
+   "side": "both",
+   "sha1": "8c842959ecb1927e1c7049d41d024fadf329a584",
+   "size": 53363,
+   "url": "https://edge.forgecdn.net/files/7188/660/inventorysorter-1.21.1-24.0.24.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/inventory-sorter/files/7188660"
+  },
+  {
    "name": "Iron Furnaces",
    "file": "ironfurnaces-neoforge-1.21.1-4.3.2.jar",
    "side": "both",
@@ -1596,33 +1605,33 @@
  "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.27.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.1/packforge-0.27.0.jar",
-   "sha1": "bcaa4b4a26bdd2ab73f3dd0d8a948d9ffbdcd0a8",
-   "size": 458855
+   "file": "packforge-0.29.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/packforge-0.29.0.jar",
+   "sha1": "d8b43450def733266a2304de121a0acf4c5cd30c",
+   "size": 473479
   },
   {
    "file": "pfmachines-0.20.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.1/pfmachines-0.20.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/pfmachines-0.20.0.jar",
    "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
    "size": 523398
   },
   {
    "file": "pftools-0.9.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.1/pftools-0.9.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/pftools-0.9.1.jar",
    "sha1": "213614b697cb14aa59fc447195da863cdb5ee95c",
    "size": 265007
   },
   {
    "file": "pfmicroverse-0.24.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.1/pfmicroverse-0.24.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/pfmicroverse-0.24.0.jar",
    "sha1": "6be9c4c6a091f27b550b65c8b88690d53b6788d7",
    "size": 607900
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.1/n-tech-microverse-1.0.1-overrides.zip",
-  "sha1": "f8d11f9d12df1ba33f8173e240552f5242771da9",
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/n-tech-microverse-1.0.2-overrides.zip",
+  "sha1": "6042bf206cb2f2c2204f3ffc6586627bbdf09e8a",
   "size": 4081650
  },
  "license": {
@@ -1729,6 +1738,7 @@
    "integrateddynamics",
    "integratedterminals",
    "integratedtunnels",
+   "inventorysorter",
    "ironfurnaces",
    "jade",
    "jei",
@@ -1799,7 +1809,7 @@
    "xtonesreworked",
    "zerocore"
   ],
-  "sig": "sfvPGkKTZVQ/gQVLylQ9O3qn2yHPode2bofYa7k9uQi8elh7qHIf4jPz+rieM9erto2LhHh3p/ZsBelfQ/4RCg=="
+  "sig": "tLyICFlpQLytS734YRNu3WWWXoyqNJJ1jAXHCt9kKcEypCs8WQovXq6g89BrCDv42EJ2abfZGpWN9eQ5pAOHDQ=="
  },
  "managedDirs": [
   "packforge/datapack",
