@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-nexus",
  "name": "N-Tech Nexus",
- "version": "1.0.0",
+ "version": "1.0.1",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.256",
  "summary": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.",
@@ -1530,41 +1530,31 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/zeta/files/7980010"
   }
  ],
- "manualMods": [
-  {
-   "name": "More Overlays Updated",
-   "file": "moreoverlays-1.24.2-mc1.21.1-neoforge.jar",
-   "side": "client",
-   "sha1": "21e8bd61c5e146a9574266015d3f64621c2d9e18",
-   "size": 112984,
-   "url": "",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated/files/6981252"
-  }
- ],
+ "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.25.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/packforge-0.25.2.jar",
-   "sha1": "150f75fbbb30d585ac2d290952fdc20c1c2c4159",
-   "size": 457051
+   "file": "packforge-0.27.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.1/packforge-0.27.0.jar",
+   "sha1": "bcaa4b4a26bdd2ab73f3dd0d8a948d9ffbdcd0a8",
+   "size": 458855
   },
   {
    "file": "pfmachines-0.20.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/pfmachines-0.20.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.1/pfmachines-0.20.0.jar",
    "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
    "size": 523398
   },
   {
    "file": "pftools-0.9.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/pftools-0.9.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.1/pftools-0.9.1.jar",
    "sha1": "213614b697cb14aa59fc447195da863cdb5ee95c",
    "size": 265007
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.0/n-tech-nexus-1.0.0-overrides.zip",
-  "sha1": "93b52e408787e35a6ce17b879101d9b4140db2a3",
-  "size": 6800950
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.1/n-tech-nexus-1.0.1-overrides.zip",
+  "sha1": "d5e4ab603c197d0e6e6eca0d4a03465a6e963a89",
+  "size": 6802480
  },
  "license": {
   "pack": "n-tech-nexus",
