@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-rockblock-3",
  "name": "N-Tech RockBlock 4",
- "version": "1.0.4",
+ "version": "1.0.5",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.246",
  "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
@@ -1116,6 +1116,15 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/9046753"
   },
   {
+   "name": "Inventory Sorter",
+   "file": "inventorysorter-1.21.1-24.0.24.jar",
+   "side": "both",
+   "sha1": "8c842959ecb1927e1c7049d41d024fadf329a584",
+   "size": 53363,
+   "url": "https://edge.forgecdn.net/files/7188/660/inventorysorter-1.21.1-24.0.24.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/inventory-sorter/files/7188660"
+  },
+  {
    "name": "Iron Furnaces",
    "file": "ironfurnaces-neoforge-1.21.1-4.3.2.jar",
    "side": "both",
@@ -2028,22 +2037,22 @@
  "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.28.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.4/packforge-0.28.0.jar",
-   "sha1": "c302c42c707a4c26e04093c3aa842d6323cbe176",
-   "size": 459320
+   "file": "packforge-0.29.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.5/packforge-0.29.0.jar",
+   "sha1": "d8b43450def733266a2304de121a0acf4c5cd30c",
+   "size": 473479
   },
   {
    "file": "pfmachines-0.20.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.4/pfmachines-0.20.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.5/pfmachines-0.20.0.jar",
    "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
    "size": 523398
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.4/n-tech-rockblock-3-1.0.4-overrides.zip",
-  "sha1": "3087f42b291c7b2ac2cf1ed138835b3f527948b5",
-  "size": 10623424
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.5/n-tech-rockblock-3-1.0.5-overrides.zip",
+  "sha1": "c6cace4d2b8157663fcc180392ee83a7b97b1182",
+  "size": 10625540
  },
  "license": {
   "pack": "n-tech-rockblock-3",
@@ -2166,6 +2175,7 @@
    "integratedcrafting",
    "integrateddynamics",
    "integratedtunnels",
+   "inventorysorter",
    "ironfurnaces",
    "ironjetpacks",
    "itemcollectors",
@@ -2264,7 +2274,7 @@
    "xycraft_world",
    "zerocore"
   ],
-  "sig": "xGmt7ZJLQ+g/CvpLl2u8+wOmF2fc2a1nbUPtVjX6SItwRyTUdsdDlB5MTeDtRTYKL1qw99M9SE9iLbT4UuSvAQ=="
+  "sig": "oKctjVdtAIYg4+vf48oZFWpnYFMF7tmRNN9HuLGgXlfBLF6zPE4Zmx0g8gKQyqgyw26fFr5yoY9Q9dR2Yn7rCw=="
  },
  "managedDirs": [
   "packforge/datapack",
