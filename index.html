@@ -28,6 +28,12 @@
   details.more { margin-top: 8px; font-size: 14px; }
   details.more summary { color: var(--accent); cursor: pointer; font-size: 13px; }
   details.more div { white-space: pre-line; margin-top: 8px; color: var(--fg); }
+  .votes { display: flex; gap: 8px; margin-top: 10px; }
+  .votes button { background: var(--bg); color: var(--fg); border: 1px solid #2c3040; border-radius: 8px; padding: 4px 12px;
+                  font: inherit; font-size: 14px; cursor: pointer; }
+  .votes button:hover:not(:disabled) { border-color: var(--accent); }
+  .votes button.mine { background: var(--accent); border-color: var(--accent); }
+  .votes button:disabled { cursor: default; }
   #launcher-count { color: var(--muted); font-size: 13px; margin-top: 6px; min-height: 1em; }
   ol { color: var(--muted); }
   ol b { color: var(--fg); }
@@ -78,6 +84,36 @@
   counts.then(c => {
     if (c) document.getElementById("launcher-count").textContent = `${fmt(c.launcher)} téléchargement${c.launcher > 1 ? "s" : ""} du lanceur`;
   });
+  // votes 👍 / 👎 : un par pack et par navigateur (retenu dans le navigateur)
+  const VOTE = "https://abacus.jasoncameron.dev/";
+  const mine = (slug) => { try { return localStorage.getItem("ntech-vote-" + slug); } catch (e) { return null; } };
+  function votes(slug) {
+    const row = document.createElement("div"); row.className = "votes";
+    const btn = { up: document.createElement("button"), down: document.createElement("button") };
+    const val = { up: 0, down: 0 };
+    const draw = () => {
+      const m = mine(slug);
+      for (const k of ["up", "down"]) {
+        btn[k].textContent = (k === "up" ? "👍 " : "👎 ") + fmt(val[k]);
+        btn[k].disabled = !!m;
+        btn[k].classList.toggle("mine", m === k);
+        btn[k].title = m ? "Merci pour ton vote !" : (k === "up" ? "J'aime ce pack" : "Je n'aime pas ce pack");
+      }
+    };
+    for (const k of ["up", "down"]) {
+      fetch(VOTE + "get/ntech-mc/" + slug + "-" + k).then(r => r.ok ? r.json() : { value: 0 })
+        .then(j => { val[k] = j.value || 0; draw(); }).catch(() => {});
+      btn[k].addEventListener("click", () => {
+        if (mine(slug)) return;
+        try { localStorage.setItem("ntech-vote-" + slug, k); } catch (e) { /* vote quand même */ }
+        val[k] += 1; draw();
+        fetch(VOTE + "hit/ntech-mc/" + slug + "-" + k).then(r => r.json()).then(j => { val[k] = j.value || val[k]; draw(); }).catch(() => {});
+      });
+      row.append(btn[k]);
+    }
+    draw();
+    return row;
+  }
   index.then(d => {
     const box = document.getElementById("packs");
     box.innerHTML = "";
@@ -97,7 +133,7 @@
         more.append(label, full);
         el.append(more);
       }
-      el.append(n);
+      el.append(n, votes(p.slug));
       box.append(el);
       counts.then(c => { if (!c) return; const v = c.packs[p.slug] || 0; n.textContent = `⬇ ${fmt(v)} installation${v > 1 ? "s" : ""}`; });
     }
