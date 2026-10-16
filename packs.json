@@ -42,13 +42,13 @@
   }
  ],
  "launcher": {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "url": "https://github.com/mogcid/ntech/releases/download/launcher/NTechLauncher.exe"
  },
  "discord": "https://discord.gg/6bSGk2SyXJ",
  "bugs": "https://discord.com/channels/1557464208583688202/1557464868024623194",
  "downloads": {
-  "launcher": 5,
+  "launcher": 6,
   "packs": {
    "n-tech-nexus": 0,
    "n-tech-industrie": 0,
