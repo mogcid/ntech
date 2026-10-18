@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-rockblock-3",
  "name": "N-Tech RockBlock 4",
- "version": "1.0.11",
+ "version": "1.0.12",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.246",
  "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
@@ -34,6 +34,15 @@
    "size": 688670,
    "url": "https://edge.forgecdn.net/files/8961/599/ae2importexportcard-1.21.1-1.9.1.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-import-export-card/files/8961599"
+  },
+  {
+   "name": "AE2 JEI Integration",
+   "file": "ae2jeiintegration-1.2.1.jar",
+   "side": "both",
+   "sha1": "e99898b3e9c32bf6ac757e7ad50247746622cdfc",
+   "size": 91710,
+   "url": "https://edge.forgecdn.net/files/7727/898/ae2jeiintegration-1.2.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration/files/7727898"
   },
   {
    "name": "AE2 Things [Forge]",
@@ -2038,19 +2047,19 @@
  "own": [
   {
    "file": "packforge-0.30.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.11/packforge-0.30.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.12/packforge-0.30.1.jar",
    "sha1": "9e390a3caa8bd2c7dd889f2456a497d4e188ae3c",
    "size": 486024
   },
   {
    "file": "pfmachines-0.20.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.11/pfmachines-0.20.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.12/pfmachines-0.20.0.jar",
    "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
    "size": 523398
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.11/n-tech-rockblock-3-1.0.11-overrides.zip",
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.12/n-tech-rockblock-3-1.0.12-overrides.zip",
   "sha1": "243bfc08b868186ac99f3d0a94f4f7b66800a58f",
   "size": 10612825
  },
@@ -2062,6 +2071,7 @@
    "ae2",
    "ae2ct",
    "ae2importexportcard",
+   "ae2jeiintegration",
    "ae2things",
    "ae2wtlib",
    "aeinfinitybooster",
@@ -2274,7 +2284,7 @@
    "xycraft_world",
    "zerocore"
   ],
-  "sig": "oKctjVdtAIYg4+vf48oZFWpnYFMF7tmRNN9HuLGgXlfBLF6zPE4Zmx0g8gKQyqgyw26fFr5yoY9Q9dR2Yn7rCw=="
+  "sig": "KGLD8R26h6S3S6f0f7R+Ibv3YVYAZKEPbFanuTukk18XYkR7fK7Z/8TKOUpkqcA/qCUDTmZw226WK+X7LutpAQ=="
  },
  "managedDirs": [
   "packforge/datapack",
