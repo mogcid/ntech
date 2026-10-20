@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-rockblock-3",
  "name": "N-Tech RockBlock 4",
- "version": "1.0.13",
+ "version": "1.0.14",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.246",
  "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
@@ -862,6 +862,15 @@
    "size": 17803,
    "url": "https://edge.forgecdn.net/files/6891/762/flightapi-neoforge-1.1.1.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/flight-api/files/6891762"
+  },
+  {
+   "name": "Flux Networks",
+   "file": "FluxNetworks-1.21.1-8.0.0.jar",
+   "side": "both",
+   "sha1": "183342f454428084748f2784c8efd748664a9f9c",
+   "size": 535938,
+   "url": "https://edge.forgecdn.net/files/6089/446/FluxNetworks-1.21.1-8.0.0.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/flux-networks/files/6089446"
   },
   {
    "name": "Forbidden and Arcanus",
@@ -2046,22 +2055,22 @@
  "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.30.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.13/packforge-0.30.2.jar",
-   "sha1": "990a2c14e6eb467d4a7d544135d83d44290ec83f",
-   "size": 487014
+   "file": "packforge-0.30.3.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.14/packforge-0.30.3.jar",
+   "sha1": "1d9b285dae9624b23531c22719a3e83c08161402",
+   "size": 486903
   },
   {
    "file": "pfmachines-0.20.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.13/pfmachines-0.20.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.14/pfmachines-0.20.0.jar",
    "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
    "size": 523398
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.13/n-tech-rockblock-3-1.0.13-overrides.zip",
-  "sha1": "8a9725e48b33f5bb0ed85c6593e45b36e45cc21f",
-  "size": 10561635
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.14/n-tech-rockblock-3-1.0.14-overrides.zip",
+  "sha1": "ce34692a0a2cf5e97cfc934845b28c6bccb1c1be",
+  "size": 10379487
  },
  "license": {
   "pack": "n-tech-rockblock-3",
@@ -2156,6 +2165,7 @@
    "fastleafdecay",
    "flib",
    "flightapi",
+   "fluxnetworks",
    "forbidden_arcanus",
    "fpsreducer",
    "framedblocks",
@@ -2284,7 +2294,7 @@
    "xycraft_world",
    "zerocore"
   ],
-  "sig": "KGLD8R26h6S3S6f0f7R+Ibv3YVYAZKEPbFanuTukk18XYkR7fK7Z/8TKOUpkqcA/qCUDTmZw226WK+X7LutpAQ=="
+  "sig": "yy/Lx6PncxamxCUm72EicZOB+fVnXnSIUEiBsMfWJUi4fIjnY2llHUVOdwQwwE7zfM/nCziM8WD9BUW56OQ0BA=="
  },
  "managedDirs": [
   "packforge/datapack",
