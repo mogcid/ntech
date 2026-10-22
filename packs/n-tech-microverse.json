@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-microverse",
  "name": "N-Tech Microverse",
- "version": "1.0.2",
+ "version": "1.0.3",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.259",
  "summary": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie.",
@@ -34,6 +34,15 @@
    "size": 688670,
    "url": "https://edge.forgecdn.net/files/8961/599/ae2importexportcard-1.21.1-1.9.1.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-import-export-card/files/8961599"
+  },
+  {
+   "name": "AE2 JEI Integration",
+   "file": "ae2jeiintegration-1.2.1.jar",
+   "side": "both",
+   "sha1": "e99898b3e9c32bf6ac757e7ad50247746622cdfc",
+   "size": 91710,
+   "url": "https://edge.forgecdn.net/files/7727/898/ae2jeiintegration-1.2.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration/files/7727898"
   },
   {
    "name": "AE2 MEGA Things",
@@ -1605,34 +1614,34 @@
  "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.29.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/packforge-0.29.0.jar",
-   "sha1": "d8b43450def733266a2304de121a0acf4c5cd30c",
-   "size": 473479
+   "file": "packforge-0.31.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.3/packforge-0.31.0.jar",
+   "sha1": "a07ae9214cdda0a7b4876d9bdd4ccba3b29d5fdd",
+   "size": 489037
   },
   {
-   "file": "pfmachines-0.20.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/pfmachines-0.20.0.jar",
-   "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
-   "size": 523398
+   "file": "pfmachines-0.22.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.3/pfmachines-0.22.0.jar",
+   "sha1": "d0a15d1bd82f86e18a00de6f70dae1de8d1da20e",
+   "size": 557446
   },
   {
    "file": "pftools-0.9.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/pftools-0.9.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.3/pftools-0.9.1.jar",
    "sha1": "213614b697cb14aa59fc447195da863cdb5ee95c",
    "size": 265007
   },
   {
    "file": "pfmicroverse-0.24.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/pfmicroverse-0.24.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.3/pfmicroverse-0.24.0.jar",
    "sha1": "6be9c4c6a091f27b550b65c8b88690d53b6788d7",
    "size": 607900
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.2/n-tech-microverse-1.0.2-overrides.zip",
-  "sha1": "6042bf206cb2f2c2204f3ffc6586627bbdf09e8a",
-  "size": 4081650
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.3/n-tech-microverse-1.0.3-overrides.zip",
+  "sha1": "1832ff60a7087656ce3dfeffda450f8c1d3e7d44",
+  "size": 4075920
  },
  "license": {
   "pack": "n-tech-microverse",
@@ -1643,6 +1652,7 @@
    "ae2ct",
    "ae2extras",
    "ae2importexportcard",
+   "ae2jeiintegration",
    "ae2netanalyser",
    "ae2things",
    "ae2wtlib",
@@ -1809,7 +1819,7 @@
    "xtonesreworked",
    "zerocore"
   ],
-  "sig": "tLyICFlpQLytS734YRNu3WWWXoyqNJJ1jAXHCt9kKcEypCs8WQovXq6g89BrCDv42EJ2abfZGpWN9eQ5pAOHDQ=="
+  "sig": "IYMQk0p5EVcTmNmzMU2pu+qHGR/fA4boqNz62Jl536I32MMrqbT+cPBTn5EelwyvTnZxzOIAGF1yEnmKSYEwDQ=="
  },
  "managedDirs": [
   "packforge/datapack",
