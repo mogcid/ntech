@@ -21,16 +21,6 @@
    "server": "135.125.189.10:25566"
   },
   {
-   "slug": "n-tech-microverse",
-   "name": "N-Tech Microverse",
-   "version": "1.0.2",
-   "mc": "1.21.1",
-   "summary": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie.",
-   "about": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie. Chaque porte vous rapproche d'un univers toujours plus vaste , puis bâtis le Nexus Central et deviens un dieu.",
-   "manifest": "packs/n-tech-microverse.json",
-   "server": "135.125.189.10:25568"
-  },
-  {
    "slug": "n-tech-rockblock-3",
    "name": "N-Tech RockBlock 4",
    "version": "1.0.16",
@@ -41,6 +31,18 @@
    "changelog": "- Livre de quêtes rangé : les chapitres suivent la progression (Premiers pas en premier, Mastery en dernier) et, dans chaque chapitre, les quêtes suivent les vraies recettes.\n- Nouvelles quêtes : graine Flux, bottes Hazmat (Mekanism). L'Assembler Matrix conseille un sous-réseau pour ne pas remplir les disques du réseau principal.\n- Bannières en double retirées des chapitres.\n- Nouvelles Gateways : Gardiens, Gardien ancien, Shulkers, Breezes, Chats errants, Chevaux morts.\n- La Gateway of the Emerald Grove fait aussi apparaître des lapins.\n- 16 nouvelles statues : loup, chèvre, renard, abeille, axolotl, grenouille, tatou, ocelot, piglin, brute piglin, vex, illusionniste, endermite, poisson d'argent, Wither, Ender Dragon.\n- Nouveaux crafts : Cœur de la mer (8 coquilles de nautile + cristal de prismarine), cristaux de prismarine aux broyeurs (Mekanism, Immersive Engineering, Create).\n- Retiré : la recette qui changeait une graine Flux en graine Dark Gem.",
    "date": "2026-10-21T19:40:23+00:00",
    "server": "135.125.189.10:25567"
+  },
+  {
+   "slug": "n-tech-microverse",
+   "name": "N-Tech Microverse",
+   "version": "1.0.3",
+   "mc": "1.21.1",
+   "summary": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie.",
+   "about": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie. Chaque porte vous rapproche d'un univers toujours plus vaste , puis bâtis le Nexus Central et deviens un dieu.",
+   "manifest": "packs/n-tech-microverse.json",
+   "changelog": "- Livre de quêtes refait : chaque chapitre est un chemin unique, une quête après l'autre (plus de branches dans tous les sens).\n- Chaque chapitre commence par sa quête d'accueil (Bienvenue, La vapeur, L'électricité, L'automatisation, Les Mondes, La Magie, La fin de jeu, Le Nexus Central, Le Nexus divin) ; un chapitre se débloque à la fin du précédent.\n- Nouvelle quête « Fabrication primitive », juste après Bienvenue : explique la fabrication à mains nues (touche C).\n- Ajout : AE2 JEI Integration.\n- Mise à jour des mods PackForge.",
+   "date": "2026-10-22T08:55:02+00:00",
+   "server": "135.125.189.10:25568"
   }
  ],
  "launcher": {
