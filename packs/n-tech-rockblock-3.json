@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-rockblock-3",
  "name": "N-Tech RockBlock 4",
- "version": "1.0.19",
+ "version": "1.0.20",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.246",
  "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
@@ -64,12 +64,12 @@
   },
   {
    "name": "AEInfinityBooster",
-   "file": "aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
+   "file": "aeinfinitybooster-neoforge-2.1.0+mc1.21.1.jar",
    "side": "both",
-   "sha1": "61756becbab62dd376378ceb74a3daa45b70562a",
-   "size": 30454,
-   "url": "https://edge.forgecdn.net/files/8377/914/aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster/files/8377914"
+   "sha1": "074c37516ef3004e4be8c8697a5d6a6ebb267e66",
+   "size": 42247,
+   "url": "https://edge.forgecdn.net/files/9295/412/aeinfinitybooster-neoforge-2.1.0%2bmc1.21.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster/files/9295412"
   },
   {
    "name": "AI Improvements: Performance Tuning",
@@ -91,12 +91,12 @@
   },
   {
    "name": "Allthemodium",
-   "file": "allthemodium-3.1.1_mc_1.21.1.jar",
+   "file": "allthemodium-3.2.1_mc_1.21.1.jar",
    "side": "both",
-   "sha1": "21de8fdca6f559dbb99af11143f0d8e5dcb0f146",
-   "size": 1957262,
-   "url": "https://edge.forgecdn.net/files/9040/574/allthemodium-3.1.1_mc_1.21.1.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/allthemodium/files/9040574"
+   "sha1": "9e21df08231fe3c2075b5c5f4151f662dd9e22d2",
+   "size": 1914549,
+   "url": "https://edge.forgecdn.net/files/9143/638/allthemodium-3.2.1_mc_1.21.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/allthemodium/files/9143638"
   },
   {
    "name": "Almost Unified",
@@ -136,12 +136,12 @@
   },
   {
    "name": "Apothic Enchanting",
-   "file": "ApothicEnchanting-1.21.1-1.6.3.jar",
+   "file": "ApothicEnchanting-1.21.1-1.6.4.jar",
    "side": "both",
-   "sha1": "176b656816f45ef24a02172c5d8a3d3043e3bb18",
-   "size": 5415943,
-   "url": "https://edge.forgecdn.net/files/9054/782/ApothicEnchanting-1.21.1-1.6.3.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting/files/9054782"
+   "sha1": "d88e75b60e97dae8054ee10f3a92aa2bb812b8b9",
+   "size": 5422885,
+   "url": "https://edge.forgecdn.net/files/9095/862/ApothicEnchanting-1.21.1-1.6.4.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting/files/9095862"
   },
   {
    "name": "Apothic Spawners",
@@ -181,12 +181,12 @@
   },
   {
    "name": "Applied Flux",
-   "file": "AppliedFlux-1.21-2.1.6-neoforge.jar",
+   "file": "AppliedFlux-1.21-2.1.7-neoforge.jar",
    "side": "both",
-   "sha1": "ef223560c0e5f89ee675b4223123221dc4b06ab3",
-   "size": 350781,
-   "url": "https://edge.forgecdn.net/files/8970/797/AppliedFlux-1.21-2.1.6-neoforge.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/applied-flux/files/8970797"
+   "sha1": "46080cef7d9cbf6d2bf6356d97838df03ff1e40c",
+   "size": 351056,
+   "url": "https://edge.forgecdn.net/files/9288/549/AppliedFlux-1.21-2.1.7-neoforge.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/applied-flux/files/9288549"
   },
   {
    "name": "Applied Mekanistics",
@@ -496,12 +496,12 @@
   },
   {
    "name": "Construction Wands Revived",
-   "file": "ConstructionWandsRevived-1.21.1-4.0.5-NeoForge.jar",
+   "file": "ConstructionWandsRevived-1.21.1-4.0.13-NeoForge.jar",
    "side": "both",
-   "sha1": "43b648d655b7d60f1f79777d2a163a23b3a9f113",
-   "size": 447835,
-   "url": "https://edge.forgecdn.net/files/8891/958/ConstructionWandsRevived-1.21.1-4.0.5-NeoForge.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/construction-wands-revived/files/8891958"
+   "sha1": "5f2fc8b806431c2bb8aed026beefb319822dc3b5",
+   "size": 497235,
+   "url": "https://edge.forgecdn.net/files/9297/941/ConstructionWandsRevived-1.21.1-4.0.13-NeoForge.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/construction-wands-revived/files/9297941"
   },
   {
    "name": "Controlling",
@@ -532,12 +532,12 @@
   },
   {
    "name": "Corpse",
-   "file": "corpse-neoforge-1.21.1-1.1.21.jar",
+   "file": "corpse-neoforge-1.21.1-1.1.22.jar",
    "side": "both",
-   "sha1": "124791f94c501c2c12a132f4cc69a3a738498b9d",
-   "size": 256713,
-   "url": "https://edge.forgecdn.net/files/9188/333/corpse-neoforge-1.21.1-1.1.21.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/corpse/files/9188333"
+   "sha1": "0d73e082e4d5c0f185aa8030bcefb68c259d1107",
+   "size": 256780,
+   "url": "https://edge.forgecdn.net/files/9289/316/corpse-neoforge-1.21.1-1.1.22.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/corpse/files/9289316"
   },
   {
    "name": "Cosmetic Armor Reworked",
@@ -595,12 +595,12 @@
   },
   {
    "name": "Crystalix",
-   "file": "crystalix-3.0.1.jar",
+   "file": "crystalix-3.0.3.jar",
    "side": "both",
-   "sha1": "3f3def05965827e46d3ec2bb73aabecd1dceead7",
-   "size": 788894,
-   "url": "https://edge.forgecdn.net/files/8767/589/crystalix-3.0.1.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/crystalix/files/8767589"
+   "sha1": "07f07243f846573dfb4deb6b0ce2481809303caf",
+   "size": 791790,
+   "url": "https://edge.forgecdn.net/files/9251/153/crystalix-3.0.3.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/crystalix/files/9251153"
   },
   {
    "name": "Cucumber Library",
@@ -694,12 +694,12 @@
   },
   {
    "name": "Easy Villagers",
-   "file": "easy-villagers-neoforge-1.21.1-1.1.45.jar",
+   "file": "easy-villagers-neoforge-1.21.1-1.1.49.jar",
    "side": "both",
-   "sha1": "fa2561b7710910c1ccc12a012986b1c5c3976e27",
-   "size": 456631,
-   "url": "https://edge.forgecdn.net/files/9067/113/easy-villagers-neoforge-1.21.1-1.1.45.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/easy-villagers/files/9067113"
+   "sha1": "bb021918037fb2ceba03456948eaa966c7f28d53",
+   "size": 456636,
+   "url": "https://edge.forgecdn.net/files/9289/481/easy-villagers-neoforge-1.21.1-1.1.49.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/easy-villagers/files/9289481"
   },
   {
    "name": "Enchantment Descriptions",
@@ -739,21 +739,21 @@
   },
   {
    "name": "EvilCraft",
-   "file": "evilcraft-1.21.1-neoforge-1.2.98.jar",
+   "file": "evilcraft-1.21.1-neoforge-1.2.99.jar",
    "side": "both",
-   "sha1": "1d5f29bb777608d838a02f64b725fb565c3db8d2",
-   "size": 2850813,
-   "url": "https://edge.forgecdn.net/files/9047/89/evilcraft-1.21.1-neoforge-1.2.98.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/9047089"
+   "sha1": "a2fc2c74d3dcd542e57c35100c24ff41b58a6ff6",
+   "size": 2853133,
+   "url": "https://edge.forgecdn.net/files/9203/431/evilcraft-1.21.1-neoforge-1.2.99.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/evilcraft/files/9203431"
   },
   {
    "name": "Evolved Mekanism",
-   "file": "Evolved Mekanism-1.21.1-1.2.1-fix3.jar",
+   "file": "Evolved Mekanism-1.21.1-1.3.0-fix1.jar",
    "side": "both",
-   "sha1": "1747c29ba5889d6102e83df42d9f8c7f692dc18f",
-   "size": 2676340,
-   "url": "https://edge.forgecdn.net/files/7599/592/Evolved%20Mekanism-1.21.1-1.2.1-fix3.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism/files/7599592"
+   "sha1": "7d9a3be8f88e66cf9c092092adf763f0df1c3f0f",
+   "size": 4037770,
+   "url": "https://edge.forgecdn.net/files/9297/352/Evolved%20Mekanism-1.21.1-1.3.0-fix1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism/files/9297352"
   },
   {
    "name": "Extended Crafting",
@@ -766,21 +766,21 @@
   },
   {
    "name": "Extended Industrialization",
-   "file": "extended-industrialization-1.16.3-1.21.1.jar",
+   "file": "extended-industrialization-1.16.4-1.21.1.jar",
    "side": "both",
-   "sha1": "0dbd2d0ffc40fa3ab2132faf9683ea35d561755b",
-   "size": 2197334,
-   "url": "https://edge.forgecdn.net/files/9039/325/extended-industrialization-1.16.3-1.21.1.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/extended-industrialization/files/9039325"
+   "sha1": "213bfc18d144955f0aa9ea5cde08e81d6aa8fe69",
+   "size": 2246194,
+   "url": "https://edge.forgecdn.net/files/9094/252/extended-industrialization-1.16.4-1.21.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/extended-industrialization/files/9094252"
   },
   {
    "name": "ExtendedAE",
-   "file": "ExtendedAE-1.21-2.2.40-neoforge.jar",
+   "file": "ExtendedAE-1.21-2.2.42-neoforge.jar",
    "side": "both",
-   "sha1": "aaf40cb5cec489f04b9623040c3a301648e568bd",
-   "size": 5915607,
-   "url": "https://edge.forgecdn.net/files/9078/385/ExtendedAE-1.21-2.2.40-neoforge.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider/files/9078385"
+   "sha1": "dc4c1e06d3b844261744896bf0173ec6780d565d",
+   "size": 5913692,
+   "url": "https://edge.forgecdn.net/files/9305/327/ExtendedAE-1.21-2.2.42-neoforge.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider/files/9305327"
   },
   {
    "name": "Extreme Reactors",
@@ -892,12 +892,12 @@
   },
   {
    "name": "FramedBlocks",
-   "file": "FramedBlocks-10.6.2.jar",
+   "file": "FramedBlocks-10.6.3.jar",
    "side": "both",
-   "sha1": "c86d546e57a6161e77f4acd651e6939b2d6136d5",
-   "size": 4305605,
-   "url": "https://edge.forgecdn.net/files/8780/141/FramedBlocks-10.6.2.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/framedblocks/files/8780141"
+   "sha1": "4e3d28804fdc2c0be4d71d444f18b85d2c863b01",
+   "size": 4306766,
+   "url": "https://edge.forgecdn.net/files/9137/677/FramedBlocks-10.6.3.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/framedblocks/files/9137677"
   },
   {
    "name": "FTB Chunks (NeoForge)",
@@ -937,12 +937,12 @@
   },
   {
    "name": "FTB Quests (NeoForge)",
-   "file": "ftb-quests-neoforge-2101.1.36.jar",
+   "file": "ftb-quests-neoforge-2101.1.37.jar",
    "side": "both",
-   "sha1": "b2ede29b98a3022c22065fbe9b1761e385a28683",
-   "size": 1609984,
-   "url": "https://edge.forgecdn.net/files/8885/17/ftb-quests-neoforge-2101.1.36.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files/8885017"
+   "sha1": "770938e5907cc91be2f89ac00aea2e87b51e1c87",
+   "size": 1635351,
+   "url": "https://edge.forgecdn.net/files/9298/629/ftb-quests-neoforge-2101.1.37.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files/9298629"
   },
   {
    "name": "FTB Ranks (NeoForge)",
@@ -964,12 +964,12 @@
   },
   {
    "name": "FTB XMod Compat",
-   "file": "ftb-xmod-compat-neoforge-21.1.12.jar",
+   "file": "ftb-xmod-compat-neoforge-21.1.13.jar",
    "side": "both",
-   "sha1": "1f68bf714cf7ea3e07b23c6b8c1ebe516b325047",
-   "size": 148575,
-   "url": "https://edge.forgecdn.net/files/8909/889/ftb-xmod-compat-neoforge-21.1.12.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat/files/8909889"
+   "sha1": "e4a88bb2eae8f98c6d25ca861175aa515e705d28",
+   "size": 148504,
+   "url": "https://edge.forgecdn.net/files/9267/870/ftb-xmod-compat-neoforge-21.1.13.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat/files/9267870"
   },
   {
    "name": "Functional Storage",
@@ -1036,12 +1036,12 @@
   },
   {
    "name": "GuideME",
-   "file": "guideme-21.1.19.jar",
+   "file": "guideme-21.1.20.jar",
    "side": "both",
-   "sha1": "e85cd4c266f974dd360c46e8dad7ecf4c7ee96c6",
-   "size": 9311992,
-   "url": "https://edge.forgecdn.net/files/8897/145/guideme-21.1.19.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/guideme/files/8897145"
+   "sha1": "3003020c170cc84ea307fa1d212d80268806a9be",
+   "size": 9325132,
+   "url": "https://edge.forgecdn.net/files/9292/538/guideme-21.1.20.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/guideme/files/9292538"
   },
   {
    "name": "HaydenAPI",
@@ -1108,21 +1108,21 @@
   },
   {
    "name": "Integrated Crafting",
-   "file": "integratedcrafting-1.21.1-neoforge-1.7.2.jar",
+   "file": "integratedcrafting-1.21.1-neoforge-1.8.0.jar",
    "side": "both",
-   "sha1": "4b4e22e3897c0c9d91cb1e271e8433b9cae50e9a",
-   "size": 500280,
-   "url": "https://edge.forgecdn.net/files/8918/452/integratedcrafting-1.21.1-neoforge-1.7.2.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/8918452"
+   "sha1": "d6ffe69bf6799b4b56d7355bd351aa46c97f5e7e",
+   "size": 513876,
+   "url": "https://edge.forgecdn.net/files/9219/633/integratedcrafting-1.21.1-neoforge-1.8.0.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/9219633"
   },
   {
    "name": "Integrated Dynamics",
-   "file": "integrateddynamics-1.21.1-neoforge-1.38.0.jar",
+   "file": "integrateddynamics-1.21.1-neoforge-1.38.1.jar",
    "side": "both",
-   "sha1": "f4e01fdff869e51f7be719a3cfc44088bbe24bcc",
-   "size": 4499961,
-   "url": "https://edge.forgecdn.net/files/9046/923/integrateddynamics-1.21.1-neoforge-1.38.0.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/9046923"
+   "sha1": "be8d94d0b148c1e4cebe9f01441197563c79137d",
+   "size": 4500305,
+   "url": "https://edge.forgecdn.net/files/9219/622/integrateddynamics-1.21.1-neoforge-1.38.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/9219622"
   },
   {
    "name": "Integrated Tunnels",
@@ -1216,12 +1216,12 @@
   },
   {
    "name": "Just Enough Items (JEI)",
-   "file": "jei-1.21.1-neoforge-19.57.0.451.jar",
+   "file": "jei-1.21.1-neoforge-19.69.0.457.jar",
    "side": "both",
-   "sha1": "d639d83bf108b258e722a53f40a41a69e83f8ca6",
-   "size": 2253017,
-   "url": "https://edge.forgecdn.net/files/9068/136/jei-1.21.1-neoforge-19.57.0.451.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/jei/files/9068136"
+   "sha1": "d413c60d16f5afd3b7acaa2deb54ce8c7b959c59",
+   "size": 7350892,
+   "url": "https://edge.forgecdn.net/files/9267/535/jei-1.21.1-neoforge-19.69.0.457.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/jei/files/9267535"
   },
   {
    "name": "Just Enough Mekanism Multiblocks",
@@ -1234,12 +1234,12 @@
   },
   {
    "name": "Just Enough Resources (JER)",
-   "file": "JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar",
-   "side": "both",
-   "sha1": "36dadee431118e7b7912cf8981d4afa7992dc93d",
-   "size": 286072,
-   "url": "https://edge.forgecdn.net/files/6174/588/JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/6174588"
+   "file": "JustEnoughResources-NeoForge-1.21.1-1.6.0.54.jar",
+   "side": "client",
+   "sha1": "0a4baca058200755be229acf3e2856bb9daaf401",
+   "size": 292219,
+   "url": "https://edge.forgecdn.net/files/9301/525/JustEnoughResources-NeoForge-1.21.1-1.6.0.54.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/9301525"
   },
   {
    "name": "JustHammers",
@@ -1303,6 +1303,15 @@
    "size": 91596,
    "url": "https://edge.forgecdn.net/files/8345/326/lionfishapi-3.1.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/lionfish-api/files/8345326"
+  },
+  {
+   "name": "Lootr (Forge & NeoForge)",
+   "file": "lootr-neoforge-1.21.1-1.11.38.127.jar",
+   "side": "both",
+   "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
+   "size": 1075929,
+   "url": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/lootr/files/8968561"
   },
   {
    "name": "Luminax",
@@ -1396,12 +1405,12 @@
   },
   {
    "name": "Mekanism: More Thermal Evaporation",
-   "file": "morethermalevaporation-3.2.0-1.21.1.jar",
+   "file": "morethermalevaporation-3.2.2-1.21.1.jar",
    "side": "both",
-   "sha1": "d96786a5bceb9e51f5c4e108d345cae5b70add5a",
-   "size": 410446,
-   "url": "https://edge.forgecdn.net/files/8863/492/morethermalevaporation-3.2.0-1.21.1.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/morethermalevaporation/files/8863492"
+   "sha1": "bbc39fbf49c085e3bbe69db8879430fdc6273af3",
+   "size": 414272,
+   "url": "https://edge.forgecdn.net/files/9117/275/morethermalevaporation-3.2.2-1.21.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/morethermalevaporation/files/9117275"
   },
   {
    "name": "Mekanism:More Machine",
@@ -1411,6 +1420,15 @@
    "size": 3659440,
    "url": "https://edge.forgecdn.net/files/8724/947/mekmm-1.21.1-1.4.1.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/mekanism-more-machine/files/8724947"
+  },
+  {
+   "name": "MezzConfig",
+   "file": "mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+   "side": "both",
+   "sha1": "d99ed592d8ab7105c00444047be7d8346d694ba3",
+   "size": 327173,
+   "url": "https://edge.forgecdn.net/files/9048/666/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/mezzconfig/files/9048666"
   },
   {
    "name": "Mob Grinding Utils",
@@ -1423,12 +1441,12 @@
   },
   {
    "name": "Modern Industrialization",
-   "file": "Modern-Industrialization-2.5.9.jar",
+   "file": "Modern-Industrialization-2.5.11.jar",
    "side": "both",
-   "sha1": "e42ea7759b693f654c41a04ce72ca6178c8e7dbb",
-   "size": 7276669,
-   "url": "https://edge.forgecdn.net/files/9039/18/Modern-Industrialization-2.5.9.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/modern-industrialization/files/9039018"
+   "sha1": "d2e49e4d5298be0472fa0fbf40c343eb84d890b5",
+   "size": 7308900,
+   "url": "https://edge.forgecdn.net/files/9273/385/Modern-Industrialization-2.5.11.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/modern-industrialization/files/9273385"
   },
   {
    "name": "Modonomicon",
@@ -1443,10 +1461,10 @@
    "name": "Modular Routers",
    "file": "modular-routers-13.2.7+mc1.21.1.jar",
    "side": "both",
-   "sha1": "386fcae227b6d7963ba11e9808be4bc0910079da",
+   "sha1": "d67d3df00b08ea5135326cf1a063ae3032a53114",
    "size": 1285765,
-   "url": "https://edge.forgecdn.net/files/8478/801/modular-routers-13.2.7%2bmc1.21.1.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/modular-routers/files/8478801"
+   "url": "https://edge.forgecdn.net/files/9119/568/modular-routers-13.2.7%2bmc1.21.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/modular-routers/files/9119568"
   },
   {
    "name": "More Pylons",
@@ -1468,12 +1486,12 @@
   },
   {
    "name": "Neo Vitae",
-   "file": "neovitae-1.21.1-1.1.32.jar",
+   "file": "neovitae-1.21.1-1.1.48.jar",
    "side": "both",
-   "sha1": "046300a5bc82b79b3bbb4f826bd09fd941884104",
-   "size": 13382830,
-   "url": "https://edge.forgecdn.net/files/9073/80/neovitae-1.21.1-1.1.32.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/neovitae/files/9073080"
+   "sha1": "d19b001e67b33f12da2b3d98bb884a863bfef605",
+   "size": 13862763,
+   "url": "https://edge.forgecdn.net/files/9280/921/neovitae-1.21.1-1.1.48.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/neovitae/files/9280921"
   },
   {
    "name": "Nyctography",
@@ -1483,6 +1501,15 @@
    "size": 59132,
    "url": "https://edge.forgecdn.net/files/7864/313/nyctography-neoforge-1.21.1-21.1.8.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/nyctography/files/7864313"
+  },
+  {
+   "name": "OpenBlocks Elevator",
+   "file": "elevatorid-neoforge-1.21.1-1.11.4.jar",
+   "side": "both",
+   "sha1": "87a5504efcd51de55cd4215a103cbfcf717fa022",
+   "size": 191190,
+   "url": "https://edge.forgecdn.net/files/6199/696/elevatorid-neoforge-1.21.1-1.11.4.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/files/6199696"
   },
   {
    "name": "Oritech",
@@ -1576,12 +1603,12 @@
   },
   {
    "name": "Placebo",
-   "file": "Placebo-1.21.1-9.9.3.jar",
+   "file": "Placebo-1.21.1-9.9.4.jar",
    "side": "both",
-   "sha1": "37b1cf95c23a72caafc5d5c9671bbf1fa62bee14",
-   "size": 325017,
-   "url": "https://edge.forgecdn.net/files/9077/763/Placebo-1.21.1-9.9.3.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/placebo/files/9077763"
+   "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
+   "size": 326063,
+   "url": "https://edge.forgecdn.net/files/9153/39/Placebo-1.21.1-9.9.4.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/placebo/files/9153039"
   },
   {
    "name": "PneumaticCraft: Repressurized",
@@ -1801,30 +1828,30 @@
   },
   {
    "name": "Sophisticated Backpacks",
-   "file": "sophisticatedbackpacks-1.21.1-3.26.8.2189.jar",
+   "file": "sophisticatedbackpacks-1.21.1-3.26.14.2222.jar",
    "side": "both",
-   "sha1": "046f95d4fe6582a600bf61f248cc04402b2a35d4",
-   "size": 1239498,
-   "url": "https://edge.forgecdn.net/files/9074/419/sophisticatedbackpacks-1.21.1-3.26.8.2189.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/9074419"
+   "sha1": "6857b30c6d4600758564eac6d903570e076f0f79",
+   "size": 1257036,
+   "url": "https://edge.forgecdn.net/files/9271/144/sophisticatedbackpacks-1.21.1-3.26.14.2222.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/9271144"
   },
   {
    "name": "Sophisticated Core",
-   "file": "sophisticatedcore-1.21.1-1.5.6.2374.jar",
+   "file": "sophisticatedcore-1.21.1-1.5.17.2426.jar",
    "side": "both",
-   "sha1": "d517ce8b730bb5511f158909aeaf873e0ebb338f",
-   "size": 1813374,
-   "url": "https://edge.forgecdn.net/files/9074/355/sophisticatedcore-1.21.1-1.5.6.2374.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/9074355"
+   "sha1": "f83c21763ae821577ca25a2696c26ea65dfc54e8",
+   "size": 1819706,
+   "url": "https://edge.forgecdn.net/files/9279/274/sophisticatedcore-1.21.1-1.5.17.2426.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/9279274"
   },
   {
    "name": "Sophisticated Storage",
-   "file": "sophisticatedstorage-1.21.1-1.6.2.2154.jar",
+   "file": "sophisticatedstorage-1.21.1-1.6.9.2199.jar",
    "side": "both",
-   "sha1": "cff78bd00bcb8328390e4dd70d03910182d34427",
-   "size": 1920730,
-   "url": "https://edge.forgecdn.net/files/9074/514/sophisticatedstorage-1.21.1-1.6.2.2154.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/9074514"
+   "sha1": "44cc71db63e1366798278eacf06f3fff5e3306ad",
+   "size": 1932967,
+   "url": "https://edge.forgecdn.net/files/9296/117/sophisticatedstorage-1.21.1-1.6.9.2199.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage/files/9296117"
   },
   {
    "name": "Soulplied Energistics",
@@ -1864,30 +1891,30 @@
   },
   {
    "name": "SuperMartijn642's Core Lib",
-   "file": "supermartijn642corelib-1.1.24b-neoforge-mc1.21.jar",
+   "file": "supermartijn642corelib-1.1.25-neoforge-mc1.21.jar",
    "side": "both",
-   "sha1": "d309e83eed134a6a3ac7f15a4481f92ec9bb8377",
-   "size": 562372,
-   "url": "https://edge.forgecdn.net/files/9063/664/supermartijn642corelib-1.1.24b-neoforge-mc1.21.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/files/9063664"
+   "sha1": "60d45feac8cd2f0b497b013c7fd501b3ae8b6f6d",
+   "size": 562683,
+   "url": "https://edge.forgecdn.net/files/9083/552/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/files/9083552"
   },
   {
    "name": "Tesseract API (NeoForge)",
-   "file": "tesseract-api-neoforge-1.12.17-1.21.1.jar",
+   "file": "tesseract-api-neoforge-1.12.19-1.21.1.jar",
    "side": "both",
-   "sha1": "8c07817b125ffe4695e688ae8fbdef5182dab2d6",
-   "size": 762473,
-   "url": "https://edge.forgecdn.net/files/9039/294/tesseract-api-neoforge-1.12.17-1.21.1.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/tesseract-api-neoforge/files/9039294"
+   "sha1": "0d627fd71893c443eb2d4a5723885ef1ae25e1ed",
+   "size": 764237,
+   "url": "https://edge.forgecdn.net/files/9303/715/tesseract-api-neoforge-1.12.19-1.21.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/tesseract-api-neoforge/files/9303715"
   },
   {
    "name": "The Bumblezone (NeoForge/Forge)",
-   "file": "the_bumblezone-7.16.1+1.21.1-neoforge.jar",
+   "file": "the_bumblezone-7.17.1+1.21.1-neoforge.jar",
    "side": "both",
-   "sha1": "b374036e9f4e0f2d824a6b3b33ccf9eac54ced52",
-   "size": 69691277,
-   "url": "https://edge.forgecdn.net/files/8903/75/the_bumblezone-7.16.1%2b1.21.1-neoforge.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge/files/8903075"
+   "sha1": "3fe084f98516cfdaad948129c35b9a51041262a3",
+   "size": 83641360,
+   "url": "https://edge.forgecdn.net/files/9302/166/the_bumblezone-7.17.1%2b1.21.1-neoforge.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge/files/9302166"
   },
   {
    "name": "Time in a Bottle",
@@ -1936,12 +1963,12 @@
   },
   {
    "name": "Trash Cans",
-   "file": "trashcans-1.1.1-neoforge-mc1.21.jar",
+   "file": "trashcans-1.1.2-neoforge-mc1.21.jar",
    "side": "both",
-   "sha1": "79120eb32cdeb66348a1bceff3972dc2c00b22b5",
-   "size": 169263,
-   "url": "https://edge.forgecdn.net/files/8972/358/trashcans-1.1.1-neoforge-mc1.21.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/trash-cans/files/8972358"
+   "sha1": "f165900a2a9de539da47ea0609a5c303e4625679",
+   "size": 169363,
+   "url": "https://edge.forgecdn.net/files/9289/326/trashcans-1.1.2-neoforge-mc1.21.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/trash-cans/files/9289326"
   },
   {
    "name": "TrashSlot",
@@ -2065,21 +2092,21 @@
  "own": [
   {
    "file": "packforge-0.32.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.19/packforge-0.32.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.20/packforge-0.32.0.jar",
    "sha1": "316cdb35ee914c6868ed32ae1b1bbe42c8533df9",
    "size": 490760
   },
   {
    "file": "pfmachines-0.22.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.19/pfmachines-0.22.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.20/pfmachines-0.22.0.jar",
    "sha1": "d0a15d1bd82f86e18a00de6f70dae1de8d1da20e",
    "size": 557446
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.19/n-tech-rockblock-3-1.0.19-overrides.zip",
-  "sha1": "e72dc42689ee33f8ffdae89f22aa5740b427bfb3",
-  "size": 10451089
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.20/n-tech-rockblock-3-1.0.20-overrides.zip",
+  "sha1": "6525d4b1db1dde4e643516939ec63ee991b41a03",
+  "size": 10483753
  },
  "license": {
   "pack": "n-tech-rockblock-3",
@@ -2160,6 +2187,7 @@
    "draconicevolution",
    "durabilitytooltip",
    "easy_villagers",
+   "elevatorid",
    "enderio",
    "enderstorage",
    "entangled",
@@ -2211,7 +2239,6 @@
    "jade",
    "jei",
    "jeimultiblocks",
-   "jeresources",
    "journeymap",
    "justdirefuels",
    "justdirethings",
@@ -2220,6 +2247,7 @@
    "kleiders_custom_renderer",
    "libx",
    "lionfishapi",
+   "lootr",
    "luminax",
    "mcjtylib",
    "mekanism",
@@ -2304,7 +2332,7 @@
    "xycraft_world",
    "zerocore"
   ],
-  "sig": "cblR2n/Jhag0ejQl2/lSqKx9yW9Fqv2Zgsyzs0URjKf4hWkg9m4NxsF77Mh6v3E/XDvtCOAwt1uUmzR9q/FMBA=="
+  "sig": "D9uFZ3FP82nkqE8fk0HDOEFFYVnKzAYK4zeYlcHtdSmSPeY1rabXFuIbiK8yK77Znzbdt9EDEe7GmlA6EQoMDA=="
  },
  "managedDirs": [
   "packforge/datapack",
