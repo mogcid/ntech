@@ -42,7 +42,7 @@
    "manifest": "packs/n-tech-rockblock-3.json",
    "changelog": "- Pétrole unifié : le pétrole de la graine Oil (Oritech) marche dans Modern Industrialization, PneumaticCraft et Immersive Petroleum, et la raffinerie et le générateur d'Oritech acceptent le pétrole des autres mods.\n- Les distilleries et la tour de distillation de Modern Industrialization acceptent tous les pétroles bruts.",
    "changelog_en": "- Unified oil: oil from the Oil seed (Oritech) now works in Modern Industrialization, PneumaticCraft and Immersive Petroleum, and Oritech's refinery and generator accept the other mods' oil.\n- Modern Industrialization distilleries and the distillation tower accept every crude oil.",
-   "date": "2026-10-25T08:34:29+00:00",
+   "date": "2026-10-25T08:36:04+00:00",
    "server": "135.125.189.10:25567"
   }
  ],
