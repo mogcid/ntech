@@ -42,7 +42,7 @@
    "manifest": "packs/n-tech-rockblock-3.json",
    "changelog": "- Correctif : PackForge Machines manquait depuis la 1.0.21 (les machines PackForge du pack n'étaient plus là). Il est de retour.",
    "changelog_en": "- Fix: PackForge Machines was missing since 1.0.21 (the pack's PackForge machines were gone). It is back.",
-   "date": "2026-10-25T08:54:31+00:00",
+   "date": "2026-10-25T08:56:22+00:00",
    "server": "135.125.189.10:25567"
   }
  ],
