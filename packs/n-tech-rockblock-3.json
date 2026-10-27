@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-rockblock-3",
  "name": "N-Tech RockBlock 4",
- "version": "1.0.24",
+ "version": "1.0.25",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.246",
  "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
@@ -1881,6 +1881,15 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/statues/files/7460370"
   },
   {
+   "name": "Super Factory Manager ( SFM )",
+   "file": "Super Factory Manager (SFM)-MC1.21.1-4.34.0.jar",
+   "side": "both",
+   "sha1": "1c170062c486bd25a1161571b6c3cf9e6371611b",
+   "size": 1597623,
+   "url": "https://edge.forgecdn.net/files/8370/241/Super%20Factory%20Manager%20(SFM)-MC1.21.1-4.34.0.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/super-factory-manager/files/8370241"
+  },
+  {
    "name": "SuperMartijn642's Config Lib",
    "file": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
    "side": "both",
@@ -2092,21 +2101,21 @@
  "own": [
   {
    "file": "packforge-0.32.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.24/packforge-0.32.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.25/packforge-0.32.0.jar",
    "sha1": "316cdb35ee914c6868ed32ae1b1bbe42c8533df9",
    "size": 490760
   },
   {
-   "file": "pfmachines-0.23.6.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.24/pfmachines-0.23.6.jar",
-   "sha1": "46f70fc069c0ddac6c406aea061ec7a4c0f5d187",
-   "size": 618087
+   "file": "pfmachines-0.24.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.25/pfmachines-0.24.0.jar",
+   "sha1": "f10336cdf2a6a70d7440b4374cc25433c6c2ffba",
+   "size": 729073
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.24/n-tech-rockblock-3-1.0.24-overrides.zip",
-  "sha1": "84d6b0dbf8903c6aaceb85234cf286af25b34b34",
-  "size": 10776169
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.25/n-tech-rockblock-3-1.0.25-overrides.zip",
+  "sha1": "cf9d55b426dcbc438d0a689888fd3f4a907390a9",
+  "size": 11724248
  },
  "license": {
   "pack": "n-tech-rockblock-3",
@@ -2299,6 +2308,7 @@
    "rftoolsstorage",
    "runelic",
    "searchables",
+   "sfm",
    "simplemagnets",
    "simplylight",
    "skyblock_resources",
@@ -2332,7 +2342,7 @@
    "xycraft_world",
    "zerocore"
   ],
-  "sig": "D9uFZ3FP82nkqE8fk0HDOEFFYVnKzAYK4zeYlcHtdSmSPeY1rabXFuIbiK8yK77Znzbdt9EDEe7GmlA6EQoMDA=="
+  "sig": "C7ZzNZ19ZoNSzoDeZdsiwQgNPK6uwW6KgUeH6hL2M/yUGTC9o9i/GPYDVg7R9om+DP+NBnoxYOsghlcxR0VhCg=="
  },
  "managedDirs": [
   "packforge/datapack",
