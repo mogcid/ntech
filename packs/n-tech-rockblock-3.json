@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-rockblock-3",
  "name": "N-Tech RockBlock 4",
- "version": "1.0.27",
+ "version": "1.0.28",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.246",
  "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
@@ -1629,6 +1629,24 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized/files/8519226"
   },
   {
+   "name": "Polymorph",
+   "file": "polymorph-neoforge-1.1.0+1.21.1.jar",
+   "side": "both",
+   "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+   "size": 174972,
+   "url": "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/polymorph/files/6794589"
+  },
+  {
+   "name": "Polymorphic Energistics",
+   "file": "polyeng-0.4.1.jar",
+   "side": "both",
+   "sha1": "4add4d9e854807ed2b10c0cabf972244f862b21f",
+   "size": 20130,
+   "url": "https://edge.forgecdn.net/files/5545/923/polyeng-0.4.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics/files/5545923"
+  },
+  {
    "name": "Powah! (Rearchitected)",
    "file": "Powah-6.2.10.jar",
    "side": "both",
@@ -2119,21 +2137,21 @@
  "own": [
   {
    "file": "packforge-0.34.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.27/packforge-0.34.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.28/packforge-0.34.0.jar",
    "sha1": "70e4b268bf87ff7361f91b6b148562960f850f56",
    "size": 497507
   },
   {
    "file": "pfmachines-0.25.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.27/pfmachines-0.25.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.28/pfmachines-0.25.1.jar",
    "sha1": "b678c6afa51b43b55f4a7d2808f586489b190515",
    "size": 733380
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.27/n-tech-rockblock-3-1.0.27-overrides.zip",
-  "sha1": "5b6a372cbabda8f2d9af8c0c1271fdeaf578b7bc",
-  "size": 11716870
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.28/n-tech-rockblock-3-1.0.28-overrides.zip",
+  "sha1": "8dca5e06ee727e052e28ac08e54c42ed7e10bcc2",
+  "size": 11769489
  },
  "license": {
   "pack": "n-tech-rockblock-3",
@@ -2311,6 +2329,8 @@
    "pipez",
    "placebo",
    "pneumaticcraft",
+   "polyeng",
+   "polymorph",
    "powah",
    "prickle",
    "productivebees",
@@ -2362,7 +2382,7 @@
    "xycraft_world",
    "zerocore"
   ],
-  "sig": "/aMZGBJe83MeGfR2XkS/b8wjeuisODaIvAy07cbMQ3QnVRoGnvLVKY7MjifzCxJ3fBwmEYxn1silQ0JVYTukCg=="
+  "sig": "BB1RsNKPFUsO82nufZ44WTWwAzKiDKL7R2/da9ZJX5AfD+IuSH+P1eVCy8jXAriYnzNSuKXPQCjywdsqdwAnDw=="
  },
  "managedDirs": [
   "packforge/datapack",
