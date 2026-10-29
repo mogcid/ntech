@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-nexus",
  "name": "N-Tech Nexus",
- "version": "1.0.4",
+ "version": "1.0.5",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.256",
  "summary": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.",
@@ -439,6 +439,15 @@
    "size": 1266042,
    "url": "https://edge.forgecdn.net/files/8404/453/cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/8404453"
+  },
+  {
+   "name": "Corpse",
+   "file": "corpse-neoforge-1.21.1-1.1.22.jar",
+   "side": "both",
+   "sha1": "0d73e082e4d5c0f185aa8030bcefb68c259d1107",
+   "size": 256780,
+   "url": "https://edge.forgecdn.net/files/9289/316/corpse-neoforge-1.21.1-1.1.22.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/corpse/files/9289316"
   },
   {
    "name": "Cosmetic Armor Reworked",
@@ -1422,6 +1431,15 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/shatterbyte-lib/files/8040848"
   },
   {
+   "name": "Simple Magnets",
+   "file": "simplemagnets-1.1.12c-neoforge-mc1.21.jar",
+   "side": "both",
+   "sha1": "abba7efcee3ae31bd3512147053279422e866ebf",
+   "size": 146262,
+   "url": "https://edge.forgecdn.net/files/6316/527/simplemagnets-1.1.12c-neoforge-mc1.21.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/simple-magnets/files/6316527"
+  },
+  {
    "name": "Sodium",
    "file": "sodium-neoforge-0.8.13+mc1.21.1.jar",
    "side": "client",
@@ -1465,6 +1483,24 @@
    "size": 105355,
    "url": "https://edge.forgecdn.net/files/7374/98/solcarrot-1.21.1-1.16.6.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition/files/7374098"
+  },
+  {
+   "name": "SuperMartijn642's Config Lib",
+   "file": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+   "side": "both",
+   "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574",
+   "size": 207514,
+   "url": "https://edge.forgecdn.net/files/5546/996/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib/files/5546996"
+  },
+  {
+   "name": "SuperMartijn642's Core Lib",
+   "file": "supermartijn642corelib-1.1.26-neoforge-mc1.21.jar",
+   "side": "both",
+   "sha1": "87cad4854002b2028c1b5e3e4ab150cf9f5fb722",
+   "size": 591925,
+   "url": "https://edge.forgecdn.net/files/9352/716/supermartijn642corelib-1.1.26-neoforge-mc1.21.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/files/9352716"
   },
   {
    "name": "Swing Through Grass",
@@ -1589,26 +1625,26 @@
  "own": [
   {
    "file": "packforge-0.35.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.4/packforge-0.35.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.5/packforge-0.35.0.jar",
    "sha1": "5cd635be607f125f4cbfc59f70926c5afbe89298",
    "size": 512105
   },
   {
    "file": "pfmachines-0.25.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.4/pfmachines-0.25.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.5/pfmachines-0.25.1.jar",
    "sha1": "b678c6afa51b43b55f4a7d2808f586489b190515",
    "size": 733380
   },
   {
-   "file": "pftools-0.9.3.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.4/pftools-0.9.3.jar",
-   "sha1": "72e3235dfee8f2340bf283166a16d72eab2f3229",
-   "size": 266646
+   "file": "pftools-0.9.4.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.5/pftools-0.9.4.jar",
+   "sha1": "e64ccda01a91c2bdd628ab0908b7b11a5c5413dd",
+   "size": 266680
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.4/n-tech-nexus-1.0.4-overrides.zip",
-  "sha1": "e17b6189012de3102a6101d0f4a2881d36bcb162",
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.5/n-tech-nexus-1.0.5-overrides.zip",
+  "sha1": "dc5625eadb5b10746687e7ebc0335c32dd768178",
   "size": 6802480
  },
  "license": {
@@ -1662,6 +1698,7 @@
    "constructionwand",
    "controlling",
    "cookingforblockheads",
+   "corpse",
    "cosmeticarmorreworked",
    "create",
    "createsifter",
@@ -1764,10 +1801,13 @@
    "rftoolsutility",
    "scannable",
    "searchables",
+   "simplemagnets",
    "solcarrot",
    "sophisticatedbackpacks",
    "sophisticatedcore",
    "sophisticatedstorage",
+   "supermartijn642configlib",
+   "supermartijn642corelib",
    "swingthroughgrass",
    "terrablender",
    "titanium",
@@ -1781,7 +1821,7 @@
    "zerocore",
    "zeta"
   ],
-  "sig": "S3ETpQDDO2OpH0RKGyvj20T0LXhDXaocdtP1mH5EgemoWjVsJx7ANpWlxD74/8FO/hOnzB0cEFE5HUUCOd0uBA=="
+  "sig": "kXw7fAFy+WYpqHUJkPvHQnjBY18hPoto/XWew7M9Mrs8o9LtqCu2R2POLb8Nahkd+hlp3enivjLUsuWhEFNiAw=="
  },
  "managedDirs": [
   "packforge/datapack",
