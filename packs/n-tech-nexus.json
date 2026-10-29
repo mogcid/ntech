@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-nexus",
  "name": "N-Tech Nexus",
- "version": "1.0.3",
+ "version": "1.0.4",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.256",
  "summary": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.",
@@ -342,6 +342,15 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/chisel-reborn/files/8288925"
   },
   {
+   "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+   "file": "cloth-config-15.0.140-neoforge.jar",
+   "side": "both",
+   "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+   "size": 1163890,
+   "url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/5729127"
+  },
+  {
    "name": "Clumps",
    "file": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
    "side": "both",
@@ -601,6 +610,15 @@
    "size": 2554779,
    "url": "https://edge.forgecdn.net/files/7344/744/ExtremeReactors2-1.21.1-2.4.28.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/extreme-reactors/files/7344744"
+  },
+  {
+   "name": "Extreme sound muffler - (Neo)Forge",
+   "file": "ExtremeSoundMuffler-3.57_NeoForge-1.21.jar",
+   "side": "client",
+   "sha1": "c9f51a7a057230ae06ca1e830cad2752dcbfd08b",
+   "size": 270493,
+   "url": "https://edge.forgecdn.net/files/9039/351/ExtremeSoundMuffler-3.57_NeoForge-1.21.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/9039351"
   },
   {
    "name": "Farming for Blockheads",
@@ -988,6 +1006,24 @@
    "size": 7279276,
    "url": "https://edge.forgecdn.net/files/8335/665/kotlinforforge-5.12.0-all.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/files/8335665"
+  },
+  {
+   "name": "Light Overlay (Rift/Forge/Fabric)",
+   "file": "light-overlay-12.0.0-neoforge.jar",
+   "side": "client",
+   "sha1": "f15a3b88c926d2dc9d06c2b876cd89287791773c",
+   "size": 62920,
+   "url": "https://edge.forgecdn.net/files/5553/811/light-overlay-12.0.0-neoforge.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/light-overlay/files/5553811"
+  },
+  {
+   "name": "Lootr (Forge & NeoForge)",
+   "file": "lootr-neoforge-1.21.1-1.11.38.127.jar",
+   "side": "both",
+   "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
+   "size": 1075929,
+   "url": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/lootr/files/8968561"
   },
   {
    "name": "McJtyLib",
@@ -1539,30 +1575,40 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/zeta/files/7980010"
   }
  ],
- "manualMods": [],
+ "manualMods": [
+  {
+   "name": "Timber Enchantment (Fabric/Forge/NeoForge/Quilt)",
+   "file": "timber-enchantment-1.2.1-1.21.1.jar",
+   "side": "server",
+   "sha1": "9f3940e712a4e4174b3992575c061a8012a4adc6",
+   "size": 60994,
+   "url": "",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/timber-enchantment/files/9151141"
+  }
+ ],
  "own": [
   {
    "file": "packforge-0.35.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.3/packforge-0.35.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.4/packforge-0.35.0.jar",
    "sha1": "5cd635be607f125f4cbfc59f70926c5afbe89298",
    "size": 512105
   },
   {
    "file": "pfmachines-0.25.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.3/pfmachines-0.25.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.4/pfmachines-0.25.1.jar",
    "sha1": "b678c6afa51b43b55f4a7d2808f586489b190515",
    "size": 733380
   },
   {
-   "file": "pftools-0.9.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.3/pftools-0.9.1.jar",
-   "sha1": "213614b697cb14aa59fc447195da863cdb5ee95c",
-   "size": 265007
+   "file": "pftools-0.9.3.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.4/pftools-0.9.3.jar",
+   "sha1": "72e3235dfee8f2340bf283166a16d72eab2f3229",
+   "size": 266646
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.3/n-tech-nexus-1.0.3-overrides.zip",
-  "sha1": "95c22c817ff093cb11dfa8e5e672679aae3a8958",
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.4/n-tech-nexus-1.0.4-overrides.zip",
+  "sha1": "e17b6189012de3102a6101d0f4a2881d36bcb162",
   "size": 6802480
  },
  "license": {
@@ -1606,6 +1652,7 @@
    "buildinggadgets2",
    "carryon",
    "chisel",
+   "cloth_config",
    "clumps",
    "codechickenlib",
    "comforts",
@@ -1672,6 +1719,7 @@
    "jupiter",
    "justdirethings",
    "kleeslabs",
+   "lootr",
    "mcjtylib",
    "mechanicals",
    "megacells",
@@ -1733,7 +1781,7 @@
    "zerocore",
    "zeta"
   ],
-  "sig": "rzneEmgl9OVsxeRtTbmQ3cboB+E5YQLqlIhTr4pI1jSNDEijJFf9YzHHkxfCpfsxBvoC2vleXvHbsvyWgG5vAg=="
+  "sig": "S3ETpQDDO2OpH0RKGyvj20T0LXhDXaocdtP1mH5EgemoWjVsJx7ANpWlxD74/8FO/hOnzB0cEFE5HUUCOd0uBA=="
  },
  "managedDirs": [
   "packforge/datapack",
