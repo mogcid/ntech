@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-nexus",
  "name": "N-Tech Nexus",
- "version": "1.0.2",
+ "version": "1.0.3",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.256",
  "summary": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.",
@@ -34,6 +34,15 @@
    "size": 688670,
    "url": "https://edge.forgecdn.net/files/8961/599/ae2importexportcard-1.21.1-1.9.1.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-import-export-card/files/8961599"
+  },
+  {
+   "name": "AE2 JEI Integration",
+   "file": "ae2jeiintegration-1.2.1.jar",
+   "side": "both",
+   "sha1": "e99898b3e9c32bf6ac757e7ad50247746622cdfc",
+   "size": 91710,
+   "url": "https://edge.forgecdn.net/files/7727/898/ae2jeiintegration-1.2.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration/files/7727898"
   },
   {
    "name": "AE2 MEGA Things",
@@ -1533,26 +1542,26 @@
  "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.29.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.2/packforge-0.29.0.jar",
-   "sha1": "d8b43450def733266a2304de121a0acf4c5cd30c",
-   "size": 473479
+   "file": "packforge-0.35.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.3/packforge-0.35.0.jar",
+   "sha1": "5cd635be607f125f4cbfc59f70926c5afbe89298",
+   "size": 512105
   },
   {
-   "file": "pfmachines-0.20.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.2/pfmachines-0.20.0.jar",
-   "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
-   "size": 523398
+   "file": "pfmachines-0.25.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.3/pfmachines-0.25.1.jar",
+   "sha1": "b678c6afa51b43b55f4a7d2808f586489b190515",
+   "size": 733380
   },
   {
    "file": "pftools-0.9.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.2/pftools-0.9.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.3/pftools-0.9.1.jar",
    "sha1": "213614b697cb14aa59fc447195da863cdb5ee95c",
    "size": 265007
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.2/n-tech-nexus-1.0.2-overrides.zip",
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.3/n-tech-nexus-1.0.3-overrides.zip",
   "sha1": "95c22c817ff093cb11dfa8e5e672679aae3a8958",
   "size": 6802480
  },
@@ -1564,6 +1573,7 @@
    "ae2_mega_things",
    "ae2ct",
    "ae2importexportcard",
+   "ae2jeiintegration",
    "ae2netanalyser",
    "ae2things",
    "ae2wtlib",
@@ -1723,7 +1733,7 @@
    "zerocore",
    "zeta"
   ],
-  "sig": "+nbrQ5rh0J/JIS+o00H61NGj2spk9xjQ+8fZSioqrmW2lGQEr0ZRoWUBvCIOaKfRDhE/Njr+68JHDtJ8nmRPCw=="
+  "sig": "rzneEmgl9OVsxeRtTbmQ3cboB+E5YQLqlIhTr4pI1jSNDEijJFf9YzHHkxfCpfsxBvoC2vleXvHbsvyWgG5vAg=="
  },
  "managedDirs": [
   "packforge/datapack",
