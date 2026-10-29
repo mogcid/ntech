@@ -21,18 +21,6 @@
    "server": "135.125.189.10:25566"
   },
   {
-   "slug": "n-tech-microverse",
-   "name": "N-Tech Microverse",
-   "version": "1.0.3",
-   "mc": "1.21.1",
-   "summary": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie.",
-   "about": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie. Chaque porte vous rapproche d'un univers toujours plus vaste , puis bâtis le Nexus Central et deviens un dieu.",
-   "manifest": "packs/n-tech-microverse.json",
-   "changelog": "- Livre de quêtes refait : chaque chapitre est un chemin unique, une quête après l'autre (plus de branches dans tous les sens).\n- Chaque chapitre commence par sa quête d'accueil (Bienvenue, La vapeur, L'électricité, L'automatisation, Les Mondes, La Magie, La fin de jeu, Le Nexus Central, Le Nexus divin) ; un chapitre se débloque à la fin du précédent.\n- Nouvelle quête « Fabrication primitive », juste après Bienvenue : explique la fabrication à mains nues (touche C).\n- Ajout : AE2 JEI Integration.\n- Mise à jour des mods PackForge.",
-   "date": "2026-10-22T08:55:02+00:00",
-   "server": "135.125.189.10:25568"
-  },
-  {
    "slug": "n-tech-rockblock-3",
    "name": "N-Tech RockBlock 4",
    "version": "1.0.28",
@@ -44,6 +32,19 @@
    "changelog_en": "- Bees: the Water Bee (before: river only), the Prismarine Bee, the Sponge Bee and the Oily Bee\n  (before: deep ocean only) can now be fished in every overworld biome.\n- Ars Nouveau: 4 new Archwood seeds (blue, red, purple, green). Mutation oak + water / fire / air / earth\n  essence; the essence gives Archwood logs or saplings.\n- Added Polymorph and Polymorphic Energistics: when the same recipe can give several items, a button lets you\n  choose (crafting table and AE2 terminals).",
    "date": "2026-10-28T21:29:25+00:00",
    "server": "135.125.189.10:25567"
+  },
+  {
+   "slug": "n-tech-microverse",
+   "name": "N-Tech Microverse",
+   "version": "1.0.4",
+   "mc": "1.21.1",
+   "summary": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie.",
+   "about": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie. Chaque porte vous rapproche d'un univers toujours plus vaste , puis bâtis le Nexus Central et deviens un dieu.",
+   "manifest": "packs/n-tech-microverse.json",
+   "changelog": "- Machines de Modern Industrialization (et Extended Industrialization) 2 fois plus rapides (même énergie par tick).\n- Nouvelles machines en laiton : Synthétiseur en laiton et Combineur mécanique en laiton (2 fois plus rapides, faces réglables\n  dans l'interface : Entrée, Sortie ou les deux), Moteur mécanique en laiton (32 RPM, 256 SU).\n- Faces réglables aussi sur le Chauffage et le Creuset primitifs : ils aspirent dans un coffre collé et poussent leur fluide.\n- Synthétiseur manuel : remplit aussi la machine posée au-dessus. Combineur : remplit les combineurs voisins et garde la\n  recette choisie (il attend ses ingrédients au lieu d'en faire une autre).\n- Moteur primitif : recette avec un Andesite Casing ; posé à côté d'une machine, son axe se tourne vers elle.\n- Fabrication primitive (touche C) 3 fois plus rapide.\n- Les coffres et tonneaux affichent leur contenu sur leurs faces avant et arrière.\n- Plus de livre donné au spawn (Ars Nouveau, Modern Industrialization).\n- Quêtes : livre embelli, début du chapitre 1 refait, nouvelles quêtes (machines en laiton, Ferme à obsidienne),\n  explications pour le Mechanical Mixer (30 RPM minimum) et l'Obsidian (Mechanical Drill), objets corrigés\n  (Iron Plate, Copper Wire, Copper Nugget).\n- PackForge Companion 0.35.0, PackForge Microverse 0.27.1.",
+   "changelog_en": "- Modern Industrialization (and Extended Industrialization) machines are 2 times faster (same energy per tick).\n- New brass machines: Brass Synthesizer and Brass Mechanical Combiner (2 times faster, faces configurable in the\n  interface: Input, Output or both), Brass Mechanical Motor (32 RPM, 256 SU).\n- Configurable faces on the Primitive Heater and Primitive Crucible too: they pull from a chest next to them and push\n  their fluid out.\n- Manual Synthesizer: also fills the machine placed above it. Combiner: fills neighbouring combiners and keeps the chosen\n  recipe (it waits for its ingredients instead of making another one).\n- Primitive motor: recipe with an Andesite Casing; placed next to a machine, its shaft turns towards it.\n- Primitive crafting (C key) 3 times faster.\n- Chests and barrels show their contents on their front and back faces.\n- No more books given at spawn (Ars Nouveau, Modern Industrialization).\n- Quests: nicer book, start of chapter 1 redone, new quests (brass machines, Obsidian farm), explanations for the\n  Mechanical Mixer (30 RPM minimum) and Obsidian (Mechanical Drill), fixed items (Iron Plate, Copper Wire, Copper Nugget).\n- PackForge Companion 0.35.0, PackForge Microverse 0.27.1.",
+   "date": "2026-10-29T10:49:44+00:00",
+   "server": "135.125.189.10:25568"
   }
  ],
  "launcher": {
