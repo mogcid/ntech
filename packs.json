@@ -39,14 +39,14 @@
   {
    "slug": "n-tech-nexus",
    "name": "N-Tech Nexus",
-   "version": "1.0.7",
+   "version": "1.0.8",
    "mc": "1.21.1",
    "summary": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.",
    "about": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.\nAvec 738 quêtes réparties dans 26 chapitres, développez votre aventure des premiers outils forgés jusqu’aux équipements d’infini. Les recettes retravaillées relient les mods entre eux et placent l’automatisation au cœur du pack.\nConstruisez votre industrie avec Mekanism, Create, Immersive Engineering et Applied Energistics 2, découvrez 12 machines multiblocs personnalisées, puis explorez la magie avec Ars Nouveau, Botania et Astral Sorcery.\nPartez à l’aventure dans The Twilight Forest, affrontez les créatures d’Ice and Fire et voyagez vers d’autres planètes avec Ad Astra, avant de relever les défis de Draconic Evolution et Avaritia.\nForgez, automatisez et explorez : chaque progrès vous rapproche de l’infini !",
    "manifest": "packs/n-tech-nexus.json",
-   "changelog": "- Dimension de minage d'ATM : 5 fois plus d'allthemodium, et ajout de vibranium (couche de netherrack) et d'unobtainium (couche de pierre de l'End).\n- La dimension de minage a été réinitialisée pour que les nouveaux minerais y apparaissent.",
-   "changelog_en": "- ATM mining dimension: 5 times more allthemodium, plus vibranium (netherrack layer) and unobtainium (end stone layer).\n- The mining dimension was reset so the new ores generate.",
-   "date": "2026-10-30T13:06:13+00:00",
+   "changelog": "- Ajout de Waystones : pierres de téléportation à placer et relier dans le monde.\n- PackForge Tools : les armes (épées, katanas, shurikens) gagnent de l'XP selon la vie du mob ; les boss (wither, dragon, boss d'AllTheModium...) rapportent beaucoup plus.\n- PackForge Tools : l'infobulle des livres et objets enchantés explique ce que fait chaque enchantement.\n- PackForge Tools : pour faire monter un shuriken, une lame posée d'un côté remplace la branche de ce côté (plus besoin des 4 d'un coup).",
+   "changelog_en": "- Added Waystones: teleport stones to place and link across the world.\n- PackForge Tools: weapons (swords, katanas, shurikens) gain XP based on the mob's health; bosses (Wither, Dragon, AllTheModium bosses...) give much more.\n- PackForge Tools: enchanted books and items explain what each enchantment does in their tooltip.\n- PackForge Tools: to upgrade a shuriken, a blade placed on one side replaces the branch on that side (no need for all 4 at once).",
+   "date": "2026-10-30T21:02:13+00:00",
    "server": "135.125.189.10:25566"
   }
  ],
