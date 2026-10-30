@@ -1644,8 +1644,8 @@
  ],
  "overrides": {
   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.7/n-tech-nexus-1.0.7-overrides.zip",
-  "sha1": "dc5625eadb5b10746687e7ebc0335c32dd768178",
-  "size": 6802480
+  "sha1": "ceda4084ff247e0a002ca53805b3f2089f0ba82b",
+  "size": 6804498
  },
  "license": {
   "pack": "n-tech-nexus",
