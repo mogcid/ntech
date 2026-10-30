@@ -46,7 +46,7 @@
    "manifest": "packs/n-tech-nexus.json",
    "changelog": "- Dimension de minage d'ATM : 5 fois plus d'allthemodium, et ajout de vibranium (couche de netherrack) et d'unobtainium (couche de pierre de l'End).\n- La dimension de minage a été réinitialisée pour que les nouveaux minerais y apparaissent.",
    "changelog_en": "- ATM mining dimension: 5 times more allthemodium, plus vibranium (netherrack layer) and unobtainium (end stone layer).\n- The mining dimension was reset so the new ores generate.",
-   "date": "2026-10-30T13:03:53+00:00",
+   "date": "2026-10-30T13:06:13+00:00",
    "server": "135.125.189.10:25566"
   }
  ],
