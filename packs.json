@@ -46,7 +46,7 @@
    "manifest": "packs/n-tech-nexus.json",
    "changelog": "- Ajout de Waystones : pierres de téléportation à placer et relier dans le monde.\n- PackForge Tools : les armes (épées, katanas, shurikens) gagnent de l'XP selon la vie du mob ; les boss (wither, dragon, boss d'AllTheModium...) rapportent beaucoup plus.\n- PackForge Tools : l'infobulle des livres et objets enchantés explique ce que fait chaque enchantement.\n- PackForge Tools : pour faire monter un shuriken, une lame posée d'un côté remplace la branche de ce côté (plus besoin des 4 d'un coup).",
    "changelog_en": "- Added Waystones: teleport stones to place and link across the world.\n- PackForge Tools: weapons (swords, katanas, shurikens) gain XP based on the mob's health; bosses (Wither, Dragon, AllTheModium bosses...) give much more.\n- PackForge Tools: enchanted books and items explain what each enchantment does in their tooltip.\n- PackForge Tools: to upgrade a shuriken, a blade placed on one side replaces the branch on that side (no need for all 4 at once).",
-   "date": "2026-10-30T21:02:13+00:00",
+   "date": "2026-10-30T21:03:49+00:00",
    "server": "135.125.189.10:25566"
   }
  ],
