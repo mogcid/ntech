@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-nexus",
  "name": "N-Tech Nexus",
- "version": "1.0.6",
+ "version": "1.0.7",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.256",
  "summary": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.",
@@ -1625,25 +1625,25 @@
  "own": [
   {
    "file": "packforge-0.35.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.6/packforge-0.35.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.7/packforge-0.35.0.jar",
    "sha1": "5cd635be607f125f4cbfc59f70926c5afbe89298",
    "size": 512105
   },
   {
    "file": "pfmachines-0.25.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.6/pfmachines-0.25.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.7/pfmachines-0.25.1.jar",
    "sha1": "b678c6afa51b43b55f4a7d2808f586489b190515",
    "size": 733380
   },
   {
    "file": "pftools-0.10.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.6/pftools-0.10.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.7/pftools-0.10.0.jar",
    "sha1": "26ba2be22d9226d4da3e2ca06be500fd3c45ff3f",
    "size": 295335
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.6/n-tech-nexus-1.0.6-overrides.zip",
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.7/n-tech-nexus-1.0.7-overrides.zip",
   "sha1": "dc5625eadb5b10746687e7ebc0335c32dd768178",
   "size": 6802480
  },
