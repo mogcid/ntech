@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-nexus",
  "name": "N-Tech Nexus",
- "version": "1.0.8",
+ "version": "1.0.9",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.256",
  "summary": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.",
@@ -115,6 +115,15 @@
    "size": 295093,
    "url": "https://edge.forgecdn.net/files/8127/603/almostunified-neoforge-1.21.1-1.4.2.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/almostunified/files/8127603"
+  },
+  {
+   "name": "Angel Ring",
+   "file": "angelring-1.21.1-neoforge-3.0.0+beta.3.jar",
+   "side": "both",
+   "sha1": "49a92b35e2185fe3964475731dd5f536793d43f0",
+   "size": 75234,
+   "url": "https://edge.forgecdn.net/files/6891/800/angelring-1.21.1-neoforge-3.0.0%2bbeta.3.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/angel-ring/files/6891800"
   },
   {
    "name": "Animus",
@@ -675,6 +684,15 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/flib/files/8611586"
   },
   {
+   "name": "Flight API",
+   "file": "flightapi-neoforge-1.1.1.jar",
+   "side": "both",
+   "sha1": "722ee6bd3793571591e47da88d479c63ed486f26",
+   "size": 17803,
+   "url": "https://edge.forgecdn.net/files/6891/762/flightapi-neoforge-1.1.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/flight-api/files/6891762"
+  },
+  {
    "name": "Flux Networks",
    "file": "FluxNetworks-1.21.1-8.0.0.jar",
    "side": "both",
@@ -826,6 +844,15 @@
    "size": 9311992,
    "url": "https://edge.forgecdn.net/files/8897/145/guideme-21.1.19.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/guideme/files/8897145"
+  },
+  {
+   "name": "HaydenAPI",
+   "file": "haydenapi-neoforge-1.0.4.jar",
+   "side": "both",
+   "sha1": "1def897f47edc4fd38cbb1955b7c9c842e002d08",
+   "size": 2558558,
+   "url": "https://edge.forgecdn.net/files/6302/841/haydenapi-neoforge-1.0.4.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/haydenapi/files/6302841"
   },
   {
    "name": "IceAndFire Community Edition",
@@ -1634,25 +1661,25 @@
  "own": [
   {
    "file": "packforge-0.35.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.8/packforge-0.35.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.9/packforge-0.35.0.jar",
    "sha1": "5cd635be607f125f4cbfc59f70926c5afbe89298",
    "size": 512105
   },
   {
    "file": "pfmachines-0.25.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.8/pfmachines-0.25.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.9/pfmachines-0.25.1.jar",
    "sha1": "b678c6afa51b43b55f4a7d2808f586489b190515",
    "size": 733380
   },
   {
-   "file": "pftools-0.10.3.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.8/pftools-0.10.3.jar",
-   "sha1": "3586096c9b9976c22d8baf4b1f6ce5d0cc324fc0",
-   "size": 299881
+   "file": "pftools-0.10.5.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.9/pftools-0.10.5.jar",
+   "sha1": "5c78af8fbb87092b0edd68e8dbc9e824a54f723f",
+   "size": 300461
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.8/n-tech-nexus-1.0.8-overrides.zip",
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.9/n-tech-nexus-1.0.9-overrides.zip",
   "sha1": "ceda4084ff247e0a002ca53805b3f2089f0ba82b",
   "size": 6804498
  },
@@ -1673,6 +1700,7 @@
    "allthemodium",
    "alltheores",
    "almostunified",
+   "angelring",
    "animusnv",
    "apothic_attributes",
    "apothic_spawners",
@@ -1731,6 +1759,7 @@
    "fastleafdecay",
    "flatbedrock",
    "flib",
+   "flightapi",
    "fluxnetworks",
    "fpsreducer",
    "framedblocks",
@@ -1748,6 +1777,7 @@
    "glodium",
    "growthacceleratortiers",
    "guideme",
+   "haydenapi",
    "iceandfire",
    "immersiveengineering",
    "immersivepetroleum",
@@ -1831,7 +1861,7 @@
    "zerocore",
    "zeta"
   ],
-  "sig": "cs6xiGjDK0+TnU5Dnwig4+pKpbQPFvt1jENNAUrMAvddd0eSY8QUj9tuWIdk+gkV2OKwyQlf378q2JrF4R8wDw=="
+  "sig": "lEfvP4Bq2bGoA1JhPoE1shPs/wPgvy+xJlKJ4CoMyfnpOkPoCabGgiEoulEuYBpCGRj+VqVz2kxaigpfkN1VCQ=="
  },
  "managedDirs": [
   "packforge/datapack",
