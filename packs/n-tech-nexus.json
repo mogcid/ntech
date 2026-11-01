@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-nexus",
  "name": "N-Tech Nexus",
- "version": "1.0.9",
+ "version": "1.0.10",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.256",
  "summary": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.",
@@ -1107,15 +1107,6 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/7904061"
   },
   {
-   "name": "Modern Industrialization",
-   "file": "Modern-Industrialization-2.5.9.jar",
-   "side": "both",
-   "sha1": "e42ea7759b693f654c41a04ce72ca6178c8e7dbb",
-   "size": 7276669,
-   "url": "https://edge.forgecdn.net/files/9039/18/Modern-Industrialization-2.5.9.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/modern-industrialization/files/9039018"
-  },
-  {
    "name": "Modonomicon",
    "file": "modonomicon-1.21.1-neoforge-1.120.7.jar",
    "side": "both",
@@ -1661,27 +1652,39 @@
  "own": [
   {
    "file": "packforge-0.35.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.9/packforge-0.35.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.10/packforge-0.35.0.jar",
    "sha1": "5cd635be607f125f4cbfc59f70926c5afbe89298",
    "size": 512105
   },
   {
    "file": "pfmachines-0.25.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.9/pfmachines-0.25.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.10/pfmachines-0.25.1.jar",
    "sha1": "b678c6afa51b43b55f4a7d2808f586489b190515",
    "size": 733380
   },
   {
-   "file": "pftools-0.10.5.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.9/pftools-0.10.5.jar",
-   "sha1": "5c78af8fbb87092b0edd68e8dbc9e824a54f723f",
-   "size": 300461
+   "file": "pftools-0.10.6.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.10/pftools-0.10.6.jar",
+   "sha1": "c9f79984ba0948af9c8a60c2de915a487adabaf3",
+   "size": 300747
+  },
+  {
+   "file": "n-tech-polyglot-0.6.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.10/n-tech-polyglot-0.6.0.jar",
+   "sha1": "75a75120735a26515145b40514309dbffca8b41a",
+   "size": 545680133
+  },
+  {
+   "file": "pfassembly-0.41.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.10/pfassembly-0.41.1.jar",
+   "sha1": "ad70028ecf7f4aaca476f753edddad5ceff2026f",
+   "size": 5014579
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.9/n-tech-nexus-1.0.9-overrides.zip",
-  "sha1": "ceda4084ff247e0a002ca53805b3f2089f0ba82b",
-  "size": 6804498
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.10/n-tech-nexus-1.0.10-overrides.zip",
+  "sha1": "3238c5caa11db68fcb89c1c6b721c5f75d6958ff",
+  "size": 6019706
  },
  "license": {
   "pack": "n-tech-nexus",
@@ -1801,7 +1804,6 @@
    "megacells",
    "mekanism",
    "mekanismgenerators",
-   "modern_industrialization",
    "modonomicon",
    "morphtool",
    "mysticalagradditions",
@@ -1861,7 +1863,7 @@
    "zerocore",
    "zeta"
   ],
-  "sig": "lEfvP4Bq2bGoA1JhPoE1shPs/wPgvy+xJlKJ4CoMyfnpOkPoCabGgiEoulEuYBpCGRj+VqVz2kxaigpfkN1VCQ=="
+  "sig": "laVQ6IR0y08U6psHOeiF0sVw+VoXEXae6chunqdCQD4WYRDVymZ/zdyVfAiThDqwUjP7uCNqmCU3YqDSMUuXAA=="
  },
  "managedDirs": [
   "packforge/datapack",
