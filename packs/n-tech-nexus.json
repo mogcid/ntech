@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-nexus",
  "name": "N-Tech Nexus",
- "version": "1.0.14",
+ "version": "1.0.15",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.256",
  "summary": "N-Tech Nexus est un modpack Minecraft 1.21.1 sous NeoForge, inspiré d’Enigmatica 2: Expert, qui mêle technologie, magie et exploration dans une progression exigeante.",
@@ -1651,43 +1651,42 @@
  ],
  "own": [
   {
-   "file": "packforge-0.35.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.14/packforge-0.35.2.jar",
-   "sha1": "d7fcd48946753aecb86c472920a7cc93ee1a4d76",
-   "size": 513191
+   "file": "packforge-0.37.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.15/packforge-0.37.0.jar",
+   "sha1": "1ffd93d10c9847e45ec5f032198e7cd9e206c667",
+   "size": 556519
   },
   {
-   "file": "pfmachines-0.25.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.14/pfmachines-0.25.2.jar",
-   "sha1": "46fa0ab6f1d314d5671a7a05450349a5e4e22d51",
-   "size": 733587
+   "file": "pfmachines-0.26.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.15/pfmachines-0.26.0.jar",
+   "sha1": "6694e799779f55c4a8a3efa9414885fb8f2890c4",
+   "size": 819407
   },
   {
    "file": "pftools-0.10.7.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.14/pftools-0.10.7.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.15/pftools-0.10.7.jar",
    "sha1": "f4aad5fdc9a0cf4fd35cb7cc192d1601785cbdad",
    "size": 300960
   },
   {
    "file": "n-tech-polyglot-0.6.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.14/n-tech-polyglot-0.6.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.15/n-tech-polyglot-0.6.0.jar",
    "sha1": "75a75120735a26515145b40514309dbffca8b41a",
    "size": 545680133
   },
   {
    "file": "pfassembly-0.41.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.14/pfassembly-0.41.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.15/pfassembly-0.41.1.jar",
    "sha1": "ad70028ecf7f4aaca476f753edddad5ceff2026f",
    "size": 5014579
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.14/n-tech-nexus-1.0.14-overrides.zip",
-  "sha1": "cd9b3175b96409be2bef29feb7d1657e3e36f684",
-  "size": 6023341
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.15/n-tech-nexus-1.0.15-overrides.zip",
+  "sha1": "33ea948d191953bb6f4eac996bc7df3408a398b1",
+  "size": 7864706
  },
  "license": {
-  "pack": "n-tech-nexus",
   "mods": [
    "actuallyadditions",
    "ae2",
@@ -1863,7 +1862,8 @@
    "zerocore",
    "zeta"
   ],
-  "sig": "laVQ6IR0y08U6psHOeiF0sVw+VoXEXae6chunqdCQD4WYRDVymZ/zdyVfAiThDqwUjP7uCNqmCU3YqDSMUuXAA=="
+  "pack": "n-tech-nexus",
+  "sig": "KUAfK1Ro0mDpwar55dTpk10yKKb7YWUQA9bb3qh5kMvEmV8alnjhvR5PEgo5wByvCGMCuml4V7ALC2rtTT8aBQ=="
  },
  "managedDirs": [
   "packforge/datapack",
