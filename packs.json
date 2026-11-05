@@ -11,19 +11,6 @@
    "server": "135.125.189.10"
   },
   {
-   "slug": "n-tech-rockblock-3",
-   "name": "N-Tech RockBlock 4",
-   "version": "1.0.28",
-   "mc": "1.21.1",
-   "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
-   "about": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre. Depuis votre salle de départ souterraine, creusez votre espace, obtenez vos premières ressources et transformez votre refuge en un vaste complexe automatisé.\nAvec 2 025 quêtes réparties dans 57 chapitres, l’aventure vous accompagne des premiers outils aux technologies les plus avancées. Le livre de quêtes est disponible en français et en anglais : un bouton intégré permet de passer du français à l’anglais et inversement, à tout moment.\nDéveloppez votre production grâce à plusieurs systèmes personnalisés complémentaires :\n• 153 types de graines pour cultiver une grande variété de ressources.\n• 189 types de cristaux pour exploiter la croissance cristalline.\n• 97 abeilles personnalisées, en complément de celles des mods, pour développer votre production apicole.\n• 129 statues productives à l’effigie de créatures et de boss, qui décorent votre base tout en générant régulièrement les ressources et objets qui leur sont associés.\nL’automatisation est au cœur de votre progression. Construisez des mécanismes avec Create, développez vos chaînes industrielles avec Mekanism, Immersive Engineering, Modern Industrialization et Industrial Foregoing, puis centralisez votre stockage et vos fabrications avec Applied Energistics 2. Produisez votre énergie, reliez vos machines et optimisez chaque étape de votre usine.\nLa magie enrichit également l’aventure avec Ars Nouveau, EvilCraft et Forbidden Arcanus. Combinez sortilèges et technologies, améliorez votre équipement et poursuivez votre progression vers les installations avancées de Draconic Evolution et les fabrications d’Extended Crafting.\nDe nombreux outils de construction, sacs à dos et systèmes de transport vous permettent d’aménager votre base selon vos envies. Du petit atelier aux immenses salles industrielles, chaque bloc creusé ouvre la voie à de nouveaux projets.\nPoursuivez l’aventure d’Azuria RockBlock 3 : creusez, cultivez, collectionnez et automatisez pour bâtir votre empire au cœur de la pierre !",
-   "manifest": "packs/n-tech-rockblock-3.json",
-   "changelog": "- Abeilles : la Water Bee (avant : rivière seulement), la Prismarine Bee, la Sponge Bee et l'Oily Bee\n  (avant : océan profond seulement) se pêchent maintenant dans tous les biomes de l'overworld.\n- Ars Nouveau : 4 nouvelles graines Archwood (bleu, rouge, violet, vert). Mutation chêne + essence d'eau / feu /\n  air / terre ; l'essence donne des bûches ou des pousses d'Archwood.\n- Ajout de Polymorph et Polymorphic Energistics : quand un même craft peut donner plusieurs objets, un bouton\n  permet de choisir (table de craft et terminaux AE2).",
-   "changelog_en": "- Bees: the Water Bee (before: river only), the Prismarine Bee, the Sponge Bee and the Oily Bee\n  (before: deep ocean only) can now be fished in every overworld biome.\n- Ars Nouveau: 4 new Archwood seeds (blue, red, purple, green). Mutation oak + water / fire / air / earth\n  essence; the essence gives Archwood logs or saplings.\n- Added Polymorph and Polymorphic Energistics: when the same recipe can give several items, a button lets you\n  choose (crafting table and AE2 terminals).",
-   "date": "2026-10-28T21:29:25+00:00",
-   "server": "135.125.189.10:25567"
-  },
-  {
    "slug": "n-tech-nexus",
    "name": "N-Tech Nexus",
    "version": "1.0.16",
@@ -48,6 +35,19 @@
    "changelog_en": "Companion 0.37.1: world pre-generation now stops by itself when less than 10 GB is free on the disk (20 GB max by default); adjustable max radius (/pf pregen radius <blocks>, /pf pregen disk <GB>).",
    "date": "2026-11-05T21:51:03+00:00",
    "server": "135.125.189.10:25568"
+  },
+  {
+   "slug": "n-tech-rockblock-3",
+   "name": "N-Tech RockBlock 4",
+   "version": "1.0.29",
+   "mc": "1.21.1",
+   "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
+   "about": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre. Depuis votre salle de départ souterraine, creusez votre espace, obtenez vos premières ressources et transformez votre refuge en un vaste complexe automatisé.\nAvec 2 025 quêtes réparties dans 57 chapitres, l’aventure vous accompagne des premiers outils aux technologies les plus avancées. Le livre de quêtes est disponible en français et en anglais : un bouton intégré permet de passer du français à l’anglais et inversement, à tout moment.\nDéveloppez votre production grâce à plusieurs systèmes personnalisés complémentaires :\n• 153 types de graines pour cultiver une grande variété de ressources.\n• 189 types de cristaux pour exploiter la croissance cristalline.\n• 97 abeilles personnalisées, en complément de celles des mods, pour développer votre production apicole.\n• 129 statues productives à l’effigie de créatures et de boss, qui décorent votre base tout en générant régulièrement les ressources et objets qui leur sont associés.\nL’automatisation est au cœur de votre progression. Construisez des mécanismes avec Create, développez vos chaînes industrielles avec Mekanism, Immersive Engineering, Modern Industrialization et Industrial Foregoing, puis centralisez votre stockage et vos fabrications avec Applied Energistics 2. Produisez votre énergie, reliez vos machines et optimisez chaque étape de votre usine.\nLa magie enrichit également l’aventure avec Ars Nouveau, EvilCraft et Forbidden Arcanus. Combinez sortilèges et technologies, améliorez votre équipement et poursuivez votre progression vers les installations avancées de Draconic Evolution et les fabrications d’Extended Crafting.\nDe nombreux outils de construction, sacs à dos et systèmes de transport vous permettent d’aménager votre base selon vos envies. Du petit atelier aux immenses salles industrielles, chaque bloc creusé ouvre la voie à de nouveaux projets.\nPoursuivez l’aventure d’Azuria RockBlock 3 : creusez, cultivez, collectionnez et automatisez pour bâtir votre empire au cœur de la pierre !",
+   "manifest": "packs/n-tech-rockblock-3.json",
+   "changelog": "Companion 0.37.1 : la pré-génération du monde s'arrête toute seule s'il reste moins de 10 Go libres sur le disque (20 Go max par défaut) ; rayon max réglable (/pf pregen radius <blocs>, /pf pregen disk <Go>).",
+   "changelog_en": "Companion 0.37.1: world pre-generation now stops by itself when less than 10 GB is free on the disk (20 GB max by default); adjustable max radius (/pf pregen radius <blocks>, /pf pregen disk <GB>).",
+   "date": "2026-11-05T21:52:26+00:00",
+   "server": "135.125.189.10:25567"
   }
  ],
  "launcher": {
