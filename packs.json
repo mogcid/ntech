@@ -1,16 +1,6 @@
 {
  "packs": [
   {
-   "slug": "n-tech-industrie",
-   "name": "N-Tech GT",
-   "version": "1.0.1",
-   "mc": "1.21.1",
-   "summary": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.",
-   "about": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.\nDéveloppez votre industrie avec Modern Industrialization et les multiblocs personnalisés de PackForge. Exploitez les filons de minerais, maîtrisez le mana et utilisez les cristaux pour franchir chaque étape.\nAutomatisez vos chaînes de production, centralisez vos ressources avec Applied Energistics 2 et augmentez vos capacités énergétiques pour relever les défis du pack.\nDu premier filon aux grands complexes industriels, chaque palier ouvre de nouvelles possibilités !",
-   "manifest": "packs/n-tech-industrie.json",
-   "server": "135.125.189.10"
-  },
-  {
    "slug": "n-tech-microverse",
    "name": "N-Tech Microverse",
    "version": "1.0.5",
@@ -48,6 +38,19 @@
    "changelog_en": "Companion 0.37.1: world pre-generation now stops by itself when less than 10 GB is free on the disk (20 GB max by default); adjustable max radius (/pf pregen radius <blocks>, /pf pregen disk <GB>).",
    "date": "2026-11-05T21:54:18+00:00",
    "server": "135.125.189.10:25566"
+  },
+  {
+   "slug": "n-tech-industrie",
+   "name": "N-Tech GT",
+   "version": "1.0.2",
+   "mc": "1.21.1",
+   "summary": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.",
+   "about": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.\nDéveloppez votre industrie avec Modern Industrialization et les multiblocs personnalisés de PackForge. Exploitez les filons de minerais, maîtrisez le mana et utilisez les cristaux pour franchir chaque étape.\nAutomatisez vos chaînes de production, centralisez vos ressources avec Applied Energistics 2 et augmentez vos capacités énergétiques pour relever les défis du pack.\nDu premier filon aux grands complexes industriels, chaque palier ouvre de nouvelles possibilités !",
+   "manifest": "packs/n-tech-industrie.json",
+   "changelog": "Companion 0.37.1 : la pré-génération du monde s'arrête toute seule s'il reste moins de 10 Go libres sur le disque (20 Go max par défaut) ; rayon max réglable (/pf pregen radius <blocs>, /pf pregen disk <Go>).",
+   "changelog_en": "Companion 0.37.1: world pre-generation now stops by itself when less than 10 GB is free on the disk (20 GB max by default); adjustable max radius (/pf pregen radius <blocks>, /pf pregen disk <GB>).",
+   "date": "2026-11-05T21:55:55+00:00",
+   "server": "135.125.189.10"
   }
  ],
  "launcher": {
