@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-microverse",
  "name": "N-Tech Microverse",
- "version": "1.0.4",
+ "version": "1.0.5",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.259",
  "summary": "Coincé dans une mini-dimension, ouvrez de nouvelles portes pour agrandir votre base, débloquer des ressources et développer votre technologie.",
@@ -1614,37 +1614,36 @@
  "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.35.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.4/packforge-0.35.0.jar",
-   "sha1": "5cd635be607f125f4cbfc59f70926c5afbe89298",
-   "size": 512105
+   "file": "packforge-0.37.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.5/packforge-0.37.1.jar",
+   "sha1": "45c09bb13df2f90288b8f08ca1c708e33d240e7d",
+   "size": 557712
   },
   {
-   "file": "pfmachines-0.25.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.4/pfmachines-0.25.1.jar",
-   "sha1": "b678c6afa51b43b55f4a7d2808f586489b190515",
-   "size": 733380
+   "file": "pfmachines-0.26.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.5/pfmachines-0.26.0.jar",
+   "sha1": "6694e799779f55c4a8a3efa9414885fb8f2890c4",
+   "size": 819407
   },
   {
-   "file": "pftools-0.9.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.4/pftools-0.9.1.jar",
-   "sha1": "213614b697cb14aa59fc447195da863cdb5ee95c",
-   "size": 265007
+   "file": "pftools-0.10.7.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.5/pftools-0.10.7.jar",
+   "sha1": "f4aad5fdc9a0cf4fd35cb7cc192d1601785cbdad",
+   "size": 300960
   },
   {
-   "file": "pfmicroverse-0.27.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.4/pfmicroverse-0.27.1.jar",
-   "sha1": "16fc868cabef24b5b9f6b2b4ae550e686c0567dd",
-   "size": 631120
+   "file": "pfmicroverse-0.27.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.5/pfmicroverse-0.27.2.jar",
+   "sha1": "318db8dcf62ae1adc9fe3a9a5d768e92d7df9a30",
+   "size": 631328
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.4/n-tech-microverse-1.0.4-overrides.zip",
-  "sha1": "910cc8defb25017b90654684f9896019ce246863",
-  "size": 4111122
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-microverse-1.0.5/n-tech-microverse-1.0.5-overrides.zip",
+  "sha1": "7b04be98423a77fde9512bafa628ca64b9744df7",
+  "size": 4109652
  },
  "license": {
-  "pack": "n-tech-microverse",
   "mods": [
    "advanced_ae",
    "ae2",
@@ -1819,7 +1818,8 @@
    "xtonesreworked",
    "zerocore"
   ],
-  "sig": "IYMQk0p5EVcTmNmzMU2pu+qHGR/fA4boqNz62Jl536I32MMrqbT+cPBTn5EelwyvTnZxzOIAGF1yEnmKSYEwDQ=="
+  "pack": "n-tech-microverse",
+  "sig": "9/JBgXuQ+8bc4QcKLAT9lUgQPWVbNqTrazi6MCw+cSytATP1GGp2ZWSBKmPo+/z+U6MfjXlwpe3QTdIHuRg+CQ=="
  },
  "managedDirs": [
   "packforge/datapack",
