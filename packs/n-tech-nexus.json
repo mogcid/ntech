@@ -234,15 +234,6 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/artifacts/files/8791899"
   },
   {
-   "name": "Astral Sorcery",
-   "file": "AstralSorcery-2.0.1.20.jar",
-   "side": "both",
-   "sha1": "05202d75c5ef41897833ba10a84939b14e55e1d3",
-   "size": 17738826,
-   "url": "https://edge.forgecdn.net/files/8985/152/AstralSorcery-2.0.1.20.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/8985152"
-  },
-  {
    "name": "Athena",
    "file": "athena-neoforge-1.21.1-4.0.6.jar",
    "side": "both",
@@ -1179,15 +1170,6 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/neovitae/files/9073080"
   },
   {
-   "name": "ObserverLib",
-   "file": "observerlib-1.10.3.jar",
-   "side": "both",
-   "sha1": "f8b357513c22b62f0cdbe0259305620541a45fa2",
-   "size": 114651,
-   "url": "https://edge.forgecdn.net/files/8726/128/observerlib-1.10.3.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/observerlib/files/8726128"
-  },
-  {
    "name": "Ore Excavation",
    "file": "OreExcavation-NeoForge-1.21.1-1.16.43.jar",
    "side": "both",
@@ -1679,12 +1661,18 @@
    "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.15/pfassembly-0.41.1.jar",
    "sha1": "ad70028ecf7f4aaca476f753edddad5ceff2026f",
    "size": 5014579
+  },
+  {
+   "file": "pfstellar-0.10.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.15/pfstellar-0.10.1.jar",
+   "sha1": "c77f53545c358baf37681558571669008870fe7b",
+   "size": 1157784
   }
  ],
  "overrides": {
   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-nexus-1.0.15/n-tech-nexus-1.0.15-overrides.zip",
-  "sha1": "33ea948d191953bb6f4eac996bc7df3408a398b1",
-  "size": 7864706
+  "sha1": "30c541c7116ee5f60a9ec6930a764095b25b1067",
+  "size": 7853788
  },
  "license": {
   "mods": [
@@ -1713,7 +1701,6 @@
    "armoreablemobs",
    "ars_nouveau",
    "artifacts",
-   "astralsorcery",
    "athena",
    "attributefix",
    "avaritia",
@@ -1809,7 +1796,6 @@
    "mysticalagriculture",
    "naturescompass",
    "neovitae",
-   "observerlib",
    "octolib",
    "oreexcavation",
    "oritech",
@@ -1863,7 +1849,7 @@
    "zeta"
   ],
   "pack": "n-tech-nexus",
-  "sig": "KUAfK1Ro0mDpwar55dTpk10yKKb7YWUQA9bb3qh5kMvEmV8alnjhvR5PEgo5wByvCGMCuml4V7ALC2rtTT8aBQ=="
+  "sig": "y0mTh9aGbgKpucxPjE+DUfTkd8lnHG0Y1LXVmy5AQgGHauPcF05vssnUDQCArCcDXZmsHqtUBqESx4fT9VpgDQ=="
  },
  "managedDirs": [
   "packforge/datapack",
