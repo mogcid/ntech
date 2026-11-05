@@ -1,13 +1,22 @@
 {
  "slug": "n-tech-industrie",
  "name": "N-Tech GT",
- "version": "1.0.1",
+ "version": "1.0.2",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.259",
  "summary": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.",
  "about": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.\nDéveloppez votre industrie avec Modern Industrialization et les multiblocs personnalisés de PackForge. Exploitez les filons de minerais, maîtrisez le mana et utilisez les cristaux pour franchir chaque étape.\nAutomatisez vos chaînes de production, centralisez vos ressources avec Applied Energistics 2 et augmentez vos capacités énergétiques pour relever les défis du pack.\nDu premier filon aux grands complexes industriels, chaque palier ouvre de nouvelles possibilités !",
  "ramGB": 8,
  "mods": [
+  {
+   "name": "AE2 JEI Integration",
+   "file": "ae2jeiintegration-1.2.1.jar",
+   "side": "both",
+   "sha1": "e99898b3e9c32bf6ac757e7ad50247746622cdfc",
+   "size": 91710,
+   "url": "https://edge.forgecdn.net/files/7727/898/ae2jeiintegration-1.2.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration/files/7727898"
+  },
   {
    "name": "Almost Unified",
    "file": "almostunified-neoforge-1.21.1-1.4.2.jar",
@@ -282,33 +291,33 @@
  "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.29.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.1/packforge-0.29.0.jar",
-   "sha1": "d8b43450def733266a2304de121a0acf4c5cd30c",
-   "size": 473479
+   "file": "packforge-0.37.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.2/packforge-0.37.1.jar",
+   "sha1": "45c09bb13df2f90288b8f08ca1c708e33d240e7d",
+   "size": 557712
   },
   {
-   "file": "pfmachines-0.20.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.1/pfmachines-0.20.0.jar",
-   "sha1": "4ecf31439cf1d46c2a0e5e203d1569b58fc5cf46",
-   "size": 523398
+   "file": "pfmachines-0.26.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.2/pfmachines-0.26.0.jar",
+   "sha1": "6694e799779f55c4a8a3efa9414885fb8f2890c4",
+   "size": 819407
   },
   {
-   "file": "pftools-0.9.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.1/pftools-0.9.1.jar",
-   "sha1": "213614b697cb14aa59fc447195da863cdb5ee95c",
-   "size": 265007
+   "file": "pftools-0.10.7.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.2/pftools-0.10.7.jar",
+   "sha1": "f4aad5fdc9a0cf4fd35cb7cc192d1601785cbdad",
+   "size": 300960
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.1/n-tech-industrie-1.0.1-overrides.zip",
-  "sha1": "e77a62f94e431150c77d13c60fa3bcbb8fb45333",
-  "size": 4492400
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.2/n-tech-industrie-1.0.2-overrides.zip",
+  "sha1": "2919c1162ff616c55e009a61df94f9f967223174",
+  "size": 4511584
  },
  "license": {
-  "pack": "n-tech-industrie",
   "mods": [
    "ae2",
+   "ae2jeiintegration",
    "ae2wtlib",
    "almostunified",
    "appleskin",
@@ -341,7 +350,8 @@
    "xaerominimap",
    "xaeroworldmap"
   ],
-  "sig": "MzWjlKhuCLMchsCOZjPhYVxMX2rKJPsu/wI4DcWcmVuvHVxaHMHAuVZKQ9BuETT1vPrb/YMdpBFhGAGb2zsGBQ=="
+  "pack": "n-tech-industrie",
+  "sig": "BO2h9uZoattt5v0PhEnvj1uwOw9d7Y7gE0Dhck3kGbYD9XbaY+qg3d/aalOrJEU8xijv0oNOxzCqjTzaN1tIDg=="
  },
  "managedDirs": [
   "packforge/datapack",
