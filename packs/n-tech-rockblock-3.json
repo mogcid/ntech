@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-rockblock-3",
  "name": "N-Tech RockBlock 4",
- "version": "1.0.28",
+ "version": "1.0.29",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.246",
  "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
@@ -1467,15 +1467,6 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/modular-routers/files/9119568"
   },
   {
-   "name": "Moonlight Lib",
-   "file": "moonlight-1.21.1-3.7.2-neoforge.jar",
-   "side": "both",
-   "sha1": "0da45e6bc941f4b9b18dda24f8d047431ddc7226",
-   "size": 2299162,
-   "url": "https://edge.forgecdn.net/files/9122/548/moonlight-1.21.1-3.7.2-neoforge.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/selene/files/9122548"
-  },
-  {
    "name": "More Pylons",
    "file": "more_pylons-1.2.0-neoforge-1.21.1.jar",
    "side": "both",
@@ -1908,15 +1899,6 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/statues/files/7460370"
   },
   {
-   "name": "Storage Labels",
-   "file": "labels-neoforge-1.21-2.1.1.jar",
-   "side": "both",
-   "sha1": "ba6c64f874d8ca02dbdf977e002880946ab8fe8a",
-   "size": 108511,
-   "url": "https://edge.forgecdn.net/files/8498/193/labels-neoforge-1.21-2.1.1.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/labels/files/8498193"
-  },
-  {
    "name": "Super Factory Manager ( SFM )",
    "file": "Super Factory Manager (SFM)-MC1.21.1-4.34.0.jar",
    "side": "both",
@@ -2136,25 +2118,24 @@
  "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.34.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.28/packforge-0.34.0.jar",
-   "sha1": "70e4b268bf87ff7361f91b6b148562960f850f56",
-   "size": 497507
+   "file": "packforge-0.37.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.29/packforge-0.37.1.jar",
+   "sha1": "45c09bb13df2f90288b8f08ca1c708e33d240e7d",
+   "size": 557712
   },
   {
-   "file": "pfmachines-0.25.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.28/pfmachines-0.25.1.jar",
-   "sha1": "b678c6afa51b43b55f4a7d2808f586489b190515",
-   "size": 733380
+   "file": "pfmachines-0.26.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.29/pfmachines-0.26.0.jar",
+   "sha1": "6694e799779f55c4a8a3efa9414885fb8f2890c4",
+   "size": 819407
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.28/n-tech-rockblock-3-1.0.28-overrides.zip",
-  "sha1": "8dca5e06ee727e052e28ac08e54c42ed7e10bcc2",
-  "size": 11769489
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.29/n-tech-rockblock-3-1.0.29-overrides.zip",
+  "sha1": "5be9ead9090445be981c3ff674bfb9860f5e94fd",
+  "size": 11741063
  },
  "license": {
-  "pack": "n-tech-rockblock-3",
   "mods": [
    "actuallyadditions",
    "advanced_ae",
@@ -2290,7 +2271,6 @@
    "justhammers",
    "kleeslabs",
    "kleiders_custom_renderer",
-   "labels",
    "libx",
    "lionfishapi",
    "lootr",
@@ -2309,7 +2289,6 @@
    "modern_industrialization",
    "modonomicon",
    "modularrouters",
-   "moonlight",
    "more_pylons",
    "morethermalevaporation",
    "neovitae",
@@ -2382,7 +2361,8 @@
    "xycraft_world",
    "zerocore"
   ],
-  "sig": "BB1RsNKPFUsO82nufZ44WTWwAzKiDKL7R2/da9ZJX5AfD+IuSH+P1eVCy8jXAriYnzNSuKXPQCjywdsqdwAnDw=="
+  "pack": "n-tech-rockblock-3",
+  "sig": "AegV7mKI+UgP9e1VvQMw39eMK0abHn5ff0j+tJdYbo4NpMFw2EUFf0VW2gNpOWENe/eoprGDjcs0ujH4XJXkAQ=="
  },
  "managedDirs": [
   "packforge/datapack",
