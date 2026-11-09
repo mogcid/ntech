@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-industrie",
  "name": "N-Tech GT",
- "version": "1.0.2",
+ "version": "1.0.3",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.259",
  "summary": "N-Tech GT est un modpack Minecraft 1.21.1 sous NeoForge proposant une progression longue par paliers, dans l’esprit de GregTech, mais plus accessible, accompagnée d’un livre de quêtes pour guider votre aventure.",
@@ -291,28 +291,28 @@
  "manualMods": [],
  "own": [
   {
-   "file": "packforge-0.37.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.2/packforge-0.37.1.jar",
-   "sha1": "45c09bb13df2f90288b8f08ca1c708e33d240e7d",
-   "size": 557712
+   "file": "packforge-0.41.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.3/packforge-0.41.0.jar",
+   "sha1": "352f72a862cfd1e3d949f86dc09e7f5a08337f29",
+   "size": 849898
   },
   {
    "file": "pfmachines-0.26.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.2/pfmachines-0.26.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.3/pfmachines-0.26.0.jar",
    "sha1": "6694e799779f55c4a8a3efa9414885fb8f2890c4",
    "size": 819407
   },
   {
    "file": "pftools-0.10.7.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.2/pftools-0.10.7.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.3/pftools-0.10.7.jar",
    "sha1": "f4aad5fdc9a0cf4fd35cb7cc192d1601785cbdad",
    "size": 300960
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.2/n-tech-industrie-1.0.2-overrides.zip",
-  "sha1": "2919c1162ff616c55e009a61df94f9f967223174",
-  "size": 4511584
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-industrie-1.0.3/n-tech-industrie-1.0.3-overrides.zip",
+  "sha1": "7d015a50ffba1c3364d9d2d2390e68a1008c898a",
+  "size": 4509564
  },
  "license": {
   "mods": [
