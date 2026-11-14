@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-rockblock-3",
  "name": "N-Tech RockBlock 4",
- "version": "1.0.31",
+ "version": "1.0.32",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.246",
  "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
@@ -2119,21 +2119,21 @@
  "own": [
   {
    "file": "packforge-0.42.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.31/packforge-0.42.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.32/packforge-0.42.0.jar",
    "sha1": "19e36572462771300568ef754d1b2761bee97058",
    "size": 870689
   },
   {
    "file": "pfmachines-0.26.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.31/pfmachines-0.26.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.32/pfmachines-0.26.0.jar",
    "sha1": "6694e799779f55c4a8a3efa9414885fb8f2890c4",
    "size": 819407
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.31/n-tech-rockblock-3-1.0.31-overrides.zip",
-  "sha1": "d71709da8b573d3ab649b8131472e63f0d157578",
-  "size": 11750371
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-rockblock-3-1.0.32/n-tech-rockblock-3-1.0.32-overrides.zip",
+  "sha1": "13adc8545aa9bc1ee9b8889f6a363fe979210ad3",
+  "size": 11757423
  },
  "license": {
   "mods": [
