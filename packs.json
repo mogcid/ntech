@@ -51,6 +51,18 @@
    "changelog_en": "- New Arcane Crystal seed: Amethyst + Source mutation (8 essences = 2 Arcane Crystals).\n- Arcane Crystal ore in the Mining dimension (Allthemodium Mining, stone layer, y 130 to 240).\n- \"Graines & mutations\" quest is no longer optional (fixes Mastery: Seeds staying locked).\n- Functional Storage: Max Storage Upgrade available from the Keeper.",
    "date": "2026-11-14T08:10:29+00:00",
    "server": "135.125.189.10:25567"
+  },
+  {
+   "slug": "n-tech-modiverse",
+   "name": "N-Tech Modiverse",
+   "version": "1.0.0",
+   "mc": "1.21.1",
+   "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
+   "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
+   "manifest": "packs/n-tech-modiverse.json",
+   "changelog": "Première version de N-Tech Modiverse !\n- Le Nexus : un monument qui grandit avec toi, 12 paliers payés avec tes réserves.\n- Un domaine rien qu'à toi, au biome de ton choix (portail au spawn, /base, /spawn), paisible en option.\n- Ville du spawn sûre (pas de dégâts, nourriture offerte) avec les portails des univers.\n- Métiers, contrats, défi de la semaine, marché et Pierre de voyage.\n- Nos mods : PackForge Tools 1.0 (outils à pièces), Farms, Stellar, Assembly, Machines, Architect.\n- Mode Normal ou Expert, plus de 900 quêtes, Renaissance après le palier 12.\n- Datapacks perso : packforge/datapacks-perso/.",
+   "changelog_en": "First release of N-Tech Modiverse!\n- The Nexus: a monument that grows with you, 12 tiers paid with your reserves.\n- Your own domain, in the biome of your choice (portal at spawn, /base, /spawn), peaceful as an option.\n- Safe spawn city (no damage, free food) with the universe portals.\n- Jobs, contracts, weekly challenge, market and Travel Stone.\n- Our mods: PackForge Tools 1.0 (part-based tools), Farms, Stellar, Assembly, Machines, Architect.\n- Normal or Expert mode, 900+ quests, Rebirth after tier 12.\n- Personal datapacks: packforge/datapacks-perso/.",
+   "date": "2026-11-15T21:18:17+00:00"
   }
  ],
  "launcher": {
@@ -65,7 +77,8 @@
    "n-tech-nexus": 1,
    "n-tech-industrie": 0,
    "n-tech-rockblock-3": 0,
-   "n-tech-microverse": 0
+   "n-tech-microverse": 0,
+   "n-tech-modiverse": 0
   }
  }
 }
