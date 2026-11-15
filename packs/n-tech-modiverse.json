@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-modiverse",
  "name": "N-Tech Modiverse",
- "version": "1.0.1",
+ "version": "1.0.2",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.262",
  "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
@@ -4495,76 +4495,76 @@
  ],
  "own": [
   {
-   "file": "packforge-0.60.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/packforge-0.60.0.jar",
-   "sha1": "a2b6626a95ef7302befdee41e52989d5ff029832",
-   "size": 1237744
+   "file": "packforge-0.60.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/packforge-0.60.1.jar",
+   "sha1": "f50bde5e50d8c8970ba945e0f817dcc64a27d177",
+   "size": 1237871
   },
   {
    "file": "pfmachines-0.26.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/pfmachines-0.26.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/pfmachines-0.26.1.jar",
    "sha1": "694c9a0b576febf78e0c8d47bb6de7b3ecc93720",
    "size": 857402
   },
   {
-   "file": "pftools-1.0.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/pftools-1.0.0.jar",
-   "sha1": "38a54404522b089a47d9d45c4784e6478a03c2e1",
-   "size": 851511
+   "file": "pftools-1.0.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/pftools-1.0.1.jar",
+   "sha1": "b89dcc160e3bb346b660aebed83ecd83dbe5fcc6",
+   "size": 891125
   },
   {
    "file": "pffarms-0.2.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/pffarms-0.2.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/pffarms-0.2.2.jar",
    "sha1": "76ea1a27a7957d20f58692f8834a32c782c6667d",
    "size": 814033
   },
   {
    "file": "pfstellar-0.10.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/pfstellar-0.10.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/pfstellar-0.10.2.jar",
    "sha1": "f7e6afd6b621f49871a4c0cf5b520c7ebc26d040",
    "size": 1181191
   },
   {
    "file": "pfassembly-0.41.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/pfassembly-0.41.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/pfassembly-0.41.2.jar",
    "sha1": "b9f3a5f1440c40ad0a065b6446ca7704b5ab4ea2",
    "size": 5132442
   },
   {
-   "file": "pfdomains-0.4.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/pfdomains-0.4.0.jar",
-   "sha1": "812924cf12034045008bb2bbd80e083a861a0155",
-   "size": 67795
+   "file": "pfdomains-0.5.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/pfdomains-0.5.0.jar",
+   "sha1": "f11cfa203e3311dda97a3a14e07333a124e7909d",
+   "size": 72155
   },
   {
    "file": "pfbuilder-0.1.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/pfbuilder-0.1.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/pfbuilder-0.1.1.jar",
    "sha1": "0cbe3beab2750db579c9b3673c32544b01215685",
    "size": 13529578
   },
   {
    "file": "cc-tweaked-1.21.1-forge-1.120.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/cc-tweaked-1.21.1-forge-1.120.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/cc-tweaked-1.21.1-forge-1.120.2.jar",
    "sha1": "f35d4f636c2eb1b30c5d3f5c08e110c6acb8e02f",
    "size": 3126327
   },
   {
    "file": "ftb-auxilium-neoforge-21.1.6.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/ftb-auxilium-neoforge-21.1.6.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/ftb-auxilium-neoforge-21.1.6.jar",
    "sha1": "f3ec848b7c2541a7141e2f2b1b703b624fd08661",
    "size": 43005
   },
   {
    "file": "rgp-client-2.1.2+mc21.1-neoforge.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/rgp-client-2.1.2+mc21.1-neoforge.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/rgp-client-2.1.2+mc21.1-neoforge.jar",
    "sha1": "efc326ca27365750c993991e0aa7a5414bbdf6c2",
    "size": 7289989
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.1/n-tech-modiverse-1.0.1-overrides.zip",
-  "sha1": "716aa17ff13f3e086ba673470273b77214277b14",
-  "size": 13854759
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.2/n-tech-modiverse-1.0.2-overrides.zip",
+  "sha1": "2d7d7b5595dd6e1da336f138cb1ecfe629517ac2",
+  "size": 13854869
  },
  "license": {
   "mods": [
