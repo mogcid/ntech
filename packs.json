@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.2",
+   "version": "1.0.3",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "- Domaines : il faut choisir son domaine avant de quitter la ville ; on réapparaît dans son domaine ; le monde normal devient un monde sauvage (on y mine et explore, on construit chez soi).\n- Métiers : les 3 premiers métiers sont gratuits (changer de métier reste payant).\n- PackForge Tools : l'icône de la reliure (binding) est de nouveau visible.",
-   "changelog_en": "- Domains: you must choose your domain before leaving the city; you respawn in your domain; the overworld becomes a wild world (mine and explore there, build at home).\n- Jobs: the first 3 jobs are free (changing jobs still costs money).\n- PackForge Tools: the binding part icon is visible again.",
-   "date": "2026-11-15T22:19:42+00:00",
+   "changelog": "- PackForge Assembly : un ⚠ rouge signale une machine sans face d'entrée ou de sortie (les faces sont sur Off au départ), avec l'explication ; la quête Station d'assemblage le rappelle.",
+   "changelog_en": "- PackForge Assembly: a red ⚠ shows a machine with no input or output face (faces start Off), with an explanation; the Assembly Station quest reminds it.",
+   "date": "2026-11-15T22:28:20+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
