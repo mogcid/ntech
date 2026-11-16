@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.6",
+   "version": "1.0.7",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Plus de diabase (Chisel) ni de sourcestone (Ars Elemental) dans le sous-sol et la dimension de minage. Domaines : un domaine supprimé n'est plus recréé au même endroit.",
-   "changelog_en": "No more diabase (Chisel) or sourcestone (Ars Elemental) underground and in the mining dimension. Domains: a deleted domain is no longer recreated at the same spot.",
-   "date": "2026-11-16T15:24:46+00:00",
+   "changelog": "Bouton « Rejoindre le serveur » dans le menu, reconnexion automatique quand le serveur redémarre, et protection à la connexion (invisible et invulnérable le temps d'arriver).",
+   "changelog_en": "\"Join the server\" button in the main menu, automatic reconnection when the server restarts, and join protection (invisible and invulnerable while you load in).",
+   "date": "2026-11-16T15:54:21+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
