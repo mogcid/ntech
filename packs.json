@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.5",
+   "version": "1.0.6",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Shuriken : au retour, il reprend toujours sa case ; l'objet ramassé pendant son vol va ailleurs (au sol si l'inventaire est plein), le shuriken n'est plus jamais perdu.",
-   "changelog_en": "Shuriken: when it comes back it always takes its slot again; an item picked up during its flight goes elsewhere (on the ground if the inventory is full), the shuriken is never lost anymore.",
-   "date": "2026-11-16T10:15:52+00:00",
+   "changelog": "Plus de diabase (Chisel) ni de sourcestone (Ars Elemental) dans le sous-sol et la dimension de minage. Domaines : un domaine supprimé n'est plus recréé au même endroit.",
+   "changelog_en": "No more diabase (Chisel) or sourcestone (Ars Elemental) underground and in the mining dimension. Domains: a deleted domain is no longer recreated at the same spot.",
+   "date": "2026-11-16T15:24:46+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
