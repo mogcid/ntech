@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.11",
+   "version": "1.0.12",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "PackForge Tools 1.1.0 : chaque pièce d'outil a jusqu'à 4 emplacements (niveaux I, III, V, VII) pour y insérer une pièce du même type, qui ajoute ses effets et monte de niveau avec l'outil (panneau à l'enclume). La barre bleue de sauvegarde n'apparaît plus chez les joueurs.",
-   "changelog_en": "PackForge Tools 1.1.0: each tool part has up to 4 slots (levels I, III, V, VII) to insert a part of the same type, adding its effects and leveling up with the tool (anvil panel). The blue backup bar no longer shows for players.",
-   "date": "2026-11-17T09:18:25+00:00",
+   "changelog": "Hôtel des monnaies (bloc de fin de jeu qui produit des pièces, un par joueur). Armures PF : emplacements de plaques comme les outils. PF Tools : Raccommodage (Mending) répare enfin avec l'XP ; Incassable n'affiche plus de barre d'usure. Architect : pentes lisses avec la texture du bloc choisi. Carte d'essences Sophisticated pour les essences de Mystical Agriculture. Correction d'un crash en survolant un réservoir d'eau enrichie / eau de mer. Les joueurs absents depuis plus de 3 jours disparaissent de l'argent à droite. Électrum, bronze et constantan ne se craftent plus à la table.",
+   "changelog_en": "Mint (end-game block that produces coins, one per player). PF armor: plate slots like tools. PF Tools: Mending now repairs with XP; Unbreakable no longer shows a durability bar. Architect: smooth slopes using the chosen block's texture. Sophisticated Essence Upgrade now works with Mystical Agriculture essences. Fixed a crash when hovering a tank of enriched water / seawater. Players absent for more than 3 days are hidden from the money sidebar. Electrum, bronze and constantan can no longer be crafted in the crafting table.",
+   "date": "2026-11-17T17:09:54+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
