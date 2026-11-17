@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.7",
+   "version": "1.0.8",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Bouton « Rejoindre le serveur » dans le menu, reconnexion automatique quand le serveur redémarre, et protection à la connexion (invisible et invulnérable le temps d'arriver).",
-   "changelog_en": "\"Join the server\" button in the main menu, automatic reconnection when the server restarts, and join protection (invisible and invulnerable while you load in).",
-   "date": "2026-11-16T15:54:21+00:00",
+   "changelog": "- Liens Discord, Wiki et ntech-mc.fr : boutons du menu principal, menu Échap (Liens du serveur) et commande /liens.\n- Tools : nouveaux effets Mending (soulium) et Smelting (or de blaze, ce qu'on mine tombe cuit) ; l'infobulle d'un outil montre les pièces à assembler ; la forge-presse n'a plus besoin de piston (plaque de pression lourde).\n- Domaines : dormir dans son domaine fait passer la nuit.\n- Architect : le prolongement ne se fait plus avec Maj mais avec une touche à part (Alt gauche, réglable dans les Contrôles).\n- Mode Expert : les recettes d'autres mods qui contournaient l'Expert (hopper et coffres Utilitarian, pistons, circuits Mekanism, AE2…) sont réservées au mode Normal.\n- Grains d'infinité : le feu sur la bedrock marche aussi dans les domaines et le monde de minage ; le feu peut être allumé dans le monde sauvage.\n- /kit depart marche pour tous les joueurs ; sauvegardes silencieuses (plus de barre bleue) ; plus de minerai d'acier de Stellaris dans le monde.",
+   "changelog_en": "- Discord, Wiki and ntech-mc.fr links: main menu buttons, pause menu (Server Links) and /links command.\n- Tools: new effects Mending (soulium) and Smelting (blaze gold, mined blocks drop smelted); a tool's tooltip shows the parts to assemble; the forge press no longer needs a piston (heavy weighted pressure plate).\n- Domains: sleeping in your domain skips the night.\n- Architect: extending no longer uses Shift but its own key (Left Alt, rebindable in Controls).\n- Expert mode: other mods' recipes that bypassed Expert (Utilitarian hopper and chests, pistons, Mekanism circuits, AE2…) are now Normal-only.\n- Grains of infinity: fire on bedrock also works in domains and the mining world; fire can be lit in the wild.\n- /kit depart works for every player; silent backups (no more blue bar); no more Stellaris steel ore in the world.",
+   "date": "2026-11-17T07:18:12+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
