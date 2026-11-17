@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.13",
+   "version": "1.0.14",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "- Serre : les bocaux se remplissent à fond en énergie avec le surplus du contrôleur.\n- Serre : les Labos collés au contrôleur ou à un bocal reçoivent l'énergie et l'engrais (bonemeal) du contrôleur.\n- Boss : deux échantillons du même boss fusionnent au Labo (gènes croisés). Le rendement donne plusieurs butins par combat.\n- Flux Networks : la Flux Dust se fabrique de nouveau (redstone sur obsidienne posée sur la bedrock).\n- Mode Expert : la graine de soulium ne se fabrique plus.",
-   "changelog_en": "- Greenhouse: jars are filled up with the controller's spare energy.\n- Greenhouse: Labs touching the controller or a jar get energy and fertilizer (bone meal) from the controller.\n- Bosses: two samples of the same boss merge in the Lab (crossed genes). Yield gives several loots per fight.\n- Flux Networks: Flux Dust can be made again (redstone on obsidian placed on bedrock).\n- Expert mode: the soulium seed can no longer be crafted.",
-   "date": "2026-11-17T21:23:13+00:00",
+   "changelog": "- Serre : les Labos collés les uns aux autres font partie de la serre (énergie et engrais pour tous).\n- Serre : le contrôleur envoie une pile entière (64) d'engrais ou d'offrandes au lieu de 8.",
+   "changelog_en": "- Greenhouse: Labs touching each other are all part of the greenhouse (energy and fertilizer for all).\n- Greenhouse: the controller sends a full stack (64) of fertilizer or offerings instead of 8.",
+   "date": "2026-11-17T21:40:02+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
