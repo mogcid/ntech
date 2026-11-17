@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-modiverse",
  "name": "N-Tech Modiverse",
- "version": "1.0.9",
+ "version": "1.0.10",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.262",
  "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
@@ -70,15 +70,6 @@
    "size": 730220,
    "url": "https://edge.forgecdn.net/files/9212/286/AdvancedLootInfo-neoforge-1.21.1-2.5.0.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info/files/9212286"
-  },
-  {
-   "name": "Advanced Peripherals",
-   "file": "AdvancedPeripherals-1.21.1-0.8.1a.jar",
-   "side": "both",
-   "sha1": "d56e548fde2fed47e96ed32a37310d88765d3df0",
-   "size": 1553303,
-   "url": "https://edge.forgecdn.net/files/8805/548/AdvancedPeripherals-1.21.1-0.8.1a.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals/files/8805548"
   },
   {
    "name": "AdvancedAE",
@@ -745,15 +736,6 @@
    "size": 27213,
    "url": "https://edge.forgecdn.net/files/9051/336/chunksending-1.21-4.1.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric/files/9051336"
-  },
-  {
-   "name": "Classic Peripherals",
-   "file": "classicperipherals-neoforge-1.21.1-0.6.5.jar",
-   "side": "both",
-   "sha1": "c40efdecf38efdeaf24f5a87da3aa0e2a597f205",
-   "size": 7911413,
-   "url": "https://edge.forgecdn.net/files/8932/105/classicperipherals-neoforge-1.21.1-0.6.5.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/classic-peripherals/files/8932105"
   },
   {
    "name": "Clean Swing Through Grass",
@@ -2826,15 +2808,6 @@
    "page": "https://www.curseforge.com/minecraft/mc-mods/more-red/files/5763286"
   },
   {
-   "name": "More Red x CC:Tweaked Compat",
-   "file": "MoreRed-CCT-Compat-1.21.1-1.3.0.jar",
-   "side": "both",
-   "sha1": "534c64c86798ca691f0565bbf3fe09c9795a12df",
-   "size": 7312,
-   "url": "https://edge.forgecdn.net/files/6165/477/MoreRed-CCT-Compat-1.21.1-1.3.0.jar",
-   "page": "https://www.curseforge.com/minecraft/mc-mods/more-red-x-cc-tweaked-compat/files/6165477"
-  },
-  {
    "name": "Mouse Tweaks",
    "file": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
    "side": "client",
@@ -4496,75 +4469,57 @@
  "own": [
   {
    "file": "packforge-0.62.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/packforge-0.62.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.10/packforge-0.62.0.jar",
    "sha1": "e4bc45d3a490e90383ba82105d2004414cc51b1e",
    "size": 1258399
   },
   {
    "file": "pfmachines-0.26.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/pfmachines-0.26.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.10/pfmachines-0.26.1.jar",
    "sha1": "694c9a0b576febf78e0c8d47bb6de7b3ecc93720",
    "size": 857402
   },
   {
    "file": "pftools-1.0.4.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/pftools-1.0.4.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.10/pftools-1.0.4.jar",
    "sha1": "5a2158fae6ed6d264ea5bb1df9d81fdcf7124836",
    "size": 895449
   },
   {
    "file": "pffarms-0.2.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/pffarms-0.2.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.10/pffarms-0.2.2.jar",
    "sha1": "76ea1a27a7957d20f58692f8834a32c782c6667d",
    "size": 814033
   },
   {
    "file": "pfstellar-0.10.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/pfstellar-0.10.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.10/pfstellar-0.10.2.jar",
    "sha1": "f7e6afd6b621f49871a4c0cf5b520c7ebc26d040",
    "size": 1181191
   },
   {
    "file": "pfassembly-0.41.3.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/pfassembly-0.41.3.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.10/pfassembly-0.41.3.jar",
    "sha1": "b206ca99502a8b0eab826e03608448ed5ebb4654",
    "size": 5133250
   },
   {
    "file": "pfdomains-0.5.3.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/pfdomains-0.5.3.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.10/pfdomains-0.5.3.jar",
    "sha1": "57b40025370c26788a2eba95a866e5ba1751648a",
    "size": 74304
   },
   {
    "file": "pfbuilder-0.1.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/pfbuilder-0.1.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.10/pfbuilder-0.1.2.jar",
    "sha1": "5710938bf27297516ffb66f74b778a74b83dc422",
    "size": 13529993
-  },
-  {
-   "file": "cc-tweaked-1.21.1-forge-1.120.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/cc-tweaked-1.21.1-forge-1.120.2.jar",
-   "sha1": "f35d4f636c2eb1b30c5d3f5c08e110c6acb8e02f",
-   "size": 3126327
-  },
-  {
-   "file": "ftb-auxilium-neoforge-21.1.6.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/ftb-auxilium-neoforge-21.1.6.jar",
-   "sha1": "f3ec848b7c2541a7141e2f2b1b703b624fd08661",
-   "size": 43005
-  },
-  {
-   "file": "rgp-client-2.1.2+mc21.1-neoforge.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/rgp-client-2.1.2+mc21.1-neoforge.jar",
-   "sha1": "efc326ca27365750c993991e0aa7a5414bbdf6c2",
-   "size": 7289989
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.9/n-tech-modiverse-1.0.9-overrides.zip",
-  "sha1": "626076c5cf398e5653b92e6e9445e01f0c8d2244",
-  "size": 13882535
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.10/n-tech-modiverse-1.0.10-overrides.zip",
+  "sha1": "33df30ce99e9a5e849424006371b19604ba99ada",
+  "size": 13882527
  },
  "license": {
   "mods": [
@@ -4574,7 +4529,6 @@
    "aci",
    "actuallyadditions",
    "advanced_ae",
-   "advancedperipherals",
    "advancementplaques",
    "ae2",
    "ae2_draconic_fusion_autocrafter",
@@ -4654,7 +4608,6 @@
    "charmofundying",
    "chipped",
    "chisel",
-   "classicperipherals",
    "cleanswing",
    "clickadv",
    "cloth_config",
@@ -4852,7 +4805,6 @@
    "modularrouters",
    "moonlight",
    "morered",
-   "moreredxcctcompat",
    "mysticalagradditions",
    "mysticalagriculture",
    "mysticalautomation",
@@ -5018,7 +4970,7 @@
    "yungsextras"
   ],
   "pack": "n-tech-modiverse",
-  "sig": "A66DC3lECI53X63XUQNJBIJl5jhYh6jxjM0CIHZ6o9geA8bOJfzyFeDqFLrBZCNMkQrt94cYan4QdSEhEWFjCw=="
+  "sig": "GDPqvn3sGy918Gb6vfB102lZtuY8FuqmFUDNUwR86GkcUsbtz15SgL71KDiy8B4g57EsXMUcUTjEt4jPfdoGCw=="
  },
  "managedDirs": [
   "packforge/datapack",
