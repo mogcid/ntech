@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.10",
+   "version": "1.0.11",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "- Retirés : CC: Tweaked, Advanced Peripherals, Classic Peripherals, More Red x CC:Tweaked (pas de version CurseForge compatible), FTB Auxilium et RGP Client. Les ordinateurs CC posés disparaissent.\n- Mode Expert : l'interface de drone de PneumaticCraft demande une perle de l'Ender à la place du modem CC.",
-   "changelog_en": "- Removed: CC: Tweaked, Advanced Peripherals, Classic Peripherals, More Red x CC:Tweaked (no compatible CurseForge version), FTB Auxilium and RGP Client. Placed CC computers disappear.\n- Expert mode: PneumaticCraft's drone interface now takes an ender pearl instead of the CC modem.",
-   "date": "2026-11-17T07:47:47+00:00",
+   "changelog": "PackForge Tools 1.1.0 : chaque pièce d'outil a jusqu'à 4 emplacements (niveaux I, III, V, VII) pour y insérer une pièce du même type, qui ajoute ses effets et monte de niveau avec l'outil (panneau à l'enclume). La barre bleue de sauvegarde n'apparaît plus chez les joueurs.",
+   "changelog_en": "PackForge Tools 1.1.0: each tool part has up to 4 slots (levels I, III, V, VII) to insert a part of the same type, adding its effects and leveling up with the tool (anvil panel). The blue backup bar no longer shows for players.",
+   "date": "2026-11-17T09:18:25+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
