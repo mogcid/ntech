@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-modiverse",
  "name": "N-Tech Modiverse",
- "version": "1.0.17",
+ "version": "1.0.18",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.262",
  "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
@@ -160,6 +160,15 @@
    "size": 61121,
    "url": "https://edge.forgecdn.net/files/7634/384/ae2helpers-1.0.1.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/ae2helpers/files/7634384"
+  },
+  {
+   "name": "AEInfinityBooster",
+   "file": "aeinfinitybooster-neoforge-2.1.2-mc1.21.1.jar",
+   "side": "both",
+   "sha1": "8a4ba3b0cb8fedb499aa32f63d9e31077c934401",
+   "size": 42287,
+   "url": "https://edge.forgecdn.net/files/9483/395/aeinfinitybooster-neoforge-2.1.2-mc1.21.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster/files/9483395"
   },
   {
    "name": "All Arrows Infinity Fix",
@@ -4468,58 +4477,58 @@
  ],
  "own": [
   {
-   "file": "packforge-0.63.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.17/packforge-0.63.1.jar",
-   "sha1": "f43b61dec0fea8e6cbeb5884e9b6df468269425f",
-   "size": 1308481
+   "file": "packforge-0.63.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.18/packforge-0.63.2.jar",
+   "sha1": "cbe1a052e3ed07c64b47092eef5b475937dcef97",
+   "size": 1308660
   },
   {
    "file": "pfmachines-0.26.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.17/pfmachines-0.26.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.18/pfmachines-0.26.1.jar",
    "sha1": "694c9a0b576febf78e0c8d47bb6de7b3ecc93720",
    "size": 857402
   },
   {
    "file": "pftools-1.2.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.17/pftools-1.2.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.18/pftools-1.2.0.jar",
    "sha1": "a411c7a8a93990d446b125d3800977af72e26702",
    "size": 927372
   },
   {
-   "file": "pffarms-0.2.6.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.17/pffarms-0.2.6.jar",
-   "sha1": "32e0cbb0efebbde6f9f160c7c50f54eea8069f00",
-   "size": 815288
+   "file": "pffarms-0.2.7.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.18/pffarms-0.2.7.jar",
+   "sha1": "cf75ee184c22b4ce76084a582743d3463b2f4b14",
+   "size": 815299
   },
   {
    "file": "pfstellar-0.10.2.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.17/pfstellar-0.10.2.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.18/pfstellar-0.10.2.jar",
    "sha1": "f7e6afd6b621f49871a4c0cf5b520c7ebc26d040",
    "size": 1181191
   },
   {
    "file": "pfassembly-0.41.4.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.17/pfassembly-0.41.4.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.18/pfassembly-0.41.4.jar",
    "sha1": "36c9e7a9d9fa52fb32ccee7c43e8933720802d58",
    "size": 5133287
   },
   {
    "file": "pfdomains-0.5.3.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.17/pfdomains-0.5.3.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.18/pfdomains-0.5.3.jar",
    "sha1": "57b40025370c26788a2eba95a866e5ba1751648a",
    "size": 74304
   },
   {
    "file": "pfbuilder-0.2.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.17/pfbuilder-0.2.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.18/pfbuilder-0.2.1.jar",
    "sha1": "b2b79717301d1dd601599bf5602ff7a6252375ae",
    "size": 13559120
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.17/n-tech-modiverse-1.0.17-overrides.zip",
-  "sha1": "dda36cdfb1edfeee2a93c516e77398a7c3574c1a",
-  "size": 14379302
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.18/n-tech-modiverse-1.0.18-overrides.zip",
+  "sha1": "4e08507ad1518fdb73c63d5f461a9f849e8c7804",
+  "size": 14380168
  },
  "license": {
   "mods": [
@@ -4540,6 +4549,7 @@
    "ae2things",
    "ae2utility",
    "ae2wtlib",
+   "aeinfinitybooster",
    "aeroportals",
    "aeroworks",
    "ali",
@@ -4970,7 +4980,7 @@
    "yungsextras"
   ],
   "pack": "n-tech-modiverse",
-  "sig": "GDPqvn3sGy918Gb6vfB102lZtuY8FuqmFUDNUwR86GkcUsbtz15SgL71KDiy8B4g57EsXMUcUTjEt4jPfdoGCw=="
+  "sig": "cLmksWy1HAJkejD4dUZddLQQNW5lDXwsZF4axUeS7a5+dJKSsRUp8wQnTlz49b3xRfwKP+xd5Ajx1KLxldBiCA=="
  },
  "managedDirs": [
   "packforge/datapack",
