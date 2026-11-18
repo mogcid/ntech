@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.15",
+   "version": "1.0.16",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "- Armure Tools : le niveau des plaques et les plaques insérées s'additionnent (armure, robustesse, recul). Au-delà de 30 d'armure : moins de dégâts ; au-delà de 20 de robustesse : cœurs en plus.\n- Outils : nouvelles textures de hache et de pelle ; les lignes lumineuses prennent la couleur de la tête, ou celle d'une teinture (outil + teinture à la table de craft).\n- Architect : contour de sélection lisse sur les pentes et formes arrondies ; prolonger (Alt) pose tout de suite avec l'inventaire et recopie la pièce exactement ; nouvelles textures (atelier, coffre de chantier, marteau, équerre, cordeau).",
-   "changelog_en": "- Tools armor: plate levels and inserted plates stack (armor, toughness, knockback). Above 30 armor: less damage; above 20 toughness: extra hearts.\n- Tools: new axe and shovel textures; glowing lines follow the head colour, or a dye (tool + dye at the crafting table).\n- Architect: smooth selection outline on slopes and rounded shapes; extending (Alt) places right away from the inventory and copies the piece exactly; new textures (workshop, site chest, hammer, square, chalk line).",
-   "date": "2026-11-18T09:09:08+00:00",
+   "changelog": "- Farms 0.2.5 : les offrandes des bocaux Arène ne se consomment plus (la serre n'en met que le nécessaire).\n- Labo : deux échantillons de boss fusionnent en un seul (meilleurs gènes, plus grand nombre de combats) ; corrige le croisement sans fin.\n- Shader Complementary Reimagined inclus (corrige « SHADER NOT FOUND » d'Euphoria Patches).",
+   "changelog_en": "- Farms 0.2.5: Arena jar offerings are no longer consumed (the greenhouse only adds what's needed).\n- Lab: two boss samples merge into one (best genes, highest fight count); fixes endless crossing.\n- Complementary Reimagined shader included (fixes Euphoria Patches \"SHADER NOT FOUND\").",
+   "date": "2026-11-18T11:32:50+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
