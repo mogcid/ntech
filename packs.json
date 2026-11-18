@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.14",
+   "version": "1.0.15",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "- Serre : les Labos collés les uns aux autres font partie de la serre (énergie et engrais pour tous).\n- Serre : le contrôleur envoie une pile entière (64) d'engrais ou d'offrandes au lieu de 8.",
-   "changelog_en": "- Greenhouse: Labs touching each other are all part of the greenhouse (energy and fertilizer for all).\n- Greenhouse: the controller sends a full stack (64) of fertilizer or offerings instead of 8.",
-   "date": "2026-11-17T21:40:02+00:00",
+   "changelog": "- Armure Tools : le niveau des plaques et les plaques insérées s'additionnent (armure, robustesse, recul). Au-delà de 30 d'armure : moins de dégâts ; au-delà de 20 de robustesse : cœurs en plus.\n- Outils : nouvelles textures de hache et de pelle ; les lignes lumineuses prennent la couleur de la tête, ou celle d'une teinture (outil + teinture à la table de craft).\n- Architect : contour de sélection lisse sur les pentes et formes arrondies ; prolonger (Alt) pose tout de suite avec l'inventaire et recopie la pièce exactement ; nouvelles textures (atelier, coffre de chantier, marteau, équerre, cordeau).",
+   "changelog_en": "- Tools armor: plate levels and inserted plates stack (armor, toughness, knockback). Above 30 armor: less damage; above 20 toughness: extra hearts.\n- Tools: new axe and shovel textures; glowing lines follow the head colour, or a dye (tool + dye at the crafting table).\n- Architect: smooth selection outline on slopes and rounded shapes; extending (Alt) places right away from the inventory and copies the piece exactly; new textures (workshop, site chest, hammer, square, chalk line).",
+   "date": "2026-11-18T09:09:08+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
