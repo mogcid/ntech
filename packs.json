@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.17",
+   "version": "1.0.18",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "- Boutique : nouvel article « Métier supplémentaire » (jusqu'à 3 métiers en plus, le prix monte à chaque achat).\n- Les machines (Mob Masher…) ne gagnent plus d'argent ; leurs comptes sont retirés du classement.\n- Skills : Mouvement et Exploration donnent enfin de l'XP en se déplaçant (avant : arrondi à 0).\n- Les objets Artifacts ne se trouvent plus dans les coffres (villages, ancient city…) : seulement à la boutique.\n- Farms 0.2.6 : correctif de la seringue de boss.",
-   "changelog_en": "- Shop: new \"Extra job\" item (up to 3 more jobs, price rises with each purchase).\n- Machines (Mob Masher…) no longer earn money; their accounts are removed from the leaderboard.\n- Skills: Movement and Exploration now give XP while moving (it was rounded to 0).\n- Artifacts items no longer appear in chests (villages, ancient city…): shop only.\n- Farms 0.2.6: boss syringe fix.",
-   "date": "2026-11-18T14:55:50+00:00",
+   "changelog": "- Nouveau mod : AE Infinity Booster (portée sans fin pour le sans-fil AE2).\n- Labo : deux échantillons de boss restent tous les deux et évoluent ensemble (plus de perte) ; le Labo s'arrête au maximum (10/10/10).\n- Simple PCB de Steve's Carts : lingot de cuivre au centre (n'est plus le même craft que le Module vierge).\n- Mob Masher n'apparaît plus dans l'argent à droite.",
+   "changelog_en": "- New mod: AE Infinity Booster (unlimited AE2 wireless range).\n- Lab: two boss samples both stay and evolve together (no more loss); the Lab stops at max (10/10/10).\n- Steve's Carts Simple PCB: copper ingot in the middle (no longer the same craft as the Blank Module).\n- Mob Masher no longer shows in the money sidebar.",
+   "date": "2026-11-18T15:29:41+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
