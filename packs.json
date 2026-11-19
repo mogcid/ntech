@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.20",
+   "version": "1.0.21",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Correctif : connexion refusée (« unknown keys … appmek:portable_chemical_cell »).",
-   "changelog_en": "Hotfix: connection refused (\"unknown keys … appmek:portable_chemical_cell\").",
-   "date": "2026-11-19T08:45:07+00:00",
+   "changelog": "NOUVEAU : la Saison du Modiverse ! Un Autel commun au spawn : tout le serveur dépose des ressources pour monter 10 paliers, et chaque palier débloque pour tous la récompense votée (bocaux plus rapides, boss du samedi, monument, boutique exclusive, filons, XP…). Classement, champion de chaque palier, points ×2 en Expert. /saison pour voir et voter. Aussi : /pf hotbar, correctif de la seringue.",
+   "changelog_en": "NEW: the Modiverse Season! A shared Altar at spawn: the whole server deposits resources to climb 10 tiers, and each tier unlocks the voted reward for everyone (faster jars, Saturday boss, monument, exclusive shop, ores, XP…). Ranking, champion of each tier, ×2 points in Expert. /saison to view and vote. Also: /pf hotbar, syringe fix.",
+   "date": "2026-11-19T16:32:54+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
