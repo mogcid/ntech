@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.19",
+   "version": "1.0.20",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Ender Storage : la teinture ne bloque plus les fréquences. Farming : l'XP monte en récoltant les cultures mûres. Bocaux : les échantillons de boss ne s'usent plus ; Piglin brute, Starbuncle, Whirlisprig, Drygmy et Wixie donnent leur butin (or, éclats). Huile PneumaticCraft utilisable par Oritech.",
-   "changelog_en": "Ender Storage: dyeing no longer blocks frequencies. Farming: XP now rises when harvesting mature crops. Jars: boss samples no longer wear out; Piglin Brute, Starbuncle, Whirlisprig, Drygmy and Wixie now give their loot (gold, shards). PneumaticCraft oil usable by Oritech.",
-   "date": "2026-11-19T08:29:02+00:00",
+   "changelog": "Correctif : connexion refusée (« unknown keys … appmek:portable_chemical_cell »).",
+   "changelog_en": "Hotfix: connection refused (\"unknown keys … appmek:portable_chemical_cell\").",
+   "date": "2026-11-19T08:45:07+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
