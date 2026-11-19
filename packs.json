@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.21",
+   "version": "1.0.22",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "NOUVEAU : la Saison du Modiverse ! Un Autel commun au spawn : tout le serveur dépose des ressources pour monter 10 paliers, et chaque palier débloque pour tous la récompense votée (bocaux plus rapides, boss du samedi, monument, boutique exclusive, filons, XP…). Classement, champion de chaque palier, points ×2 en Expert. /saison pour voir et voter. Aussi : /pf hotbar, correctif de la seringue.",
-   "changelog_en": "NEW: the Modiverse Season! A shared Altar at spawn: the whole server deposits resources to climb 10 tiers, and each tier unlocks the voted reward for everyone (faster jars, Saturday boss, monument, exclusive shop, ores, XP…). Ranking, champion of each tier, ×2 points in Expert. /saison to view and vote. Also: /pf hotbar, syringe fix.",
-   "date": "2026-11-19T16:32:54+00:00",
+   "changelog": "- Le spawn s'agrandit : 10 nouveaux bâtiments construits tout seuls autour du château (monument de la Saison, musée, hall des boss, port spatial, quartier marchand, sanctuaire des prestiges, hall des domaines, centrale énergétique, atelier des multiblocs, bureau des contrats), indestructibles.\n- Monument de la Saison : il grandit à chaque palier ; l'autel change de style et ses voyants montrent l'avancée.\n- Musée : donne des objets au comptoir ; chaque collection complète ouvre son aile et récompense tout le serveur (/musee).\n- Hall des boss : le boss du samedi se bat dans l'arène ; les vitrines gardent le premier vainqueur de chaque boss (/hallboss).\n- Port spatial : clique une planète pour voyager (ton domaine, Nether, monde de minage, End) ; tableau des joueurs disparus.\n- Plus de neige autour du spawn.\n- Mode Expert : l'autel stellaire se fait de nouveau avec les lucioles (cristaux célestes obtenables).\n- Compétence Farming : récolter des cultures mûres donne de l'XP.\n- Marché : Cœur de la mer dans la nouvelle catégorie Raretés.",
+   "changelog_en": "- Spawn expansion: 10 new buildings built automatically around the castle (Season monument, museum, boss hall, space port, merchant quarter, prestige sanctuary, domains hall, power plant, multiblock workshop, contracts office), indestructible.\n- Season monument: grows with every tier; the altar changes style and its lights show progress.\n- Museum: donate items at the desk; each completed collection opens its wing and rewards the whole server (/musee).\n- Boss hall: the Saturday boss fights in the arena; display cases keep the first winner of each boss (/hallboss).\n- Space port: click a planet to travel (your domain, Nether, mining world, End); board of missing players.\n- No more snow around spawn.\n- Expert mode: the starlight altar is made by fireflies again (celestial crystals obtainable).\n- Farming skill: harvesting mature crops gives XP.\n- Market: Heart of the Sea in the new Rarities category.",
+   "date": "2026-11-19T23:41:23+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
