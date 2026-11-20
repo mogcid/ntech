@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.23",
+   "version": "1.0.24",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "- Spawn : le terrain autour des nouveaux bâtiments est taillé en pente douce et remis en herbe (plus de falaises, de blocs qui flottent ni d'eau qui coule dedans).",
-   "changelog_en": "- Spawn: the terrain around the new buildings is cut into gentle grassy slopes (no more cliffs, floating blocks or water flowing inside).",
-   "date": "2026-11-19T23:53:58+00:00",
+   "changelog": "- Spawn : la zone autour du château est maintenant plate, au niveau de la place ; les nouveaux bâtiments sont posés à la même hauteur que le château (plus de talus, de fossés, de grottes ouvertes ni de blocs qui flottent).",
+   "changelog_en": "- Spawn: the area around the castle is now flat, level with the plaza; the new buildings sit at the same height as the castle (no more banks, ditches, open caves or floating blocks).",
+   "date": "2026-11-20T08:40:15+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
