@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.30",
+   "version": "1.0.31",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Correction du lag au spawn (milliers de mannequins et d'hologrammes en double). Stellar : accroupi + clic sur l'autel d'harmonisation ou le sanctuaire pour tracer une constellation au sol ; nouvelle Cloche du crépuscule (nuit locale de 5 min avec de la lumière stellaire liquide). Domaines paisibles : plus de chauves-souris. Câble d'étain MI : accepte tous les fils d'étain. Entro : bloc bourgeonnant à l'assembleur Oritech (graines d'Entro + bloc de Fluix) pour les bocaux.",
-   "changelog_en": "Fixed spawn lag (thousands of duplicated training dummies and holograms). Stellar: sneak + click the harmony altar or the sanctuary to draw a constellation on the ground; new Dusk Bell (5-minute local night using liquid starlight). Peaceful domains: no more bats. MI tin cable: accepts any tin wire. Entro: budding block in the Oritech assembler (Entro seeds + Fluix block) for the jars.",
-   "date": "2026-11-21T19:11:08+00:00",
+   "changelog": "Correctif : le serveur plantait à cause des anciens mannequins en double du Hall des Boss ; ils sont maintenant supprimés dès leur chargement.",
+   "changelog_en": "Hotfix: the server crashed because of the old duplicated training dummies in the Boss Hall; they are now removed as soon as they load.",
+   "date": "2026-11-21T20:40:32+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
