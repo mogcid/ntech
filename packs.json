@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.26",
+   "version": "1.0.27",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Spawn : panneau au-dessus de chaque entrée ; Hall des domaines : vrai portail vers ton domaine ; Atelier : nos usines formées en vitrine (Fonderie, Raffinerie, Réplicateur, Turbine, Réacteur à fusion) ; Salle des boss : mannequins et records de combat (/stats) ; Centrale : contrat d'énergie de la semaine (/centrale) ; Sanctuaire : clic sur les alcôves des bonus ; plus de monstres dans les bâtiments. Nouveau : cartes à collectionner (300+, album /cartes, murs du musée). Pierre de voyage : touche Y et case Curios. Cœurs à acheter au marché. Boss de Cataclysm et d'Occultism en seringue de boss (offrandes). Honey Treat : message si le biome ne va pas. Cristaux Entro dans les bocaux. Stellar : ce qui manque est affiché. Armoires Handcrafted : nouvelle recette (plus de conflit avec les tiroirs). Guide du joueur mis à jour.",
-   "changelog_en": "Spawn: a sign above every entrance; Domains Hall: a real portal to your domain; Workshop: our formed factories on display; Boss Hall: training dummies and combat records (/stats); Power plant: weekly energy contract (/centrale); Sanctuary: click the bonus alcoves; no more monsters in the buildings. New: collectible cards (300+, /cartes album, museum walls). Travel Stone: Y key and Curios slot. Buy extra hearts at the market. Cataclysm and Occultism bosses with the boss syringe (offerings). Honey Treat: message when the biome is wrong. Entro crystals in jars. Stellar: shows what is missing. Handcrafted cupboards: new recipe (no more clash with drawers). Player guide updated.",
-   "date": "2026-11-20T21:32:28+00:00",
+   "changelog": "Farms : le Dragon dans le bocal donne un Cœur de dragon (Draconic Evolution) à chaque combat. Stellar : clic sur une constellation du Carnet céleste = son plan de pose autour de l'autel ; la bulle dit ce que fait chaque constellation. Wiki Stellar refait (guide en images, 12 constellations).",
+   "changelog_en": "Farms: the Dragon in the jar drops a Dragon Heart (Draconic Evolution) every fight. Stellar: click a constellation in the Celestial Journal for its placement plan around the altar; tooltips show what each constellation does. Stellar wiki rewritten (illustrated guide, 12 constellations).",
+   "date": "2026-11-21T08:11:27+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
