@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.28",
+   "version": "1.0.29",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Expert : toutes les recettes de l'Inscriber passent par la chambre de pression (processeurs, circuits imprimés des addons, copies de presses) ; l'Inscriber se fabrique dans la Dissolution Chamber. Farms : le Dragon dans le bocal donne un Cœur de dragon à chaque combat. Stellar : clic sur une constellation du Carnet céleste = son plan de pose ; la bulle dit ce que fait chaque constellation. Colossal Reactors, LTX, MFFS, Replication : recettes rendues en Expert.",
-   "changelog_en": "Expert: every Inscriber recipe now goes through the pressure chamber (processors, addon printed circuits, press copies); the Inscriber is made in the Dissolution Chamber. Farms: the Dragon in the jar drops a Dragon Heart every fight. Stellar: click a constellation in the Celestial Journal for its placement plan; tooltips show what each constellation does. Colossal Reactors, LTX, MFFS, Replication: recipes restored in Expert.",
-   "date": "2026-11-21T08:22:42+00:00",
+   "changelog": "Stellar : le cristal et la lumière stellaire se voient dans le bassin ; le réservoir se remplit au bassin (clic droit) ; JEI montre en vraies recettes la lumière stellaire, la lunite, l'autel, les lucioles et les blocs de chaque palier de l'autel (onglet Structure de l'autel, touche U sur l'autel).",
+   "changelog_en": "Stellar: the crystal and liquid starlight are visible in the basin; the reservoir fills from the basin (right-click); JEI shows real recipes for liquid starlight, lunite, the altar, fireflies and the blocks of each altar tier (Altar structure tab, U on the altar).",
+   "date": "2026-11-21T08:43:39+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
