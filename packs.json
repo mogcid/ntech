@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.31",
+   "version": "1.0.32",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Correctif : le serveur plantait à cause des anciens mannequins en double du Hall des Boss ; ils sont maintenant supprimés dès leur chargement.",
-   "changelog_en": "Hotfix: the server crashed because of the old duplicated training dummies in the Boss Hall; they are now removed as soon as they load.",
-   "date": "2026-11-21T20:40:32+00:00",
+   "changelog": "Traînées de la boutique réparées. Stellar : autel automatisable (bouton « Fixer la recette », trémies/tuyaux, lumière par tuyau, redstone pour lancer), autels/bassin/cloche gardent leur lumière une fois cassés. PackForge Assembly : les machines ne prennent que ce qu'elles savent traiter (trémies, tuyaux, AE2). Abeilles : les abeilles parentes (Ender, cristalline, magmatique…) sont de retour, l'arbre des abeilles de minerai est réparé (diamant, fer, or…). Caoutchouc unifié (Assembly et MI). Expert : générateur de chaleur à l'établi mécanique de Create.",
+   "changelog_en": "Shop trails fixed. Stellar: automatable altar (\"Lock recipe\" button, hoppers/pipes, light by pipe, redstone to start), altars/basin/bell keep their light when broken. PackForge Assembly: machines only accept what they can process (hoppers, pipes, AE2). Bees: parent bees (Ender, crystalline, magmatic…) are back, the ore bee tree is fixed (diamond, iron, gold…). Rubber unified (Assembly and MI). Expert: heat generator on the Create mechanical crafter.",
+   "date": "2026-11-21T22:46:58+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
