@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.37",
+   "version": "1.0.38",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Shop : la vente remarche (diamants, minerais…). /titre : choisis ton titre parmi tous ceux gagnés. Le dragon de l'End renaît quand on entre dans l'End. Time Crystal : le Budding Time Crystal Block pousse dans le bocal de Farms. Modern Industrialization accepte l'énergie FE des autres mods. Architect : touche K pour figer l'aperçu avant de coller, et /architect importer pour charger une structure .nbt.",
-   "changelog_en": "Shop: selling works again (diamonds, ores...). /titre: pick your title among all those you earned. The End dragon respawns when someone enters the End. Time Crystal: the Budding Time Crystal Block grows in the Farms jar. Modern Industrialization accepts FE from other mods. Architect: K key to lock the preview before pasting, and /architect importer to load a .nbt structure.",
-   "date": "2026-11-22T15:36:18+00:00",
+   "changelog": "PackForge Architect 0.2.5 : l'aperçu de pose affiche maintenant le plan entier, même les très gros (plus de blocs en pointillés), sans ralentir le jeu ; aide « K figer l'aperçu » dans l'affichage. Trois nouveaux plans sur le serveur : modiverse_hangar (grand hangar), modiverse_central (bâtiment de bureaux) et modiverse_aile (aile logistique avec quais).",
+   "changelog_en": "PackForge Architect 0.2.5: the placement preview now shows the whole plan, even very large ones (no more dotted blocks), without slowing the game; 'K to lock the preview' hint on screen. Three new plans on the server: modiverse_hangar (large hangar), modiverse_central (office building) and modiverse_aile (logistics wing with loading docks).",
+   "date": "2026-11-22T19:22:38+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
