@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.35",
+   "version": "1.0.36",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Machines Assembly intelligentes : elles ne prennent que ce qui sert à leurs recettes (trémies, tuyaux, AE2). Nouvelle face avant pour l'assembleur de composants. Extracteur XyCraft : un bloc de grains d'infinité donne des grains d'infinité. Le caoutchouc donne la plaque de caoutchouc de Modern Industrialization. Anti-lag : une ferme sans coffre loin des joueurs ne peut plus remplir un chunk d'objets au sol.",
-   "changelog_en": "Smart Assembly machines: they only accept items used by their recipes (hoppers, pipes, AE2). New front face for the component assembler. XyCraft extractor: a block of grains of infinity yields grains of infinity. Rubber now gives Modern Industrialization rubber sheet. Anti-lag: an unattended farm with no chest can no longer flood a chunk with dropped items.",
-   "date": "2026-11-22T12:32:44+00:00",
+   "changelog": "Abeilles : toutes les abeilles gardées s'obtiennent de nouveau (croisements, nids, conversions et pêche restaurés : cuivre, étain, fer, or, alu, platine, tungstène, iridium, charbon, soufre, redstone, émeraude, obsidienne, Spacial, Fluix, Soulium, Prosperity, Glowing, Azure Silver, Crimson Iron…) ; nouveaux croisements ou conversions pour Manganèse, Chrome, Mithril, Draconium, Béryllium, Iesnium, Inferium, Redstone Crystal et Stellarite. Bocal de Farms : l'amas d'entro donne enfin ses cristaux.",
+   "changelog_en": "Bees: every kept bee can be obtained again (breeding, nests, conversions and fishing restored: copper, tin, iron, gold, aluminium, platinum, tungsten, iridium, coal, sulfur, redstone, emerald, obsidian, Spacial, Fluix, Soulium, Prosperity, Glowing, Azure Silver, Crimson Iron...); new breeding or conversions for Manganese, Chromium, Mithril, Draconium, Beryllium, Iesnium, Inferium, Redstone Crystal and Stellarite. Farms jar: entro clusters now yield their crystals.",
+   "date": "2026-11-22T13:11:27+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
