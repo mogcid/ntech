@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.39",
+   "version": "1.0.40",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "PackForge Architect 0.2.6 : nouvelle Découpeuse d'Architect (mêmes recettes que le tailleur de pierre, barre de recherche, ×1/×16/×64/Tout, mode auto, prend dans les coffres et réseaux AE2/RS à côté) et Découpeuse portable ; Coffre de chantier : 4 096 blocs par case ; bouton « Matériaux » dans les plans (besoin, ce que tu as, ce qui manque, copier la liste) ; l'Atelier et le Coffre de chantier se ramassent quand on les casse ; supprimer un plan demande deux clics. Ajout : AE2 Import Export Card.",
-   "changelog_en": "PackForge Architect 0.2.6: new Architect Cutter (same recipes as the stonecutter, search bar, x1/x16/x64/All, auto mode, pulls from nearby chests and AE2/RS networks) and Portable Cutter; Site chest: 4,096 blocks per slot; 'Materials' button in plans (needed, owned, missing, copy list); the Workshop and Site chest now drop when broken; deleting a plan needs two clicks. Added: AE2 Import Export Card.",
-   "date": "2026-11-22T20:50:42+00:00",
+   "changelog": "PackForge Architect 0.2.7 : un chantier trouve maintenant le Coffre de chantier même posé après le lancement ou loin de toi ; il ne s'arrête plus au premier bloc qui manque : il pose tout ce que tu as et revient sur les blocs manquants dès qu'ils arrivent ; message « il manque » moins fréquent.",
+   "changelog_en": "PackForge Architect 0.2.7: a construction site now finds the Site chest even if it was placed after starting or far from you; it no longer stops at the first missing block: it places everything you have and comes back to missing blocks as soon as they arrive; fewer 'missing' messages.",
+   "date": "2026-11-22T22:14:30+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
