@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.33",
+   "version": "1.0.34",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Correctif : le serveur ne démarrait plus (mauvaise version de PackForge Assembly). Tout le reste de la 1.0.32 est gardé.",
-   "changelog_en": "Hotfix: the server no longer started (wrong PackForge Assembly version). Everything else from 1.0.32 is kept.",
-   "date": "2026-11-21T22:55:41+00:00",
+   "changelog": "PackForge Architect : les blocs ont de nouveau une taille normale dans l'inventaire et en main. Caoutchouc : les feuilles de caoutchouc MI servent aussi dans les recettes de PackForge Assembly.",
+   "changelog_en": "PackForge Architect: blocks are back to a normal size in the inventory and in hand. Rubber: MI rubber sheets also work in PackForge Assembly recipes.",
+   "date": "2026-11-22T10:04:09+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
