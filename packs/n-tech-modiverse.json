@@ -1,7 +1,7 @@
 {
  "slug": "n-tech-modiverse",
  "name": "N-Tech Modiverse",
- "version": "1.0.38",
+ "version": "1.0.39",
  "mc": "1.21.1",
  "loader": "neoforge-21.1.262",
  "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
@@ -97,6 +97,15 @@
    "size": 94131,
    "url": "https://edge.forgecdn.net/files/9192/314/ae2-draconic-fusion-autocrafter-neoforge-mc1.21.1-0.1.7.jar",
    "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-draconic-fusion-autocrafter/files/9192314"
+  },
+  {
+   "name": "AE2 Import Export Card",
+   "file": "ae2importexportcard-1.21.1-1.9.1.jar",
+   "side": "both",
+   "sha1": "1b4fdfe01206524912fea28b7dea9e9449673018",
+   "size": 688670,
+   "url": "https://edge.forgecdn.net/files/8961/599/ae2importexportcard-1.21.1-1.9.1.jar",
+   "page": "https://www.curseforge.com/minecraft/mc-mods/ae2-import-export-card/files/8961599"
   },
   {
    "name": "AE2 JEI Integration",
@@ -4478,56 +4487,56 @@
  "own": [
   {
    "file": "packforge-0.67.4.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.38/packforge-0.67.4.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.39/packforge-0.67.4.jar",
    "sha1": "4804f888bac7db6e2b7266f272643f7e2d2a3901",
    "size": 7636440
   },
   {
    "file": "pfmachines-0.27.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.38/pfmachines-0.27.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.39/pfmachines-0.27.0.jar",
    "sha1": "9e18661f4f21419cd2b6e74408cda979ee5844d4",
    "size": 897017
   },
   {
    "file": "pftools-1.2.0.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.38/pftools-1.2.0.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.39/pftools-1.2.0.jar",
    "sha1": "a411c7a8a93990d446b125d3800977af72e26702",
    "size": 927372
   },
   {
    "file": "pffarms-0.2.16.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.38/pffarms-0.2.16.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.39/pffarms-0.2.16.jar",
    "sha1": "cffa60c27db5097e21001daf775ebd4774fb7a61",
    "size": 826425
   },
   {
    "file": "pfstellar-0.10.9.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.38/pfstellar-0.10.9.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.39/pfstellar-0.10.9.jar",
    "sha1": "baef48890511aa21de4814add8d5bc4b72dfac6e",
    "size": 1237531
   },
   {
    "file": "pfassembly-0.41.5.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.38/pfassembly-0.41.5.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.39/pfassembly-0.41.5.jar",
    "sha1": "1618c11e47623fed4875f454c3dd6d4c2fc2c13f",
    "size": 5157681
   },
   {
    "file": "pfdomains-0.6.1.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.38/pfdomains-0.6.1.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.39/pfdomains-0.6.1.jar",
    "sha1": "69adb7843c0bb7334276f805af1d2d61d35c13f5",
    "size": 78944
   },
   {
-   "file": "pfbuilder-0.2.5.jar",
-   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.38/pfbuilder-0.2.5.jar",
-   "sha1": "7b79bb36c4f8aa7c2551a14059867ed7589d2c65",
-   "size": 14130861
+   "file": "pfbuilder-0.2.6.jar",
+   "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.39/pfbuilder-0.2.6.jar",
+   "sha1": "6a87884cb09f6506eb9b0a8806cb28e1180beab6",
+   "size": 14183213
   }
  ],
  "overrides": {
-  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.38/n-tech-modiverse-1.0.38-overrides.zip",
-  "sha1": "06cfa3b72db2fca67d08ca1b13260748248a5759",
+  "url": "https://github.com/mogcid/ntech/releases/download/n-tech-modiverse-1.0.39/n-tech-modiverse-1.0.39-overrides.zip",
+  "sha1": "8f6cc47b58c7a363f4be2dcbd33f9bcda4030146",
   "size": 14411182
  },
  "license": {
@@ -4543,6 +4552,7 @@
    "ae2_draconic_fusion_autocrafter",
    "ae2ct",
    "ae2helpers",
+   "ae2importexportcard",
    "ae2jeiintegration",
    "ae2labeledpatterns",
    "ae2netanalyser",
@@ -4980,7 +4990,7 @@
    "yungsextras"
   ],
   "pack": "n-tech-modiverse",
-  "sig": "cLmksWy1HAJkejD4dUZddLQQNW5lDXwsZF4axUeS7a5+dJKSsRUp8wQnTlz49b3xRfwKP+xd5Ajx1KLxldBiCA=="
+  "sig": "Bo+9zyGok5IDw7LUVxKNY0QMSTMTTVbpcZL4aSQqnz11p+poKAGz1AojDidse7vOdBg8mxaFvTNqG2/T54u8Dw=="
  },
  "managedDirs": [
   "packforge/datapack",
