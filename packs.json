@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.42",
+   "version": "1.0.43",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "PackForge Architect 0.2.8 : « Arrêter » un chantier (menu ou /pfbuilder cancel) garde maintenant tout ce qui est construit ; les chantiers posent 10 fois plus vite (100 blocs/s). PackForge Assembly 0.41.6 : dans l'unité de procédés chimiques, le mode qui transforme l'eau lourde en deutérium s'appelle « Deutérium » (l'eau lourde se fait en mode Distillation, depuis l'eau enrichie pompe + filtre isotopique).",
-   "changelog_en": "PackForge Architect 0.2.8: 'Stop' on a construction site (menu or /pfbuilder cancel) now keeps everything already built; sites build 10 times faster (100 blocks/s). PackForge Assembly 0.41.6: in the Process Chemistry Unit, the mode that turns heavy water into deuterium is now called 'Deuterium' (heavy water is made in Distillation mode, from pump + isotope filter enriched water).",
-   "date": "2026-11-23T08:29:25+00:00",
+   "changelog": "PackForge Architect 0.2.9 : le Coffre de chantier cassé garde tout son contenu (on le déplace sans rien vider, les chantiers le retrouvent) ; dans la liste « Matériaux » d'un plan, un clic puis un 2e clic sur un bloc le retire du plan (l'ancienne version est gardée). Plans hangar, central et aile corrigés : ventilations, panneaux noirs et caillebotis posés dans le bon sens. PackForge Assembly 0.41.7 : l'unité de procédés chimiques (Distillation…) s'améliore comme les autres blocs (jusqu'à x5, pièce moteur) et partage son énergie avec les machines collées.",
+   "changelog_en": "PackForge Architect 0.2.9: a broken Site Chest keeps all its contents (move it without emptying it, sites find it again); in a plan's Materials list, click a block twice to remove it from the plan (the previous version is kept). Hangar, central and wing plans fixed: vents, black panels and gratings now face the right way. PackForge Assembly 0.41.7: the chemical processing unit (Distillation…) can be upgraded like other blocks (up to x5, motor part) and shares its energy with adjacent machines.",
+   "date": "2026-11-23T13:22:13+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
