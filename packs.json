@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.47",
+   "version": "1.0.48",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Correctif : le serveur ne démarrait plus (recettes de four en double avec EnderIO) ; les recettes de four reviennent d'origine (Almost Unified les unifie déjà).",
-   "changelog_en": "Hotfix: the server could not start (furnace recipes duplicated with EnderIO); furnace recipes are back to their originals (Almost Unified already unifies them).",
-   "date": "2026-11-23T22:58:33+00:00",
+   "changelog": "Correctif : le serveur ne démarrait plus (recettes du four EnderIO en double) ; corrigé.",
+   "changelog_en": "Hotfix: the server could not start (duplicated EnderIO furnace recipes); fixed.",
+   "date": "2026-11-23T23:02:19+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
