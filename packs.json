@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.44",
+   "version": "1.0.45",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "PackForge Architect 0.2.10 : Maj + clic pose une grille ou un caillebotis à fleur de la face regardée (boucher une ouverture, un caniveau) ; « Mettre à jour les copies » remplace aussi les blocs changés en survie (les anciens vont au coffre de chantier). Plans hangar, central et aile (version 2) : caillebotis à fleur du sol.",
-   "changelog_en": "PackForge Architect 0.2.10: Shift + click places a vent or grating flush with the face you look at (fill an opening or a gutter); 'Update copies' now also replaces changed blocks in survival (old ones go to the site chest). Hangar, central and wing plans (version 2): gratings flush with the ground.",
-   "date": "2026-11-23T13:55:39+00:00",
+   "changelog": "PackForge Architect 0.2.11 : grilles, panneaux et caillebotis se posent où on veut avec un aperçu fantôme ; Alt + molette choisit la pose (sur la face visée, à l'autre bout de la case, derrière le bloc visé), Ctrl + molette les fait tourner. Productive Bees : les combs (Draconic…) ne se transforment plus en honeycomb ; 9 Draconic Dust donnent bien le Draconic Chunk.",
+   "changelog_en": "PackForge Architect 0.2.11: vents, panels and gratings can be placed anywhere with a ghost preview; Alt + scroll picks the placement (on the aimed face, far side of the cell, behind the aimed block), Ctrl + scroll rotates them. Productive Bees: combs (Draconic...) no longer turn into honeycomb; 9 Draconic Dust now give the Draconic Chunk.",
+   "date": "2026-11-23T18:37:37+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
