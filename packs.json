@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.46",
+   "version": "1.0.47",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Recettes corrigées après l'unification : celles qui demandaient un objet en double (plastique de PneumaticCraft pour les circuits de la Pressure Chamber, titane, caoutchouc, antimoine, poudres…) prennent maintenant l'objet unifié qu'on obtient vraiment (294 recettes).",
-   "changelog_en": "Recipes fixed after unification: those asking for a duplicate item (PneumaticCraft plastic for the Pressure Chamber circuits, titanium, rubber, antimony, dusts...) now take the unified item you actually get (294 recipes).",
-   "date": "2026-11-23T22:34:40+00:00",
+   "changelog": "Correctif : le serveur ne démarrait plus (recettes de four en double avec EnderIO) ; les recettes de four reviennent d'origine (Almost Unified les unifie déjà).",
+   "changelog_en": "Hotfix: the server could not start (furnace recipes duplicated with EnderIO); furnace recipes are back to their originals (Almost Unified already unifies them).",
+   "date": "2026-11-23T22:58:33+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
