@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.41",
+   "version": "1.0.42",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "La Draconic Bee revient (Productive Bees) : nid d'obsidienne draconique dans l'End, rayons draconiques, draconic dust et œuf de dragon inactif de nouveau fabricables.",
-   "changelog_en": "The Draconic Bee is back (Productive Bees): draconic obsidian nest in the End, draconic combs, draconic dust and inactive dragon egg craftable again.",
-   "date": "2026-11-23T08:12:10+00:00",
+   "changelog": "PackForge Architect 0.2.8 : « Arrêter » un chantier (menu ou /pfbuilder cancel) garde maintenant tout ce qui est construit ; les chantiers posent 10 fois plus vite (100 blocs/s). PackForge Assembly 0.41.6 : dans l'unité de procédés chimiques, le mode qui transforme l'eau lourde en deutérium s'appelle « Deutérium » (l'eau lourde se fait en mode Distillation, depuis l'eau enrichie pompe + filtre isotopique).",
+   "changelog_en": "PackForge Architect 0.2.8: 'Stop' on a construction site (menu or /pfbuilder cancel) now keeps everything already built; sites build 10 times faster (100 blocks/s). PackForge Assembly 0.41.6: in the Process Chemistry Unit, the mode that turns heavy water into deuterium is now called 'Deuterium' (heavy water is made in Distillation mode, from pump + isotope filter enriched water).",
+   "date": "2026-11-23T08:29:25+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
