@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.49",
+   "version": "1.0.50",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "- Poudre de chrome et lingot d'acier inoxydable de Colossal Reactors : les machines donnent directement ceux de Modern Industrialization (plus de blocage).\n- Jarres (PackForge Farms 0.2.17) : les Vitriol Berries et les baies lumineuses donnent leur récolte.",
-   "changelog_en": "- Colossal Reactors chromium dust and stainless steel ingot: machines now output the Modern Industrialization ones directly (no more blocking).\n- Jars (PackForge Farms 0.2.17): Vitriol Berries and glow berries now give their harvest.",
-   "date": "2026-11-24T15:37:07+00:00",
+   "changelog": "- Poudre de chrome et lingot d'acier inoxydable : Modern Industrialization forcé comme version unique (correction de la 1.0.49).",
+   "changelog_en": "- Chromium dust and stainless steel ingot: Modern Industrialization forced as the single version (fix for 1.0.49).",
+   "date": "2026-11-24T20:25:09+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
