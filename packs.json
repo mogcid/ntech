@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.52",
+   "version": "1.0.53",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Domaine paisible : le Wither (et les autres boss) n'est plus retiré quand on l'invoque.",
-   "changelog_en": "Peaceful domain: the Wither (and other bosses) is no longer removed when summoned.",
-   "date": "2026-11-25T09:45:36+00:00",
+   "changelog": "Machines formées de niveau III de nouveau visibles (Sodium/Iris) ; liquides affichés en liquide dans l'écran des recettes ; la Dreadful Dirt fait apparaître des monstres dans un domaine paisible.",
+   "changelog_en": "Tier III formed machines visible again (Sodium/Iris); fluids shown as fluids in the recipe screen; Dreadful Dirt spawns mobs in peaceful domains.",
+   "date": "2026-11-25T14:06:21+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
