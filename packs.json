@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.54",
+   "version": "1.0.55",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Correctif : Assembly revient en 0.41.7 (la 1.0.53 ne démarrait pas).",
-   "changelog_en": "Hotfix: Assembly back to 0.41.7 (1.0.53 did not start).",
-   "date": "2026-11-25T14:10:43+00:00",
+   "changelog": "Expert : le Printed Silicon (Pressure Chamber) et les processeurs/contrôleur Refined Storage acceptent tous les siliciums (tag c:silicon).",
+   "changelog_en": "Expert: Printed Silicon (Pressure Chamber) and Refined Storage processors/controller accept any silicon (c:silicon tag).",
+   "date": "2026-11-25T14:57:37+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
