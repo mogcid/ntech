@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.62",
+   "version": "1.0.63",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "NauTec : le cristal de prismarine se fabrique au mélangeur Create (super-chauffé) pour le poser dans son domaine ; sable de prismarine dans la pierre du monde de minage (nouveaux chunks). Compresseur solaire PneumaticCraft : ne casse plus en surchauffe.",
-   "changelog_en": "NauTec: the Prismarine Crystal can now be made in a Create mixer (superheated) and placed in your domain; prismarine sand now generates in stone in the mining world (new chunks). PneumaticCraft Solar Compressor no longer breaks when overheating.",
-   "date": "2026-11-26T08:36:26+00:00",
+   "changelog": "Correctifs : on peut décoller vers la Lune et les autres planètes depuis son domaine (avant, le joueur restait bloqué en vol et perdait sa fusée). Le cristal de prismarine NauTec se pose maintenant sous un plafond : il lui faut seulement sa vraie hauteur (6 blocs) au lieu d'environ 10 blocs d'air.",
+   "changelog_en": "Fixes: you can now launch to the Moon and other planets from your domain (before, the player got stuck flying and lost the rocket). The NauTec prismarine crystal can now be placed under a ceiling: it only needs its real height (6 blocks) instead of about 10 blocks of air.",
+   "date": "2026-11-26T14:12:35+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
