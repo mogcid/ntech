@@ -55,14 +55,14 @@
   {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
-   "version": "1.0.61",
+   "version": "1.0.62",
    "mc": "1.21.1",
    "summary": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "about": "Technologie, magie et exploration : construis, automatise et explore un univers de possibilités, en solo ou entre amis.",
    "manifest": "packs/n-tech-modiverse.json",
-   "changelog": "Dense Smart Cables : la recette PneumaticCraft passe au programme Drill (le programme Laser s'arrête aux Smart Cables).",
-   "changelog_en": "Dense Smart Cables: the PneumaticCraft recipe now uses the Drill program (the Laser program stops at Smart Cables).",
-   "date": "2026-11-25T21:24:42+00:00",
+   "changelog": "NauTec : le cristal de prismarine se fabrique au mélangeur Create (super-chauffé) pour le poser dans son domaine ; sable de prismarine dans la pierre du monde de minage (nouveaux chunks). Compresseur solaire PneumaticCraft : ne casse plus en surchauffe.",
+   "changelog_en": "NauTec: the Prismarine Crystal can now be made in a Create mixer (superheated) and placed in your domain; prismarine sand now generates in stone in the mining world (new chunks). PneumaticCraft Solar Compressor no longer breaks when overheating.",
+   "date": "2026-11-26T08:36:26+00:00",
    "server": "135.125.189.10:25569"
   }
  ],
