@@ -40,19 +40,6 @@
    "server": "135.125.189.10"
   },
   {
-   "slug": "n-tech-rockblock-3",
-   "name": "N-Tech RockBlock 4",
-   "version": "1.0.32",
-   "mc": "1.21.1",
-   "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
-   "about": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre. Depuis votre salle de départ souterraine, creusez votre espace, obtenez vos premières ressources et transformez votre refuge en un vaste complexe automatisé.\nAvec 2 025 quêtes réparties dans 57 chapitres, l’aventure vous accompagne des premiers outils aux technologies les plus avancées. Le livre de quêtes est disponible en français et en anglais : un bouton intégré permet de passer du français à l’anglais et inversement, à tout moment.\nDéveloppez votre production grâce à plusieurs systèmes personnalisés complémentaires :\n• 153 types de graines pour cultiver une grande variété de ressources.\n• 189 types de cristaux pour exploiter la croissance cristalline.\n• 97 abeilles personnalisées, en complément de celles des mods, pour développer votre production apicole.\n• 129 statues productives à l’effigie de créatures et de boss, qui décorent votre base tout en générant régulièrement les ressources et objets qui leur sont associés.\nL’automatisation est au cœur de votre progression. Construisez des mécanismes avec Create, développez vos chaînes industrielles avec Mekanism, Immersive Engineering, Modern Industrialization et Industrial Foregoing, puis centralisez votre stockage et vos fabrications avec Applied Energistics 2. Produisez votre énergie, reliez vos machines et optimisez chaque étape de votre usine.\nLa magie enrichit également l’aventure avec Ars Nouveau, EvilCraft et Forbidden Arcanus. Combinez sortilèges et technologies, améliorez votre équipement et poursuivez votre progression vers les installations avancées de Draconic Evolution et les fabrications d’Extended Crafting.\nDe nombreux outils de construction, sacs à dos et systèmes de transport vous permettent d’aménager votre base selon vos envies. Du petit atelier aux immenses salles industrielles, chaque bloc creusé ouvre la voie à de nouveaux projets.\nPoursuivez l’aventure d’Azuria RockBlock 3 : creusez, cultivez, collectionnez et automatisez pour bâtir votre empire au cœur de la pierre !",
-   "manifest": "packs/n-tech-rockblock-3.json",
-   "changelog": "- Nouvelle graine Arcane Crystal : mutation Améthyste + Source (8 essences = 2 Arcane Crystals).\n- Minerai d'Arcane Crystal dans le monde de minage (Allthemodium Mining, couche de pierre, y 130 à 240).\n- Quête « Graines & mutations » : n'est plus optionnelle (corrige la Maîtrise : Graines qui restait bloquée).\n- Functional Storage : Max Storage Upgrade disponible chez le Gardien.",
-   "changelog_en": "- New Arcane Crystal seed: Amethyst + Source mutation (8 essences = 2 Arcane Crystals).\n- Arcane Crystal ore in the Mining dimension (Allthemodium Mining, stone layer, y 130 to 240).\n- \"Graines & mutations\" quest is no longer optional (fixes Mastery: Seeds staying locked).\n- Functional Storage: Max Storage Upgrade available from the Keeper.",
-   "date": "2026-11-14T08:10:29+00:00",
-   "server": "135.125.189.10:25567"
-  },
-  {
    "slug": "n-tech-modiverse",
    "name": "N-Tech Modiverse",
    "version": "1.0.63",
@@ -64,6 +51,19 @@
    "changelog_en": "Fixes: you can now launch to the Moon and other planets from your domain (before, the player got stuck flying and lost the rocket). The NauTec prismarine crystal can now be placed under a ceiling: it only needs its real height (6 blocks) instead of about 10 blocks of air.",
    "date": "2026-11-26T14:12:35+00:00",
    "server": "135.125.189.10:25569"
+  },
+  {
+   "slug": "n-tech-rockblock-3",
+   "name": "N-Tech RockBlock 4",
+   "version": "1.0.33",
+   "mc": "1.21.1",
+   "summary": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre.",
+   "about": "N-Tech RockBlock 4 est la suite d’Azuria RockBlock 3, un modpack Minecraft 1.21.1 sous NeoForge qui vous plonge dans un monde entièrement composé de pierre. Depuis votre salle de départ souterraine, creusez votre espace, obtenez vos premières ressources et transformez votre refuge en un vaste complexe automatisé.\nAvec 2 025 quêtes réparties dans 57 chapitres, l’aventure vous accompagne des premiers outils aux technologies les plus avancées. Le livre de quêtes est disponible en français et en anglais : un bouton intégré permet de passer du français à l’anglais et inversement, à tout moment.\nDéveloppez votre production grâce à plusieurs systèmes personnalisés complémentaires :\n• 153 types de graines pour cultiver une grande variété de ressources.\n• 189 types de cristaux pour exploiter la croissance cristalline.\n• 97 abeilles personnalisées, en complément de celles des mods, pour développer votre production apicole.\n• 129 statues productives à l’effigie de créatures et de boss, qui décorent votre base tout en générant régulièrement les ressources et objets qui leur sont associés.\nL’automatisation est au cœur de votre progression. Construisez des mécanismes avec Create, développez vos chaînes industrielles avec Mekanism, Immersive Engineering, Modern Industrialization et Industrial Foregoing, puis centralisez votre stockage et vos fabrications avec Applied Energistics 2. Produisez votre énergie, reliez vos machines et optimisez chaque étape de votre usine.\nLa magie enrichit également l’aventure avec Ars Nouveau, EvilCraft et Forbidden Arcanus. Combinez sortilèges et technologies, améliorez votre équipement et poursuivez votre progression vers les installations avancées de Draconic Evolution et les fabrications d’Extended Crafting.\nDe nombreux outils de construction, sacs à dos et systèmes de transport vous permettent d’aménager votre base selon vos envies. Du petit atelier aux immenses salles industrielles, chaque bloc creusé ouvre la voie à de nouveaux projets.\nPoursuivez l’aventure d’Azuria RockBlock 3 : creusez, cultivez, collectionnez et automatisez pour bâtir votre empire au cœur de la pierre !",
+   "manifest": "packs/n-tech-rockblock-3.json",
+   "changelog": "Minerai de naquadah ajouté dans la dimension de minage (y 70-240) : le naquadah était introuvable, ce qui bloquait le cristal et l'abeille naquadah.",
+   "changelog_en": "Naquadah ore added to the Mining dimension (y 70-240): naquadah had no source, which blocked the naquadah crystal and bee.",
+   "date": "2026-11-28T07:05:25+00:00",
+   "server": "135.125.189.10:25567"
   }
  ],
  "launcher": {
